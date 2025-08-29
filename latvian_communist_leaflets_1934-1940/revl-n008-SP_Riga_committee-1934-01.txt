@@ -1,7 +1,7 @@
 id: 8
 file_name: revl-n008-SP_Riga_committee-1934-01.txt
 title: Latvijas Sarkanās Palīdzības Rīgas komitejas lapiņa LKJS CK sekretāra E. Smiltēna piemiņai
-author: Sarkanās Palīdzības Rīgas komiteja
+author: Latvijas Sarkanās Palīdzības Rīgas komiteja
 date: 1934-01
 print_run: ?
 typography_name: «Sarkanās Palīdzības» spiestuve
@@ -12,4 +12,5 @@ text:
 21. janvārī 1933. g. Rīgā, Pārdaugavā, tika no policistiem nošauts strādnieks Smiltēns. «Bēgot nošauts» — tā paskaidroja policija, tā rakstīja avīzes. To pašu mēs lasījām avīzē arī 6. janvārī pagājušā gadā par Fr. Gaili, kuru zvēriski noslepkavoja politpārvaldē. «Bēgot nošauts» arī tika divus mēnešus atpakaļ strādnieku jauneklis Daugavpilī.
 Biedri, pēc gada fašisma valdīšanas Vācijā mēs labi zinām, ko nozīmē «bēgot nošauts»; pēc simtiem un tūkstošiem «bēgot nošautiem» strādniekiem Vācijā neviens netic fašistu slepkavām. Visi zin, ka asiņainā terora upuri ir miruši ar lodi krūtīs, bet ne mugurā.
 Biedri, pieminēsim Smiltēnu, neaizmirsīsim visus citus neskaitāmos mūsu cīņas varoņus un upurus. Bet, biedri, pieminēsim ne vārdiem, bet ar tālāko neatlaidīgo cīņu. Tādu cīņu, kas Latvijā iznīcinās uz visu mūžu fašistu slepkavas.
+
 Sarkanās Palīdzības Rīgas komiteja

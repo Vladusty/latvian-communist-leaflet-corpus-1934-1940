@@ -1,7 +1,7 @@
 id: 22
 file_name: revl-n022-SP_Riga_committee-[…1934-03-18].txt
 title: Latvijas Sarkanās Palīdzības Rīgas komitejas lapiņa Parīzes Komūnas atceres dienai, ar aicinājumu cīnīties pret fašisma draudiem
-author: Sarkanās Palīdzības Rīgas komiteja 
+author: Latvijas Sarkanās Palīdzības Rīgas komiteja 
 date: […1934-03-18]
 print_run: ?
 typography_name: «Sarkanās Palīdzības» spiestuve

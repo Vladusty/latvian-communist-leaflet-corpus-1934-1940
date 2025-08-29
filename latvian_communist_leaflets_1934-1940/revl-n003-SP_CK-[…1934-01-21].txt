@@ -1,7 +1,7 @@
 id: 3
 file_name: revl-n003-SP_CK-[…1934-01-21].txt
 title: Latvijas Sarkanās Palīdzības CK lapiņa, kas veltīta V. I. Ļeņina, K. Lībknehta un R. Luksemburgas piemiņai, ar aicinājumu darbaļaudīm cīnīties pret fašisma draudiem un palīdzēt politieslodzītajiem
-author: LKP kareivju organizācija
+author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: […1934-01-21]
 print_run: ?
 typography_name: «Sarkanās Palīdzības» spiestuve
@@ -33,4 +33,5 @@ Lai dzīvo strādnieku-zemnieku valsts Padomju Savienība!
 Nost s.-d. līderus, fašistu sulaiņus!
 Nost atklātos fašistus, strādniecības slepkavotājus!
 Nost maskotos fašistus, bļodniekus, ulmaņus, kas Latvijas darba tautu grib pārdot Hitlera baroniem!
+
 Latvijas Sarkanās Palīdzības Centrālā Komiteja

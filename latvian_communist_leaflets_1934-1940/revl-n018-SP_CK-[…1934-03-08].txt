@@ -1,7 +1,7 @@
 id: 18
 file_name: revl-n018-SP_CK-[…1934-03-08].txt
 title: Latvijas Sarkanās Palīdzības CK lapiņa par Starptautisko sieviešu dienu, ar aicinājumu darba sievietēm palīdzēt politieslodzītajiem un viņu ģimenēm
-author: Sarkanās Palīdzības Centrālā komiteja
+author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: […1934-03-08]
 print_run: ?
 typography_name: «Sarkanās Palīdzības» spiestuve
@@ -18,4 +18,5 @@ Latvijā darbaļaudis noplūkti līdz pēdējam. Nav darba. Nav maizes. Cietumos
 Buržujiskā valdība grib ar bada režīma ievešanu nomērdēt revolucionāros cīnītājus. Bet mēs, brīvā esošie, nedrīkstam to pielaist. Mums jāprotestē pret šīm varmācībām. Mums jāvāc līdzekļi — nauda, produkti, drēbes, lai palīdzētu cietumos smokošiem biedriem.
 Ļoti daudz šai apgādes darbā var darīt sievietes. Kura darba sieviete nesaprot, cik grūts ir tās ģimenes stāvoklis, kuras vienīgais apgādātājs atrodas cietumā. Kura māte nesapratīs tās mātes cietumos, kuras bērniem jābadojas tamdēļ, ka tēvs smok cietumā vai arī no fašistiem nobendēts.
 Darba sievietes! Latvijas Sarkanā Palīdzība aicina jūs šai darbā. Palīdziet revolucionāriem cīnītājiem cietumos. Atbalstiet viņu ģimenes uz vaļas.
+
 Sarkanā Palīdzība

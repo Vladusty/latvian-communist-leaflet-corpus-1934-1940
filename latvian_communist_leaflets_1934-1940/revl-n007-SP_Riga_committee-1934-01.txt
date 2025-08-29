@@ -1,7 +1,7 @@
 id: 7
 file_name: revl-n007-SP_Riga_committee-1934-01.txt
 title: Latvijas Sarkanās Palīdzības Rīgas komitejas lapiņa par buržuāzijas teroru pret revolucionāro strādniecību, ar aicinājumu darbaļaudīm palīdzēt apcietinātajiem revolucionāriem
-author: Sarkanās Palīdzības Rīgas komiteja
+author: Latvijas Sarkanās Palīdzības Rīgas komiteja
 date: 1934-01
 print_run: ?
 typography_name: «Sarkanās Palīdzības» spiestuve
@@ -19,4 +19,5 @@ Palīdziet apcietinātiem revolucionāriem! Darba sievietes, mātes un sievas! P
 Darba inteliģence! Latvijas fašisms ir tikpat barbarisks un mežonīgs kā ikkatrs fašisms. Latvijas buržuāzija baidās no patiesības un aizliedz viņu. Mēs Latvijā nedrīkstam kritizēt hitleriešus, kas Vāciju plūdina asinīs, kas iznīcina kultūru. Te nedrīkst teikt arī patiesību par mūsu pašu stāvokli: tiem rakstniekiem, kas to darīja, vajadzēja aizbēgt no Latvijas. To cilvēku, kas droši un atklāti stāstīs par teroru Latvijā, par fašismu Latvijā, tiesās [un] tūliņ apcietinās. Ja jūs tiešām gribiet brīvību, tad cīnieties ar reakciju un neaizmirstiet viņas upurus.
 Palīdziet apcietinātiem revolucionāriem!
 Biedri! Jo aktīvāk jūs piedalīsieties Latvijas Sarkanās Palīdzības ziemas kampaņā, kuras [mērķis] ir palīdzēt visiem politiskiem arestētiem un viņu ģimenēm, jo spilgtāk redzēs mūsu biedri aiz restēm, ka viņu cīņa nav bijusi lieka. Ar to jūs viņus stiprināsiet ne tikai materiāli, bet arī morāliski. Jo vairāk jūs ziedosiet apcietinātiem, jo vairāk redzēs buržuāzija, ka viņa var arestēt vienu vai otru, bet nevar iznīcināt proletariāta solidaritāti.
+
 SP Rīgas komiteja

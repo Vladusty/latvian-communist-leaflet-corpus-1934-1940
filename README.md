@@ -1,52 +1,48 @@
-# latvian-communist-leaflet-corpus-1934-1940
+# Latvian Communist Leaflet Corpus (1934–1940)
 
-Corpus of underground leaflets from Latvian communist organizations (1934–1940) compiled for Digital Humanities and historical research.
+## About the Project
 
-This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+The **`latvian-communist-leaflet-corpus-1934-1940`** is a digital collection of underground agitational materials issued by various communist and pro-communist organizations in Latvia from 1934 to 1940. The project's goal is to create a structured and easily accessible body of texts for use in historical research, linguistic analysis, and Digital Humanities projects.
 
-Leaflet Text File Format:
+All texts have been transcribed from the publication: `Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963)`.
 
-1. Dates in Square Brackets:
-   [YYYY-MM-DD…] — not earlier than the specified date
-   […YYYY-MM-DD] — not later than the specified date
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-2. Organization Codes:
-   LKP_LKJS_Vidienas_org — LKP Vidiena organization and LKJS Vidiena organization (LKP Vidienas organizācija un LKJS Vidienas organizācija)
-   LKP_kareivju_org — LKP Military organization (LKP kareivju organizācija)
-   SP_CK — Red Aid Central Committee (Sarkanās Palīdzības Centrālā komiteja)
-   SP_Riga_committee — Red Aid Riga Committee (Sarkanās Palīdzības Rīgas komiteja)
-   LKJS_Riga_committee — LKJS Riga Committee (LKJS Rīgas komiteja)
-   LKP_CK_Sieviesu_centrs — LKP Central Committee Women’s Center (LKP CK Sieviešu centrs)
-   LKP_LKJS_Zemgales_org_Jelgavas_committee — LKP Zemgale Regional Organization Jelgava Committee and LKJS Zemgale Regional Organization Jelgava Committee (LKP Zemgales apgabala organizācijas Jelgavas komiteja un LKJS Zemgales apgabala organizācijas Jelgavas komiteja)
-   LKP_LKJS_Ventspils_committee — LKP Ventspils District Committee and LKJS Ventspils District Committee (LKP Ventspils rajona komiteja un LKJS Ventspils rajona komiteja)
+---
 
-3. File Structure:
-   id — unique identifier
-   file_name — file name
-   title — leaflet title in Latvian, as published in Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963)
-   author — organization(s)
-   date — YYYY-MM-DD if the exact date is known; YYYY-MM if only year and month are known
-   print_run — number of copies printed
-   typography_name — name of the printing house
-   source — source reference in Chicago style
+## Repository Structure
 
-4. Text Content
-   text:
-   (leaflet text)
-   
-5. File Name Format
-   Each file follows this format:
-   revl-n<id_number>-<organization_code>-<date>.txt
+### Main Directories
 
-   revl — abbreviation of Revolucionārās lapiņas, indicating the source publication
-   <id_number> — three-digit serial number, e.g., 001, 004, 123
-   <organization_code> — one of the organization codes listed above
-   <start_date> — earliest possible date of leaflet publication (YYYY-MM-DD)
-   <end_date> — latest possible date of leaflet publication (YYYY-MM-DD or YYYY-MM if only year/month known)
+* **`latvian_communist_leaflets_1934-1940/`**: This is the main directory for the ready-to-use corpus. It currently contains 26 files, with more to be added as the project progresses. Each file represents a single leaflet with structured metadata.
+* **`for_editing/`**: A working directory for the transcription and editing process. It contains `revl-all-LKP_leaflets-1934-1940.docx`, which serves as a staging ground for texts before they are finalized and moved to the main corpus.
 
-   Each file follow this format:
-   revl-n<id_number>-<organization_code>-<date>.txt
-   revl is "Revolucionārās lapiņas" for short to understand from which book it was taken.
-   
-   Example:
-   revl-n005-LKP_CK_LKJS_CK-1934-01.txt
+### File Content
+
+Each text file in the main corpus (`latvian_communist_leaflets_1934-1940/`) follows a consistent structure:
+
+**Metadata**
+* **`id`**: The unique serial number for the leaflet.
+* **`file_name`**: The full file name.
+* **`title`**: The title of the leaflet in Latvian, as found in the source.
+* **`author`**: The full name of the organization(s) responsible for the leaflet.
+* **`date`**: The publication date.
+    * Format: `YYYY-MM-DD` (if the exact date is known) or `YYYY-MM` (if only the month and year are known).
+    * Approximate dates use square brackets: `[YYYY-MM-DD...]` (not earlier than the specified date) or `[...YYYY-MM-DD]` (not later than the specified date).
+* **`print_run`**: The number of copies printed, as recorded in the source.
+* **`typography_name`**: The name of the underground printing house, if known.
+* **`source`**: The bibliographic citation for the source.
+
+**Text Body**
+* **`text:`**: The full, transcribed text of the leaflet.
+
+### File Naming Convention
+
+The files in the main corpus are named using a strict format: `revl-n<id_number>-<organization_code>-<date>.txt`.
+
+* `revl` — Short for `Revolucionārās lapiņas`, indicating the source book.
+* `<id_number>` — A three-digit serial number (e.g., `001`).
+* `<organization_code>` — A code for the issuing organization. A complete list of codes is provided in the `for_editing/` directory.
+* `<date>` — The date of publication.
+
+**Example:** `revl-n002-LKP_kareivju_org-[1934-01-11...].txt`
