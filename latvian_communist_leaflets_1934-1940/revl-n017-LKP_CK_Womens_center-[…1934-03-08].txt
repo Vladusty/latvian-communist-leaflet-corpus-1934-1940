@@ -1,5 +1,5 @@
 id: 17
-file_name: revl-n017-LKP_CK_Sieviesu_centrs-[…1934-03-08].txt
+file_name: revl-n017-LKP_CK_Womens_center-[…1934-03-08].txt
 title: LKP CK Sieviešu centra lapiņa Starptautiskajai sieviešu dienai ar aicinājumu darba sievietēm cīnīties pret karu, par PSRS aizstāvēšanu 
 author: LKP CK Sieviešu centrs
 date: […1934-03-08]

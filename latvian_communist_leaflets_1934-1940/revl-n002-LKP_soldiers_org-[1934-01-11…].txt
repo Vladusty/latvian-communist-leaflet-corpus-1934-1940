@@ -1,5 +1,5 @@
 id: 2
-file_name: revl-n002-LKP_kareivju_org-[1934-01-11…].txt
+file_name: revl-n002-LKP_soldiers_org-[1934-01-11…].txt
 title: No LKP kareivju organizācijas lapiņas ar kareivju prasībām un aicinājumu izdienējušiem kareivjiem. kopā ar revolucionāro strādniecību cīnīties par padomju varu Latvijā
 author: LKP kareivju organizācija
 date: [1934-01-11…]
