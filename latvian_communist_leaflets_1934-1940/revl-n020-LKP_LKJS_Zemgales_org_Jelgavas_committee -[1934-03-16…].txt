@@ -1,7 +1,7 @@
 id: 20
 file_name: revl-n020-LKP_LKJS_Zemgales_org_Jelgavas_committee -[1934-03-16…].txt
 title: LKP un LKJS Zemgales apgabala organizācijas Jelgavas rajona komitejas lapiņa par buržuāzijas teroru pret revolucionāro strādniecību
-author: LKP Zemgales apgabala organizācija; LKJS Zemgales apgabala organizācijas
+author: LKP Zemgales apgabala organizācija un LKJS Zemgales apgabala organizācija
 date: [1934-03-16…]
 print_run: ?
 typography_name: Spartaks

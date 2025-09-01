@@ -1,7 +1,7 @@
 id: 9
 file_name: revl-n009-LKJS_CK-1934-02-10.txt
 title: No LKJS CK uzsaukuma darbaļaudīm piedalīties tautas nobalsošanā par sociāldemokrātu ierosināto likumprojektu par pilnīgu apdrošināšanu bezdarba, darba nespējas un vecuma gadījumā un uzstādīt prasības par bezdarbnieku stāvokļa uzlabošanu
-author: Sarkanās Palīdzības Rīgas komiteja
+author: LKJS CK
 date: 1934-02-10
 print_run: 3000
 typography_name: Spartaks
