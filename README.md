@@ -6,8 +6,6 @@ The **`latvian-communist-leaflet-corpus-1934-1940`** is a digital collection of 
 
 All texts have been transcribed from the publication: `Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963)`.
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
 ---
 
 ## Repository Structure
@@ -46,3 +44,16 @@ The files in the main corpus are named using a strict format: `revl-n<id_number>
 * `<date>` — The date of publication.
 
 **Example:** `revl-n002-LKP_kareivju_org-[1934-01-11...].txt`
+
+---
+
+## License
+
+This work is licensed under a  
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## Author
+
+- **Vladislavs Babaņins**
