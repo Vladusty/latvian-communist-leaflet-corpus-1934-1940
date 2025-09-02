@@ -1,0 +1,19 @@
+id: 56
+file_name: revl-n056-LKP_soldiers_org-1934-07.txt
+title: LKP kareivju organizācijas uzsaukums Daugavpils garnizona kareivjiem prasīt savu biedru atbrīvošanu no koncentrācijas nometnes un cīnīties pret kara gatavošanu un fašismu
+author: LKP kareivju organizācija
+date: 1934-07
+print_run: ?
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 123–124.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+DAUGAVPILS GARNIZONA KAREIVJIEM!
+KONCENTRĀCIJAS NOMETNE KAREIVJIEM IR KARA TUVOŠANĀS PAZĪME!
+Biedri kareivji! Fašisti atbruņoja un ieslēdza sevišķā nometnē pāri 65 Daugavpils garnizona kareivju. Tas ir svarīgākais solis uz kara sagatavošanu, tas nozīmē, ka karš var sākties jebkurā dienā, ne velti tādas pašas nometnes pašlaik steidzīgi iekārtotas Polijā un Japānā. Tas norāda, ka karš tiek gatavots tieši pret Padomju Krieviju. Viņi tagad izbūvēja koncentrācijas nometni kareivjiem, lai apspiestu revolucionāro darbību armijā, lai izolētu apzinīgākos kareivjus, kas atvieglotu viņiem aizsūtīt citus kareivjus uz slaktiņu; viņi grib karu, lai glābtu savu bojā ejošo iekārtu visā pasaulē (sevišķi Vācijā). Bet par velti viņu asiņainie nodomi un fašistiskie aprēķini!
+Revolucionārā darbība armijā nepārtrauksies. Daugavpils garnizona [kareivji] turpina savu cīņu par ēdināšanas un ārstēšanas uzlabošanu, pret fašistisko terora režīmu armijā. Un, ja fašisti mūs aizsūtīs uz karu pret SPRS, mēs labi zināsim, ka šis karš nav nacionāls, bet šķiru karš — visu zemju kapitālistu un fašistu karš pret visu zemju darba tautu. Mūsu fronte ir sarkanā fronte, mūsu armija — Sarkanā Armija, ar kuru vienoti kopā satrieksim izsūcēju varu un nodibināsim patiesi brīvu sociāli un nacionāli atbrīvotu Padomju Latviju. Lai fašisti zin, ka buržujisko karu mēs padarīsim par pilsoņu karu pret buržujiem.
+Kareivji, 1. augustā, 1914. g. pasaules slaktiņa sākšanās dienā, mēs saucam — visi vienotā frontē uz cīņu pret intervenci un kapitālistu karu! Pret fašismu! Par SPRS aizstāvēšanu! Nost ar kara gatavošanu! Nost koncentrācijas nometnes! Tūliņ atsvabināt mūsu biedrus — kareivjus, ieslodzītus nometnē! Atsvabināt strādnieku un zemnieku frakciju un visus pretfašistus.
+Lai dzīvo 1. augusts — Vispasaules cīņas diena pret karu un pret fašismu!
+
+LKP kareivju organizācija
