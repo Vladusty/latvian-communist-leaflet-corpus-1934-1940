@@ -1,0 +1,23 @@
+id: 54
+file_name: revl-n054-United_antifascist_committee-1934-07.txt
+title: Vienotās pretfašisma cīņas komitejas lapiņa ar brīdinājumu strādniekiem sargāties no politpārvaldes provokatoriem un ar aicinājumu meklēt ceļu uz Latvijas Komunistiskās partijas rindām
+author: Vienotās pretfašisma cīņas komiteja
+date: 1934-07
+print_run: ?
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 121–122.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BRĪDINĀJUMS STRĀDNIECĪBAI!
+Biedri! Bijušie s.-d. un neorganizētie strādnieki! 15. maija fašistiskais apvērsums uzstādīja jums nopietnu jautājumu: ka vest izšķirošo cīņu ar reakciju un fašismu? Un jūs nonākiet pie vienīgās atziņas: tikai kopā ar kreiso strādniecību, ar LKP. Vienīgi LKP vesta cīņas līnija ir pareiza, tā ved proletariātu pie viņa varas — proletariāta diktatūras, bet nevis demokrātija, kas iegrūž darbaļaudis fašistu rokās.
+Tagad bijušie sociāldemokrātiskie un neorganizētie strādnieki meklē ceļu uz KP rindām. Bet KP darbojas nelegāli — jūs nevariet pārliecināties, vai cilvēki, ar kuriem tiek vestas sarunas, ir tiešām KP vai Vienotas [pretfašisma] cīņas komitejas locekļi.
+Biedri! Šo stāvokli izmantojusi politizspiedze. Politpārvaldes aģenti strādā KP un Vienotas [pretfašisma] cīņas komitejas vārdā — viņi pat nodibinājuši savu centrālkomiteju, kura darbojas Pēc Alberta ielas norādījumiem.
+Biedri strādnieki! Šo politpārvaldes darbu organizē un vada agrākās «Darba savienības», «Jaunās Dienas» un «Jaunās Dzīves» baumaņi, ločmeļi u. c.
+Jau pirms fašistiskā apvērsuma kreisā strādniecība atmaskoja šos provokatorus, bet jaunais režīms dod tiem iespēju jo plaši darboties. Tā daudzi bijušie s.-d. partijas biedri, vienotās frontes meklētāji, nokļuvuši aģentūras rokās.
+Strādnieki! Esiet uzmanīgi! Sargieties provokācijas! Neklausiet Baumaņa un Co aicinājumiem — tos diktē Alberta iela! Atmaskojiet šos nodevīgos neģēļus!
+Ziņojiet citiem to personu vārdus, kuras darbojas provokatoru uzdevumā. Stājieties vienīgi sakaros ar LKP Vienotas frontes pretfašisma cīņas komiteju!
+Lai dzīvo proletāriskā revolūcija! Lai dzīvo Vienotā pretfašisma ciņas komiteja!
+Lai dzīvo Padomju Latvija! Lai dzīvo LKP!
+
+Vienotā pretfašisma cīņas komiteja
