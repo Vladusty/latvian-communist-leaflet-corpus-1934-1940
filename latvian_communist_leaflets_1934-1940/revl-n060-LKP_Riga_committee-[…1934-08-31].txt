@@ -1,0 +1,25 @@
+id: 60
+file_name: revl-n060-LKP_Riga_committee-[…1934-08-31].txt
+title: LKP Rīgas komitejas lapiņa par Rīgas pilsētas pašvaldības lēmumu maksāt angļu Lazaru bankai cara laiku parādus, ar aicinājumu pret maksāšanu
+author: LKP Rīgas komiteja
+date: […1934-08-31]
+print_run: 4000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 132–133.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+PRET FASISTISKĀS RĪGAS PILSĒTAS PASVALDĪBAS NODEVĪBU UN DARBAĻAUŽU APLAUPĪSANU!
+Ulmaņa fašistiskā diktatūra likvidēja tautas vēlētās pašvaldības. Vēlēto pilnvarnieku un pilsētu amatpersonu vietā iecelti fašisti, aizsargi, virsnieki, Zemnieku savienības un berģistu uzticības vīri. Tas nepieciešams, lai izvestu pilnīgu pilsētu saimniecību militarizāciju pēc Vakareiropas valstu parauga, lai sagatavotu pašvaldības nākamam karam, lai konsekventi izvestu darbaļaužu izlaupīšanas politiku. Zem korupcijas un onkuļu būšanas apkarošanas maskas fašisti izved vēl nedzirdētu korupciju.
+Viens loceklis gatavojamā korupcijas ķēdē jau izvests līdz galam. Izmantojot savu neaprobežoto varu, fašistiskā Rīgas pilsētas pašvaldība kopā ar valdību panākusi vienošanos ar Lazaru banku par cara valdības ietaisīto parādu maksāšanu. Pret šā ietaisītā parāda maksāšanu, kura summas tika no cariskās valdības izlietotas imperiālistiskā kara vajadzībām, darba tautas apslaktēšanas vajadzībām, Latvijas proletariāts jau 15 gadus ved neatlaidīgu cīņu. Tagad nodevīgā kārtā Rīgas pilsētas pašvaldība uzveļ Rīgas darba tautai kaklā jaunu smagu nastu Ls 12000000 (12 milj.) apmērā. Tas iztaisa pāri par Ls 30 uz katru Rīgas pilsētas iedzīvotāju, zīdaiņus un sirmgalvjus ieskaitot.
+Tā ir vislielākā korupcija, darba tautas un valsts nodevība, pārdošanās svešas tautas kapitālistu interesēm. Nav ne mazāko šaubu, ka krietnas summas no maksājamā parāda ieripojušas Ulmaņa un Celmiņa kabatās (arī citu fašistu). Ar valsts nodevību tie pērk ārzemju imperiālistu simpātijas un atbalstu.
+Lieta kļūst vēl interesantāka, ja ņemam vērā, ka parādu zīmju turētāji ir pa lielākai daļai vietējie vācu baroni, lielkapitālisti un, pirms līguma noslēgšanas, arī tagadējie fašistu varasvīri. 
+Mēs aicinām visus Rīgas pilsētas strādniekus, amatniekus, nomaļniekus, ierēdņus protestēt pret fašistiskās Rīgas pilsētas pašvaldības nodevību! Pret cariskās valdības ietaisīto un kara vajadzībām izlietoto parādu nastu uzvelšanu darba tautai angļu un vācu imperiālistu interesēs. Krievijas Padomju valdība ar 1920. g. Miera līgumu ir uzņēmusies uz sevis visas saistības, kas izrietējušas no pirmskara parādiem, un darba tautas interesēs atsacījusies maksāt. 
+Tikai angļu un vācu algoti aģenti, kā ulmaņi un celmiņi, var, balstoties uz savām bruņotām bandām, ķerties pie šo summu piedzīšanas. Tā ir klaja tautas nodevība!
+Aicinām visu darba tautu pret to uz visnoteiktāko protestēt!
+Pret Lazaru bankas parāda maksāšanu!
+Nost fašistisko Ulmaņa diktatūru!
+Nost imperiālistiskā kara gatavotājus!
+Lai dzīvo pretkara cīņa! Par Padomju Latviju!
+
+Latv. komunistu partijas Rīgas komiteja
