@@ -1,0 +1,21 @@
+id: 51
+file_name: revl-n051-LKP_Riga_committee-1934-07.txt
+title: LKP Rīgas komitejas aicinājums strādniekiem atzīmēt Starptautisko pretkara dienu ar cīņas pastiprināšanu pret karu un fašismu
+author: LKP Rīgas komiteja
+date: 1934-07
+print_run: 3000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 116.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI UN STRĀDNIECES!
+1. augusts ir visu zemju darbaļaužu cīņas diena pret imperiālistiskiem kariem un kontrrevolucionāro intervenci. Nepielaidīsim jaunu darbaļaužu masu slepkavošanu un brāļu karu pret SPRS!
+Darba jaunieši, jūs dresē un gatavo lielgabalu gaļai jaunā imperiālistiskā pasaules karā. Topiet par kaujas gvardi revolucionārās pretkara cīņas pirmajās rindās! 
+Karam sākoties, vērsīsim ieročus pret pašu buržuāziju, par Padomju Latviju! 
+Nost Ulmaņa fašistisko valdību! Lai dzīvo 1. augusts! 
+Lai dzīvo vienota cīņas fronte pret karu un fašismu! 
+Lai dzīvo SPRS — visu zemju darbaļaužu vienīgā īstā tēvijā! 
+Lai dzīvo Padomju Latvija!
+
+LKP Rīgas komiteja
