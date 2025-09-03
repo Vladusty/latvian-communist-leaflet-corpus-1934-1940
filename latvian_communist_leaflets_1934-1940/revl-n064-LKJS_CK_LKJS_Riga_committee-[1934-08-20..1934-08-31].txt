@@ -1,5 +1,5 @@
 id: 64
-file_name: revl-n064- LKJS_CK_LKJS_Riga_committee-[1934-08-20..1934-08-31].txt
+file_name: revl-n064-LKJS_CK_LKJS_Riga_committee-[1934-08-20..1934-08-31].txt
 title: LKJS CK un LKJS Rīgas komitejas aicinājums Rīgas darba jaunatnei atzīmēt Starptautisko jaunatnes dienu ar streikiem, demonstrācijām un skrejošiem mītiņiem
 author: LKJS CK un LKJS Rīgas komiteja
 date: [1934-08-20..1934-08-31]
