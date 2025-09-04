@@ -1,0 +1,17 @@
+id: 70
+file_name: revl-n070-LKP_Riga_committee-[…1934-09-03].txt
+title: LKP Rīgas komitejas lapiņa, kas brīdina strādniekus sargāties no provokatoriem
+author: LKP Rīgas komiteja
+date: […1934-09-03]
+print_run: 1500
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 149–150.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+STRĀDNIEKI, SARGIETIES NO PROVOKATORIEM!
+Fašistiskā reakcija pieliek visus spēkus, lai jauktu strādnieku šķiras vienību. Viņa mēģina iešmugulēt strādnieku rindās savus atklātus un maskētus aģentus. Strādniecības uzdevums ir tos atmaskot un izsviest no sava vidus. Nesen mēs darījām strādniecībai zināmus divus tādus tipus no bijušo s.-d. strādnieku vidus — Rusmani un Pakalnu. Tagad starp Pārdaugavas s.-d. strādniekiem ir uzklīduši par jaunu divi strādniecības darbinieki — kāds Rūdolis Nātriņš, kuru jau vairākus gadus atpakaļ kreisā strādniecība izmeta no savām rindām, un kāds armijas virsnieks. Sakoties strādājot Kompartijas uzdevumā, tie mēģina iespiesties strādnieku rindās, tai pašā laikā izplatīdami vislielākās tenkas par LKP. Pirmais no viņiem, būdams kareivis, atrodas dīvainā kārtā vairāku mēnešu atvaļinājumā, kas, acīm redzot, no armijas vadības tam piešķirts, lai strādātu armijas informācijas nodaļas uzdevumā. 
+Mēs kategoriski paziņojam, ka Rūdolfam Nātriņam un minētajam virsniekam nav nekā kopēja ar LKP, un brīdinām strādniekus neielaisties jebkādās darīšanās ar šiem tipiem!
+Sargieties no provokatoriem!
+
+Latv. Kom. partijas Rīgas komiteja
