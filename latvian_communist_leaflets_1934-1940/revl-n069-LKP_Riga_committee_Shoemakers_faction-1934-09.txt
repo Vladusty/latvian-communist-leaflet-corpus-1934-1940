@@ -1,0 +1,20 @@
+id: 69
+file_name: revl-n069-LKP_Riga_committee_Shoemakers_faction-1934-09.txt
+title: LKP Rīgas komitejas apavnieku frakcijas aicinājums Latvijas Sociālistiskās strādnieku-zemnieku partijas un bijušo sociāldemokrātisko arodbiedrību biedriem gatavoties vispārējam apavnieku streikam
+author: LKP Rīgas komitejas apavnieku frakcija
+date: 1934-09
+print_run: ?
+typography_name: ?
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 148–149.
+
+text:
+LKP RĪGAS KOMITEJAS UN APAVNIEKU FRAKCIJAS PRIEKSLIKUMS SOCIĀLISTISKAI STRĀDNIEKU UN ZEMNIEKU PARTIJAI UN BIJUŠO S.-D. APAVNIEKU UN VIRSU TAISĪTĀJU ARODBIEDRĪBU BIEDRIEM
+Atzīstot par nepieciešamu vest cīņu par tūlītēju apavniecībā nodarbināto strādnieku stāvokļa uzlabošanu, liekam jums priekšā:
+1. Vest kopēju cīņu par 1933. g. streikā izcīnītā algu tarifa atjaunošanu apavrūpniecībā. 
+2. Šī mērķa sasniegšanai organizēt un izvest kopēju streiku, izbīdot kopēju streika sagatavošanas komiteju un dibinot kopējas cīņas komitejas uz vietām (darba vietās). 
+3. Sasaukt kopējas darba vietu pārstāvju apspriedes, skrejošus mītiņus, masu sapulces, izdot kopēju literatūru. 
+4. Vest cīņu par slēgto arodbiedrību atjaunošanu un legalizēšanu, šī mērķa sasniegšanai vispirms ķeroties pie slēgto arodbiedrību biedru un pārējo strādnieku apvienošanas kopējās arodgrupās pa darba vietām, ar kopīgi vēlētām arodbiedrību valdēm. 
+5. Vest kopēju cīņu pret strādnieku organizāciju līdzekļu izlaupīšanu un izsaimniekošanu, pret slimokasu izsaimniekošanu, par valdības komisāru izmešanu no strādnieku organizācijām un slimokasēm. 
+6. Par šī līguma pildīšanas laiku abas puses apņemas atturēties no savstarpējas apkarošanās.
+
+LKP Rīgas komitejas apavnieku frakcija
