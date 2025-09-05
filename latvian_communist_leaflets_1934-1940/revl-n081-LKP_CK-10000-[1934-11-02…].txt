@@ -1,0 +1,26 @@
+id: 81
+file_name: revl-n081-LKP_CK-10000-[1934-11-02…].txt
+title: LKP CK uzsaukums trūcīgajiem zemniekiem par zemnieku saimniecību izūtrupēšanu, ar aicinājumu cīnīties kopā ar pilsētu proletariātu pret fašistisko diktatūru, par strādnieku-zemnieku valdību
+author: LKP CK
+date: [1934-11-02…]
+print_run: 10000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 175–176.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties! 
+NOST FAŠISTISKOS HITLERA KALPUS, LAUKU DARBAĻAUŽU IZPOSTĪTĀJUS UN ŪTRUPJU RĪKOTĀJUS; PAR VISU BANKU, RENTES UN NODOKĻU PARĀDU STRĪPOŠANU TRŪCĪGIEM, SĪKIEM UN VIDĒJIEM ZEMNIEKIEM.
+Lielgruntnieku un pilsētu bagātnieku valdība atkal izstiepusi roku pēc lauku darbaļaužu pēdējiem grašiem. Sākot ar 2. novembri, atjaunota smagus nodokļus un parādus maksātnespējīgo izūtrupēšana. Atkal klaudz āmurs trūcīgo zemesrūķu sētās. Atkal, aplaupot un padzenot no dzimtās zemes galīgi izsūktos kapitālisma upurus, tiek gādāti līdzekļi milzu piemaksām un paplašināti lauku lielgruntnieku īpašumi. Novembra mēnesī noliktas ūtrupes 623 un decembrī 700 lauku saimniecībām. Krīzes turpināšanās un augošo nodokļu nasta izūtrupējamo skaitu ar katru mēnesi neizbēgami palielinās.
+Visi fašistiskas valdības solījumi glābt grūtībās iestigušās saimniecības ir tādi pat nekaunīgi meli kā buržuāzijas partiju pārstāvju solījumi pēc tam, kad tie saeimā noraidīja strādnieku-zemnieku [frakcijas] priekšlikumu strīpot visus parādus trūcīgai un vidējai zemniecībai.
+Buržuāzijas partiju pieņemtie parādu kārtošanas atvieglojumi nākuši par labu tikai bagātniekiem. Parādi bankām strīpoti pat tādiem, kuri par kviešiem vien ieņēmuši pagājušā gadā 10 000 latu. Nodokļu parādi, kuri vissmagāk gulstas uz trūcīgo zemniecību, ne tikai netiek strīpoti un pagarināti, bet viņu piedzīšanu Ulmaņa fašistiskā valdība vēl vairāk pastiprinājusi. Tāpat parādus bankām fašistiskā valdība trūcīgiem zemniekiem nepagarina. 6144 [lūgumi] pārjaunot parādus noraidīti. Noraidīšanas iemesli — lūdzēju saimniecību maza vērtība, nenokārtotas mantošanas tiesības un saimniecību bezcerības stāvoklis. Visas tās ir trūcīgo saimniecības, kuras nespēj maksāt lielos nodokļus un segt izdevumus īpašuma tiesību nokārtošanai.
+Ulmaņa fašistiskā valdība atklāti pasacījusi Zemes bankā, ka ūtrupju atcelšana pielaižama tikai priekšzīmīgi nostādītām saimniecībām, kur parādu paplašināšana un atjaunošana sola labus rezultātus. Visas sīkās saimniecības, kuru īpašnieki, neraugoties uz pusbada dzīvi un cenšanos piepelnīt meža un citos darbos, tomēr nespēj maksāt lielos nodokļus un augstos augļotāju procentus privātiem kreditoriem, Ulmanis licis laist ūtrupē.
+Tādas saimniecības varot glābt tikai, dodot viņām jaunu saimnieku. Jaunie saimnieki būs atkal tie, kas saņem milzu piemaksas un stāv tuvu korupcijas tēvam — Ulmanim.
+Kurzemes, Vidzemes un Zemgales trūcīgie zemesrūķi! Latgales sīkie zemnieki un pusproletārieši!
+Pasargāt savu mantu un saimniecības no baņķieru, lielsaimnieku u. c. Ulmaņa rokaspuišu plēsīgiem nagiem iespējams tikai neatlaidīgā cīņā.
+Komunistiskā partija aicina jūs kopā ar lauku strādniekiem, rokpeļņiem un meža darbos nodarbinātiem vienoti uzstāties pret lauku darbaļaužu fašistiskajiem izsūcējiem un saimniecību izpostītajiem.
+Dibiniet zemnieku cīņas komitejas, organizējiet protesta mītiņus un demonstrācijas pie pagastu mājām u. c. lauku centros. Sasauciet apspriedes un organizējiet kopā ar visiem apkārtnes darbaļaudīm ūtrupju boikotus, padzeniet mantu aprakstītājus un izūtrupētājus, neļaujiet izputināt savu kaimiņu šodien, jo rītu tāds pat liktenis sagaida arī jūsu saimniecību.
+Stāviet visi par vienu un viens par visiem.
+Prasiet nekavējoši pārtraukt ūtrupes un mantu aprakstīšanu, strīpot visus parādus, atlaist nodokļus visiem trūcīgiem, sīkajiem zemniekiem un uzlabot darba apstākļus un izpeļņu meža un citos darbos.
+Zem Komunistiskās partijas vadības kopā ar pilsētu un lauku proletariātu iesim cīņā par Ulmaņa fašistiskās valdības gāšanu, par strādnieku-zemnieku valdības nodibināšanu, kas strīpos visus parādus trūcīgai un vidējai zemniecībai, atsvabinās no nodokļiem visus sīkzemniekus, ievērojami samazinās nodokļus vidējai zemniecībai un galīgi atbrīvos no kapitālistu jūga pilsētu un lauku darbaļaudis.
+
+[LKP CK]
