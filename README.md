@@ -13,7 +13,7 @@ All texts have been transcribed from the publication:
 
 ### Main Directories
 
-* **`latvian_communist_leaflets_1934-1940/`**: This is the main directory for the ready-to-use corpus. It currently contains 76 files, with more to be added as the project progresses. Each file represents a single leaflet with structured metadata.  
+* **`latvian_communist_leaflets_1934-1940/`**: This is the main directory for the ready-to-use corpus. It currently contains 90 files, with more to be added as the project progresses. Each file represents a single leaflet with structured metadata.  
 * **`for_editing/`**: A working directory for the transcription and editing process. It contains `revl-all-LKP_leaflets-1934-1940.docx`, which serves as a staging ground for texts before they are finalized and moved to the main corpus.
 
 ### File Content
