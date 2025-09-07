@@ -1,0 +1,22 @@
+id: 98
+file_name: revl-n098-LKP_Riga_committee_textile_workers_faction-1000-[1935-01-10…].txt
+title: LKP Rīgas komitejas tekstilstrādnieku frakcijas lapiņa par Rīgas tekstilstrādnieku smago stāvokli, ar aicinājumu apvienoties nelegālās arodgrupās, lai cīnītos par savām ekonomiskajām prasībām
+author: LKP Rīgas komitejas tekstilstrādnieku frakcija
+date: [1935-01-10…]
+print_run: 1000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 212–213.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI, TEKSTILA UN TRIKOTĀŽAS RŪPNIECĪBĀ NODARBINĀTIE STRĀDNIEKI UN STRĀDNIECES!
+Pagājušais — 1934. g. ar notikušo fašistisko apvērsumu solīja strādniekiem lielus uzlabojumus saimnieciskajā dzīvē. Solīja, ka neviens netiks atlaists, algas netiks samazinātas, tiks uzlaboti darba apstākļi, ārstēšana, slimokasu pabalsti utt. Solīja, ka valdība kopā ar policiju un darba inspektoriem raudzīsies, lai visi šie solījumi tiktu izvesti dzīvē.
+Nodzīvoti jau 8 mēneši jaunajos, fašistiskās valdības apstākļos. Bet viņas dotie solījumi palikuši tikai solījumi, kuri nav un netiks izvesti dzīvē. «Vienotās tautas» lozungs ir izvērties par vienotu tautisko kapitālistu-uzņēmēju un valdības nostāšanos par tālāku strādnieku saimnieciskā un tiesiskā stāvokļa pasliktināšanu. Notiek nepārtrauktas strādnieku atlaišanas no darba. Uzņēmumi «Viktoria», «Bostons», «Merkurs» un «Švarcs» atlaiduši vienu maiņu. Mazākas atlaišanas notiek «Kosmosā», «Vikersā», «Kolibrī», «Rīgas tūku fabrikā» («Provodņiks»), «Merino» un Levensona fabrikās. Daudzos uzņēmumos samazinātas algas un pāriet uz 3 darba dienām nedēļā. Bet, ja samazināšana nav notikusi tādos uzņēmumos kā «Rīgas audums» un «Feldhūns», kur valdības vīri ir līdzakcionāri, tad tas vēl neizslēdz līdzīga stāvokļa iestāšanos arī tur.
+Mums jāzin, ka, pieaugot saimnieciskai krīzei un bezdarbam, pieauga arī strādnieku pretspars un cīņas gars pret krīžu un bezdarba īstajiem cēloņiem — kapitālistiem. Pilsonība to juta un saprata, tādēļ tā ķērās pie pēdējā līdzekļa — fašistiskā apvērsuma. Likvidēdama visas strādnieku organizācijas un tiesības, ievezdama kara stāvokli un teroru, pilsonība cer mūs pārvērst par beztiesīgiem vergiem. Tikai uzņēmēju-kapitālistu interesēm kalpo šī diktatūra. To apliecina pagājušajā nedēļā «Jaunākās Ziņās» nodrukātais tekstilrūpnieku apsveikums un pateicība valdībai.
+Biedri, uzņēmēju-kapitālistu tieksmes strādnieku izsūkšanā ir neaprobežotas. Nav uzņēmēja, kas pa šiem gadiem nebūtu pasliktinājis algas un darba apstākļus. Nav gadījuma, ka uzņēmējs labprātīgi būtu uzlabojis mūsu stāvokli. Tikai ar spēku un cīņu varam uzlabot savu stāvokli un ierobežot uzņēmēju iedzīvošanās kāri uz mūsu rēķina. Bet tas ir iespējams tikai tad, ja šinī cīņā izejam mēs, strādnieki, organizēti un vienoti, ja uzstāsimies visu uzņēmumu strādnieki kopīgi. Tāpēc nekavējoties jāķeras pie arodgrupu dibināšanas un fabriku komiteju izveidošanas tieši darba vietās. Katram strādniekam, lai tas būtu bezpartejiskais, sociālists vai citādi domājošais, bet, ja viņam patiesi rūp sava stāvokļa uzlabošana, jāņem aktīva dalība šai darbā. Tikai vienoti mēs piespiedīsim valdību un uzņēmējus pildīt savus solījumus un vest sekmīgu cīņu par mūsu stāvokļa tālāku uzlabošanu.
+Lai dzīvo nelegālās arodgrupas un fabriku komitejas!
+Lai dzīvo vienota cīņa par mūsu algu paaugstināšanu un darba apstākļu uzlabošanu!
+Nost Ulmaņa fašistisko diktatūru!
+
+Latvijas Kom. part.
+Rīgas komitejas tekstilstrādnieku frakcija
