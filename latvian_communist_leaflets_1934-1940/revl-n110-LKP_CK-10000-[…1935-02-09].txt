@@ -1,0 +1,26 @@
+id: 110
+file_name: revl-n110-LKP_CK-10000-[…1935-02-09].txt
+title: LKP CK uzsaukums darbaļaudīm prasīt atcelt nāves sodu LKP biedram Z. Murinam un atbrīvot visus ieslodzītos pretfašisma cīnītājus
+author: LKP CK
+date: […1935-02-09]
+print_run: 10000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 237–238.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+NOST AR NĀVES SODU b. MURINAM! 
+NOST SPAIDU DARBUS VENTSPILS REVOLUCIONĀRAJIEM STRĀDNIEKIEM!
+Ulmaņa fašistiskie bendes piesprieduši nāves sodu pašaizliedzīgajam pretfašisma cīnītājam b. Murinam un desmitiem gadu katorgas Ventspils labākajiem strādniekiem. Zvēriskie slepkavas izstiepuši savas darbaļaužu asinīm aptraipītās ķetnas pēc b. Murina gatavojas lēnām nobendēt moku kambaros Ventspils strādniekus tādēļ, ka viņi pašaizliedzīgi cīnījušies pret jaunu kara šausmu gatavošanu, pret Latvijas pārdošanu hitleriskajām fašistu bandām kā lielgabalu gaļu intervences karā pret SPRS.
+Uz Hitlera mājienu Latvijas darba tautas nodevēji grib nobendēt strādnieku revolucionārās frontes pirmajās pozīcijās izvirzījušos tādēļ, ka tie nav baidījušies nostāties pret fašistisko bada asins režīmu, tādēļ ka tie aicinājuši kopīgi cīnīties par darbaļaužu nolaupītām brīvībām, pret gatavošanos atjaunot vācu baronu verdzību, par labāku, gaišāku nākotni. Ar karātavām, bendes cirvjiem un viduslaiku inkvizīcijas moku kambariem Ulmaņa fašistiskie asinssuņi grib iebaidīt revolucionāros cīnītājus, lai atvieglotu saviem pavēlniekiem — vācu un angļu imperiālistiem pārvērst Latviju par kara postažu pret Padomju Savienību un palīdzētu buržuāzijai izsūkt pēdējo dzīvības sulu no strādniekiem, viņu sievām un bērniem vergu darbos.
+Lauku un pilsētu darbaļaudis! Visi, kas tiekat apspiesti un izsūkti, stāsimies vienotā pretfašisma frontē.
+Sociāldemokrātiskie un bezpartejiskie strādnieki, slēgsimies ciešāk ap savām vienības komitejām centros, uzņēmumos un citās darba vietās.
+Nepieļausim noslepkavot biedru MURINU.
+Protestēsim pret mūsu labāko biedru ieslodzīšanu fašistiskajos inkvizīcijas moku kambaros.
+Organizēsim protesta masovkas, mītiņus, demonstrācijas.
+Sūtīsim protesta rezolūcijas tautas nodevēju valdībai un viņas paklausīgajai fašistiskajai tiesai.
+Prasīsim atcelt nāves sodu biedram Murinam un atsvabināt visus pretfašisma cīnītājus.
+Nost Hitleram padevīgo Ulmaņa fašistisko valdību!
+Lai dzīvo strādnieku-zemnieku valdība!
+
+Latvijas Komunistiskās partijas Centrālkomiteja
