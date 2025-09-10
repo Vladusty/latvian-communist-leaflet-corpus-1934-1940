@@ -1,7 +1,7 @@
 id: 118
 file_name: revl-n118-LKJS_III_district_committee-50-1935-02.txt
 title: LKJS III rajona komitejas uzsaukums Vecmīlgrāvi sabiedriskajos darbos nodarbinātajiem bezdarbniekiem cīnīties par sava stāvokļa uzlabošanu
-author: LKP un LSSZP Rīgas komiteja
+author: LKJS III rajona komiteja
 date: 1935-02
 print_run: 50
 typography_name: Spartaks
