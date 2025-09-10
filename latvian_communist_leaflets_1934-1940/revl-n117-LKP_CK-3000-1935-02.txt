@@ -1,7 +1,7 @@
 id: 117
 file_name: revl-n117-LKP_CK-3000-1935-02.txt
-title: LKP un LSSZP Rīgas komiteju uzsaukums pilsētai piederošo māju dzīvokļu īrniekiem organizēt cīņu pret īres paaugstināšanu
-author: LKP un LSSZP Rīgas komiteja
+title: LKP CK uzsaukums darbaļaudīm vienotā frontē cīnīties par darba algas paaugstināšanu un darba apstākļu uzlabošanu budžu saimniecībās nodarbinātajiem strādniekiem
+author: LKP CK
 date: 1935-02
 print_run: 3000
 typography_name: Spartaks
