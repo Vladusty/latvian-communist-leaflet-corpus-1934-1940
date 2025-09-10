@@ -1,0 +1,27 @@
+id: 118
+file_name: revl-n118-LKJS_III_district_committee-50-1935-02.txt
+title: LKJS III rajona komitejas uzsaukums Vecmīlgrāvi sabiedriskajos darbos nodarbinātajiem bezdarbniekiem cīnīties par sava stāvokļa uzlabošanu
+author: LKP un LSSZP Rīgas komiteja
+date: 1935-02
+print_run: 50
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 254–255.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties:
+BIEDRI, VECMĪLGRĀVĪ SABIEDRISKOS DARBOS 
+NODARBINĀTIE STRĀDNIEKI!
+Mums jāstrādā neciešamos darba apstākļos. Smagā darbā pavadām 8 stundas zem debess. Par niecīgo atalgojumu, kuru saņemam, nav pat iespējams paēst. Dzīvojam salā un badā.
+Mūsu cīņu par sava stāvokļa uzlabošanu cenšas salauzt padevīgie kungu kalpi — desmitnieki Plintnieks un Strunks. 5avā padevībā viņi noiet tik tālu, ka atņem strādniekiem lūgumu dēļ algas paaugstināšanas un siltām pusdienām.
+Viņiem neesot nekāda darīšana, ja strādnieces ar Ls 1 dienā nevar uzturēt sevi un ģimeni, nevar samaksāt par dzīvokli. Strunks, kas arvien izliekas kā strādnieku aizstāvis, baida ar atlaišanu tos strādniekus, kas parakstījušies zem lūguma. Kā strādnieks ar saviem lūgumiem un bada apliecinājumiem iedrošinās traucēt kungus, kuriem nekā netrūkst?
+Biedri, strādnieki! Neļausimies iebaidīt! Droši iesim un iesniegsim savas prasības! Neielaidīsimies nekādās darīšanās ar kunga miesassargiem — Plintnieku un Strunku!
+Organizēsimies bezdarbnieku un īrnieku grupās! Aktīvi iziesim cīņā par sava stāvokļa uzlabošanu! Neļausim izlikt no dzīvokļiem strādniekus par īres naudas nesamaksāšanu!
+Par pagājušā gada algām!
+Par siltām pusdienām bezdarbniekiem un viņu bērniem!
+Par darba laika saīsināšanu! Dot darbu visiem strādniekiem bez pārtraukuma!
+Pret bezdarbnieku pārmērīgo izdzīšanu!
+Par īres naudām!
+Nost fašistisko Ulmaņa bada valdību!
+Lai dzīvo Padomju Latvija!
+
+Latv. komjaunatnes sav. 3. rajona komiteja
