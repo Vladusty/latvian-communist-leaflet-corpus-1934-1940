@@ -1,7 +1,7 @@
 id: 120
 file_name: revl-n120-LKJS_CK_LSJS_CK-2000-[1935-03-07…].txt
 title: LKJS CK un LSJS CK uzsaukums darbaļaudīm organizēt cīņu par politpārvaldes aģentu ievainotā M. Rozentāla atbrīvošanu
-author: LKP CK
+author: LKJS CK un LSJS CK
 date: [1935-03-07…]
 print_run: 2000
 typography_name: Spartaks
