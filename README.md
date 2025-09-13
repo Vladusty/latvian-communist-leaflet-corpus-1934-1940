@@ -58,6 +58,16 @@ The files in the main corpus are named using a strict format:
 `revl-n073-LKJS_CK-6000-1934-10-10.txt`
 
 ---
+## Analysis notebooks (Colab-ready)
+Located in `lemma_frequency_notebooks/`:
+
+- `corpus_monthly_absolute_freq_lemma_unweighted_and_weighted_by_print_run.ipynb`  
+  Absolute counts per month (raw) and weighted by `print_run`.
+
+- `corpus_monthly_relative_freq_lemma_unweighted_and_weighted_by_print_run_per1000.ipynb`  
+  Relative counts per **1,000 tokens** (raw and `print_run`-weighted). Unknown print runs use a configurable default (median or fixed value).
+
+**Quick start:** open a notebook → upload a ZIP of `.txt` files → set `target_lemma` (and optional `manual_forms`) → run all cells.
 
 ## License
 
