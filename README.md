@@ -58,16 +58,21 @@ The files in the main corpus are named using a strict format:
 `revl-n073-LKJS_CK-6000-1934-10-10.txt`
 
 ---
+
 ## Analysis notebooks (Colab-ready)
-Located in `lemma_frequency_notebooks/`:
 
-- `corpus_monthly_absolute_freq_lemma_unweighted_and_weighted_by_print_run.ipynb`  
-  Absolute counts per month (raw) and weighted by `print_run`.
+### Absolute frequency
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_xOokqW93imBj8XtGNa4HgZTZSzYiFX4?usp=sharing) | [source (.ipynb)](lemma_frequency_notebooks/corpus_monthly_absolute_freq_lemma_unweighted_and_weighted_by_print_run.ipynb)  
+*Monthly absolute counts (raw) and print_run-weighted (hits × copies).*
 
-- `corpus_monthly_relative_freq_lemma_unweighted_and_weighted_by_print_run_per1000.ipynb`  
-  Relative counts per **1,000 tokens** (raw and `print_run`-weighted). Unknown print runs use a configurable default (median or fixed value).
+### Relative frequency
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10SX4d788XJjovJ4fvBBmUAHe6vvzUxhz?usp=sharing) | [source (.ipynb)](lemma_frequency_notebooks/corpus_monthly_relative_freq_lemma_unweighted_and_weighted_by_print_run.ipynb)  
+*Monthly relative frequency per 1,000 tokens (unweighted and print_run-weighted; configurable default for unknown runs).*
 
-**Quick start:** open a notebook → upload a ZIP of `.txt` files → set `target_lemma` (and optional `manual_forms`) → run all cells.
+### Quick start
+1. Open a notebook (links above).
+2. Upload a ZIP with leaflet `.txt` files.
+3. Set `target_lemma` and optional `manual_forms`, then run all cells.
 
 ## License
 
