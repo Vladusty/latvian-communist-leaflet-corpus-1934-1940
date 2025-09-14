@@ -84,3 +84,14 @@ This work is licensed under a
 ## Author
 
 - **Vladislavs Babaņins**
+
+## Example results  
+(125 leaflets, lemma group *fašisms* + inflections, `DEFAULT_WEIGHT_FOR_UNK = 500`)
+
+| Absolute frequency (unweighted) | Absolute frequency (weighted by print_run) |
+|---------------------------------|--------------------------------------------|
+| ![Absolute frequency](lemma_frequency_notebooks/img/fasisms_abs_unweighted.png) | ![Absolute weighted frequency](lemma_frequency_notebooks/img/fasisms_abs_weighted.png) |
+
+| Relative frequency per 1,000 tokens (unweighted) | Relative frequency per 1,000 tokens (weighted by print_run) |
+|--------------------------------------------------|-------------------------------------------------------------|
+| ![Relative unweighted frequency](lemma_frequency_notebooks/img/fasisms_rel_unweighted.png) | ![Relative weighted frequency](lemma_frequency_notebooks/img/fasisms_rel_weighted.png) |
