@@ -32,3 +32,14 @@ Then inside the notebook:
 3. Run all cells; export figures/tables if needed.
 
 License: CC BY 4.0 (see repo root).
+
+## Example results  
+(125 leaflets, lemma group *fašisms* + inflections, `DEFAULT_WEIGHT_FOR_UNK = 500`)
+
+![Absolute frequency](img/fasisms_abs_unweighted.png)
+
+![Absolute weighted frequency](img/fasisms_abs_weighted.png)
+
+![Relative unweighted frequency](img/fasisms_rel_unweighted.png)
+
+![Relative weighted frequency](img/fasisms_rel_weighted.png)
