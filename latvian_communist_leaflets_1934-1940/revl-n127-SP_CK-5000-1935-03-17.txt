@@ -1,7 +1,7 @@
 id: 127
 file_name: revl-n127-SP_CK-5000-1935-03-17.txt
 title: Latvijas Sarkanās Palīdzības CK uzsaukums strādniekiem protestēt pret fašistiskā terora pastiprināšanos
-author: Latvijas Sarkanās Palīdzības Centrālā komiteja 
+author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: 1935-03-17
 print_run: 5000
 typography_name: «Sarkanās Palīdzības» spiestuve
