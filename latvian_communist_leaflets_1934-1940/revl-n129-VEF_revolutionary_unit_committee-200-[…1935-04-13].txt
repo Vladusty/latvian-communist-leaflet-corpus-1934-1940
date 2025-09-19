@@ -1,0 +1,25 @@
+id: 129
+file_name: revl-n129-VEF_revolutionary_unit_committee-200-[…1935-04-13].txt
+title: VEF revolucionārās vienības komitejas 1. Maija uzsaukums strādniekiem solidarizēties ar starptautisko proletariātu cīņā par ekonomiskā stāvokļa uzlabošanu
+author: VEF revolucionārās vienības komiteja
+date: […1935-04-13]
+print_run: 200
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 274–275.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+VEFA STRĀDNIEKI!
+Klāt ir 1. Maijs! Visas pasaules proletariāta vienīgie un īstie svētki! Visu zemju strādnieku solidaritātes un cīņas svētki! 1. Maijā mēs rādām mantīgajai šķirai viņas valdības dienu tuvo galu, rādām, ka proletariātam pieder pasaule un nākotne!
+Šogad 1. Maiju strādnieki gandrīz visās pasaules malās spiesti svinēt fašisma terora žņaugos! Gandrīz nekur uz ielām brīvi neplandīsies mūsu cīņas simbols — sarkanais karogs! Bet drīkst vai nedrīkst — 1. Maiju mēs svinam visur, sarkanie karogi ielās ir un būs!
+Strādnieki visās zemēs zin, ka 1. Maijs ir Sarkanais Maijs! Velti fašistu valdības, kā mūsmājās, pūlas spiest strādniekus iziet ielas zem viņas arodbiedrību zaļi rozā karogiem ar «vadoņu» bildēm vidū.
+Biedri strādnieki! Tas sevišķi jāņem vērā mums, valsts uzņēmuma Vefa strādniekiem. Vai mēs lai piedalītos šinī korī, kas slavinās valdību par viņas lielo «gādību» par strādniekiem? Vai mums ir par ko jūsmot? Kā ir par mums «gādājusi» šī valdība ar viņas «vadoņiem» un «vadonīšiem»?
+Mūsu algas dienu no dienas dilst kā vecs mēness. Darbus samazina, simtiem mūs izmet uz ielas, visādi atvilkumi no algas aug augdami. Viss tas, lai tikai «valsts uzņēmums» mestu lielāku peļņu, kuru tad vēlāk sadalīs direktoriem un citiem augstiem kungiem, jo tie, lūk, «pielikuši visus spēkus, lai šis lielākais valsts uzņēmums plauktu un zeltu»!
+Un mēs lai ietu zem Ulmaņa karogiem un priecātos par šīm dāvanām?
+Darba biedri! 1. Maijā solidarizēsimies ar visas pasaules proletariātu cīņā par mūsu darba apstākļu uzlabošanu, par algu paaugstināšanu!
+Prasām nesamazināt strādājošo skaitu Vefā!
+Prasām atcelt virsstundu darbu!
+Lai dzīvo Latvijas strādnieku un visas tautas antifašistiskā fronte pret apspiedējiem!
+Lai dzīvo darba tautas vēlētā strādnieku-zemnieku valdība!
+
+Vefa vienības komiteja
