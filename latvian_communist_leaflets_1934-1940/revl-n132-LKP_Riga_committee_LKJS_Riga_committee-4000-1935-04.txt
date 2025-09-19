@@ -1,0 +1,18 @@
+id: 132
+file_name: revl-n132-LKP_Riga_committee_LKJS_Riga_committee-4000-1935-04.txt
+title: LKP un LKJS Rīgas komiteju 1. Maija lapiņa ar aicinājumu darbaļaudīm Pirmajā Maijā iziet demonstrācijā
+author: LKP un LKJS Rīgas komiteja
+date: 1935-04
+print_run: 4000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 280.
+
+text:
+LAI DZĪVO PIRMAIS MAIJS — PASAULES DARBAĻAUŽU REVOLUCIONĀRO SPĒKU DEMONSTRĒŠANAS DIENA!
+Pirmais Maijs — vispasaules darbaļaužu cīņas un solidaritātes diena. Pirmajā Maijā darbaļaudis no visām pasaules malām pāri robežu žogiem sadodas rokās un, nerēķinoties ne ar kādiem reakcijas žņaugiem, ne ar kādiem fašistu aizliegumiem, demonstrē savus vienotos spēkus un cīņas gatavību kopā ar Sociālistisko Padomju Republiku Savienības brīvajiem darbaļaudīm pret fašismu, kapitālu un karu, par sociālisma uzvaru visā pasaulē.
+Šogad Pirmais Maijs Latvijas strādniecībai iekrīt vissmagākos reakcijas apstākļos. Kuru katru brīdi var sākties jauns briesmīgs pasaules karš. Pirmo Maiju pirmo reizi svinēja 48 gadus atpakaļ Amerikas strādniecība, izvirzot prasību pēc 8 stundu darba dienas. Pirmais Maijs dzima strādnieku asinīs — daudzi krita, tika ievainoti, daudziem piesprieda nāves sodus. Ari Latvijas strādniecība Pirmo Maiju svin jau no pagājušā gadu simteņa 90. gadiem, nerēķinoties ar carisma lodēm un štikiem pat vismelnākās reakcijas gados. Nepadosimies arī tagad Ulmaņa valdības mēģinājumam laupīt mums tiesības uz 1. Maija svinēšanu: visi bez politisko uzskatu izšķirības — bezpartejiski, nacionāli, demokrātiski, sociālistiski un komunistiski domājošie.
+Pirmajā Maijā solidāri iziesim streikā!
+Demonstrēsim kopējās Pirmā Maija sapulcēs, uzstāšanās un streikos savu gribu iet vienotā cīņā zem proletāriskā internacionālisma karoga pret fašisma un kapitālisma zvērībām, pret karu, par miera un mazo tautu neatkarības sarga — SPRS aizstāvēšanu, par jaunu Padomju Latviju, par sociālismu!
+
+LKP Rīgas komiteja
+LKJS Rīgas komiteja
