@@ -1,3 +1,4 @@
+id: 131
 file_name: revl-n131-LKJS_CK-5000-1935-04.txt
 title: LKJS CK 1. Maija uzsaukums jaunatnei cīnīties pret fašismu un karu
 author: LKJS CK
