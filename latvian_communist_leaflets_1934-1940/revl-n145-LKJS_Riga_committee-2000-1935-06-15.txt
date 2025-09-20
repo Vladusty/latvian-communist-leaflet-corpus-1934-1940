@@ -1,0 +1,33 @@
+id: 145
+file_name: revl-n145-LKJS_Riga_committee-2000-1935-06-15.txt
+title: LKJS Rīgas komitejas uzsaukums kokzāģētavu strādniekiem organizēt cīņu par darba algas paaugstināšanu un darba apstākļu uzlabošanu
+author: LKJS Rīgas komiteja
+date: 1935-06-15
+print_run: 2000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 304–305.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI KOKSTRĀDNIEKI!
+Nekad vēl kokstrādnieku darba algas un darba apstākļi nav bijuši tik slikti kā taisni tagad, pēc fašistiskās diktatūras vienā gada valdīšanas.
+Vēl pagājušā gadā kokzāģētavu iekšējo darbu strādniekiem maksāja Ls 2,60—2,80 par dienu: tagad vairs tikai Ls 1,80—2,00, un sievietēm tikai nedaudz vairāk par latu (Ls 1,20—1,40). Nesēji, kas pagājušā gadā saņēma vismaz Ls 2,70—3,00 par standartu, tagad [saņem] tikai Ls 2,50—2,60.
+Un, ja tagad, kad zāģētavās tik steidzami darbi, organizētā cīņā nepanāksim algu palielināšanu, uz rudens pusi algas nositīs vēl zemāk, un cīņa par darba algu uzlabošanu būs daudz grūtāka.
+Tāpēc Komunistiskā jaunatnes savienība aicina visus kokstrādniekus, strādniekus, visus, kas ir pret bada algām, par strādnieku dzīves līmeņa uzlabošanu, iziet kopējā cīņā par algu palielināšanu uz Ls 2 dienā sievietēm un Ls 3 vīriešiem. Nesējiem prasīsim pacelt atalgojumu uz Ls 3 par standartu.
+Biedri, «Hazāna», «Eksportvoda», Rapida, Mīlmaņa, Silvana un citu zāģētavu strādnieki!
+Savas taisnīgās prasības iesniegsim fabrikas administrācijai un viņu neizpildīšanas gadījumā pārtrauksim darbus. Izejot streikā, rādīsim piemēru visām pārējām kokzāģētavām un pacelsim cīņā visus Rīgas kociniekus.
+Pārtraucot darbus, sasauksim strādnieku sapulces fabrikās, izvēlēsim streika komiteju fabrikā un delegātus vispārējai kokstrādnieku cīņas komitejai.
+Cīņas sekmīgai izvešanai par darba algu uzlabošanu organizēsim arodgrupas fabrikās, tādā kārtā izveidojot spēcīgu revolucionāro kokstrādnieku arodorganizāciju.
+Boikotēsim fašistiskās arodbiedrības, bet tur, kur fašisti tomēr sadzinuši strādniekus, organizēsim spēcīgas revolucionāras arodopozīcijas grupas. Piespiedīsim fašistus ļaut izvēlēt arodvaldes pašiem strādniekiem un tādā kārtā pārvērtīsim fašistiskās arodorganizācijas par strādnieku šķiras cīņas organizācijām.
+Vienotā strādnieku šķiras fronte, komunistiskie, sociālistiskie, bezpartejiskie un visi pārējie strādnieki un jaunieši, jau tuvākās dienās iziesim kopējā cīņā par darba algu palielināšanu, par neciešamo darba apstākļu uzlabošanu.
+Prasām pacelt dienas algu vīriešiem
+vismaz līdz Ls 3 dienā,
+sievietēm — Ls 2,00—2,50.
+Prasām maksāt nesējiem vismaz Ls 3 par standartu!
+Par brīvo strādnieku šķiras organizāciju atjaunošanu!
+Neļausim sevi piekrāpt no fašistu aģentiem — bērziņiem un feldmaņiem un viņu glumajām mēlēm.
+Tikai paši strādnieki vienotā revolucionārā cīņā panāks sava stāvokļa uzlabošanu!
+Lai dzīvo ciņa par kokstrādnieku dzīves līmeņa un darba algu uzlabošanu!
+Lai dzīvo kocinieku streiks!
+
+Latvijas Komunistiskās jaunatnes savienības Rīgas komiteja
