@@ -1,0 +1,15 @@
+id: 137
+file_name: revl-n137-LKP_Riga_committee -6000-1935-05-05.txt
+title: LKP Rīgas komitejas lapiņa par fašistiskās valdības darbaļaudīm naidīgo politiku
+author: LKP Rīgas komiteja
+date: 1935-05-05
+print_run: 6000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 287–288.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+ULMAŅA FAŠISTISKĀ DIKTATŪRA 1 GADA LAIKĀ NESUSI STRĀDNIEKIEM:
+fašistisko teroru un apšaušanas, nāves sodus strādniekiem, spīdzināšanas policijas iecirkņos un politpārvaldes, un cietumu moku kambaros, strādnieku organizāciju slēgšanu, slimokasu un strādnieku organizāciju fondu izlaupīšanu, atlaišanas un uzņēmumu fašizāciju, spaidu darbus bezdarbniekiem pie lauku budžiem, dzīves dārdzības paaugstināšanos, plašāko tautas slāņu nogrūšanu vēl lielākā postā un badā, ar strādniekiem un antifašistiem pārpildītus cietumus un koncentrācijas nometnes — utt.
+
+LKP Rīgas komiteja
