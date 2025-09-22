@@ -1,0 +1,19 @@
+id: 146
+file_name: revl-n146-LKJS_Riga_org_IV_district_committee-unk-1935-07-25.txt
+title: LKJS Rīgas organizācijas IV rajona komitejas uzsaukums strādniekiem protestēt pret represijām un politisko apcietināto režīma pasliktināšanu Latvijas cietumos
+author: LKJS Rīgas organizācijas IV rajona komiteja
+date: 1935-07-25
+print_run: unk
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 306.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+NOST BENDES ROKAS NO IESLODZĪTAJIEM STRĀDNIEKIEM!
+BIEDRI! KAMĒR FAŠISTU BALAMUTES ATKAL LEJ SAVAS SALDĀS RUNAS STRĀDNIEKU AUSĪS, ULMAŅA VALDĪBA IZVED JAUNU, VĒL NEDZIRDĒTI BARBARISKU UZBRUKUMU POLITIESLODZĪTAJIEM. TIKS. AIZLIEGTI PIENESUMI NO VAĻAS, kas tiek savākti no darbaļaužu ziedojumiem. Politieslodzītajiem tas nozīmē lēnu bada nāvi, jo cietuma ēdienam nav nedz tauku, nedz arī olbaltumu, nedz arī citu nepieciešamu vielu, it sevišķi tas attiecas uz nepanesami smagā katorgas darbā nodarbinātiem politiskiem ieslodzītajiem (it sevišķi uz Iļģuciema akmeņlauztuvēs nodarbinātajiem). Paredz vēl attiecināt uz politiskajiem t. s. progresīvo soda režīmu, kuru viņi 1927. g. novērsa ar 13 dienu bada streiku. Centrālcietuma IV korpusā atkal notikusi zvēriska politieslodzīto piekaušana, 12 b.b. smagi piekauti un mesti karcerī par protestu pret sava slimā biedra piekaušanu.
+Biedri! Fašistu asinssuņiem trūkst vīrišķības un drosmes atklāti nogalināt strādnieku cīnītājus. Bailēs no masu protesta viņi neuzdrošinājās izpildīt nāves sodu b.b. Murinam, Bondarenko un Vorslavam. Bet viņi grib klusumā, aiz cietuma mūriem nobendēt antifašistus — strādniekus un zemniekus, nobendēt ar badu un nepanesamu režīmu, kā b. Pētersonu u. c.
+Biedri! Tikai jūsu vienotais protests var glābt cilvēkus, kas visu savu dzīvi ziedojuši cīņai par strādnieku atsvabināšanu no kapitālisma jūga. Sūtiet kolektīvus protestus Tieslietu ministrijai un iekšlietu viceslepkavam Bērziņam! Prasiet visu antifašistu atsvabināšanu! Brīvību visiem arodbiedrību un strādnieku organizāciju dalībniekiem!
+Novērsiet asiņaino bendes roku no cietumā smokošiem strādniekiem!
+Nost fašismu un karu!
+
+LKIS 4. rajons
