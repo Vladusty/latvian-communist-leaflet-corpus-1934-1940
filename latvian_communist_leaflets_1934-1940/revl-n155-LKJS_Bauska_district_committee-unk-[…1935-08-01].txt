@@ -1,0 +1,17 @@
+id: 155
+file_name: revl-n155-LKJS_Bauska_district_committee-unk-[…1935-08-01].txt
+title: LKJS Bauskas rajona komitejas uzsaukums darbaļaudīm cīnīties pret fašismu un karu
+author: LKJS Bauskas rajona komiteja
+date: […1935-08-01]
+print_run: unk
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 324.
+
+text:
+DARBA TAUTA, STRĀDNIEKI, ZEMNIEKI, JAUNATNE!
+Ir pagājis 21 gads kopš pasaules kara sākuma, bet pāri visai cilvēcei arvien drausmīgāk savelkas jauna kara draudi. Versaļas miera līgums ir iznīcināts. Visas valstis bruņojas trakā steigā. Karam nupat izdod 3 reiz vairāk kā 1914. g., tas ir, pirms pasaules kara. Kara ieroči ir kļuvuši postošāki. No Tautu Savienības aiziet imperiālistiskās valstis. Aizgāja Japāna, lai laupītu Mandžūrijā un Ķīnā, aizgāja Vācija, lai to pašu darītu SPRS un Baltijas valstīs. Itālija draud aiziet, ja neļaus uzbrukt Abesīnijai. Lai netraucēti varētu gatavoties karam, tiek iznīcinātas strādnieku organizācijas. Apzinīgā strādniecība tiek kārta un bāzta cietumos. Visur savu dūri paceļ fašisms, kurš, izmantojot to, ka izaugusi jauna paaudze, kura neatceras kara šausmas, rīda atkal vienu tautu pret otru. Arī Latvijā sagrāba varu fašisti. Arī Latvijā gatavojas karam. Vilkdamās astē vācu-poļu imperiālistiem, valdība pārdod latvju tautas intereses. Ir zināmi vācu-poļu plāni iepretim Padomju Krievijai un Baltijas valstīm. Vācijā jau izdod kartes, kurās SPRS un Baltijas valstis apzīmētas kā Vācijas kolonijas. Vai valdība to nezin? Zin, bet Hitlers palīdzēja nākt Ulmanim pie varas, un nu ir jāatmaksā. Un atmaksās arī ar latvju darba tautas jaunatnes dzīvībām, dzenot [to] karā pret SPRS. Pēc tam atdos zemi vācu muižnieku patvaļai. Tātad cīņa pret fašismu ir cīņa pret karu. 1. augusts ir visu pretkara cīnītāju demonstrācijas diena. Fašistiskā policija pieliek visas pūles, lai nospiestu katru demonstrāciju pret karu. Arestē un spīdzina simtiem cilvēku, tomēr visā Latvijā un pasaulē paceļas balsis pret kara neprātu, pret ārkārtīgo bruņošanos, kas novedīs pie vēl nepiedzīvota cilvēku slaktiņa. Tāpēc nevienu santīmu karam, aizsargiem un kara aviācijai! Prasiet Padomju Krievijas ierosinātā Austrumu pakta noslēgšanu, kurš garantētu Latvijai neaizskaramību.
+Nost fašismu, galveno kara organizētāju!
+Atcelt kara stāvokli un policijas spaidus pret kara cīnītājiem!
+Lai dzīvo strādnieku, visu pretkara un pretfašisma cīnītāju vienota cīņas fronte!
+
+LKJS Bauskas rajons
