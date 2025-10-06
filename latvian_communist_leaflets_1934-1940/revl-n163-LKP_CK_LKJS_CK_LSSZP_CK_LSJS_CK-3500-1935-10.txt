@@ -1,6 +1,6 @@
 id: 163
 file_name: revl-n163-LKP_CK_LKJS_CK_LSSZP_CK_LSJS_CK-3500-1935-10.txt
-title: LKP CK, TKIJS CK, LSSZP CK un LSIS CK lapiņa, veltīta Lielās Oktobra sociālistiskās revolūcijas 18. gadadienai, ar aicinājumu darbaļaudīm cīnīties pret fašismu un karu, par padomju iekārtu
+title: LKP CK, LKJS CK, LSSZP CK un LSIS CK lapiņa, veltīta Lielās Oktobra sociālistiskās revolūcijas 18. gadadienai, ar aicinājumu darbaļaudīm cīnīties pret fašismu un karu, par padomju iekārtu
 author: LKP CK, LKJS CK, LSSZP CK un LSJS CK
 date: 1935-10
 print_run: 3500
