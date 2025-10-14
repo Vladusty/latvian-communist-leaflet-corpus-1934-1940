@@ -1,5 +1,5 @@
 id: 170
-file_name: revl-n170-LKP_Daugavpils_city_committee-1000-1935-03.txt
+file_name: revl-n170-LKP_Daugavpils_city_committee-1000-1936-03.txt
 title: LKP Daugavpils pilsētas komitejas aicinājums Daugavpils strādniekiem un kalpotājiem organizēties arodbiedrībās cīņai par sava stāvokļa uzlabošanu
 author: LKP Daugavpils pilsētas komiteja
 date: 1936-03

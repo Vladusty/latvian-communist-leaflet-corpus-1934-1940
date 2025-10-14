@@ -1,5 +1,5 @@
 id: 167
-file_name: revl-n167-LKP_Riga_committee-4000-[…1935-02-14].txt
+file_name: revl-n167-LKP_Riga_committee-4000-[…1936-02-14].txt
 title: LKP Rīgas komitejas aicinājums darbaļaudīm uz cīņu par sava materiālā un tiesiskā stāvokļa uzlabošanu
 author: LKP Rīgas komiteja
 date: […1936-02-14]

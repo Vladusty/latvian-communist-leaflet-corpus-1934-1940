@@ -1,5 +1,5 @@
 id: 168
-file_name: revl-n168-LKP_Riga_committee-2000-[…1935-02-27].txt
+file_name: revl-n168-LKP_Riga_committee-2000-[…1936-02-27].txt
 title: No LKP Rīgas komitejas aicinājuma darbaļaudīm cīnīties pret Latvijas valdības hitleriskās Vācijas atbalstīšanas politiku, par pretpadomju kara draudu novēršanu
 author: LKP Rīgas komiteja
 date: […1936-02-27]

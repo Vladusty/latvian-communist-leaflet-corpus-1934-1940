@@ -1,5 +1,5 @@
 id: 169
-file_name: revl-n169-LKP_military_org-3000-1935-02.txt
+file_name: revl-n169-LKP_military_org-3000-1936-02.txt
 title: LKP kara organizācijas aicinājums jauniesaucamajiem un kareivjiem uzstādīt prasības par sava stāvokļa uzlabošanu
 author: LKP kara organizācija
 date: 1936-02
