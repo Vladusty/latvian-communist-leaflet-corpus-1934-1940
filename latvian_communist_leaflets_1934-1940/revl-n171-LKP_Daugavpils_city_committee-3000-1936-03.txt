@@ -1,6 +1,6 @@
 id: 171
 file_name: revl-n171-LKP_Daugavpils_city_committee-3000-1936-03.txt
-title: LKJS Daugavpils pilsētas komitejas aicinājums jaunatnei uz vienotu pretkara cīņu (tulkots no krievu valodas).
+title: LKJS Daugavpils pilsētas komitejas aicinājums jaunatnei uz vienotu pretkara cīņu [tulkota no krievu valodas]
 author: LKP Daugavpils pilsētas komiteja
 date: 1936-03
 print_run: 3000
