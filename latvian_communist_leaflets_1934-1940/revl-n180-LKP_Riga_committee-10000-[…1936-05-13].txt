@@ -1,0 +1,22 @@
+id: 180
+file_name: revl-n180-LKP_Riga_committee-10000-[…1936-05-13].txt
+title: LKP Rīgas komitejas aicinājums darbaļaudīm nepiedalīties fašistiskā apvērsuma gadadienas svinēšanā
+author: LKP Rīgas komiteja
+date: […1936-05-13]
+print_run: 10000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 391–392.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI, STRĀDNIECES, DARBA JAUNIEŠI!
+Par ko 15. maijā tiekat pulcināti?
+Lai liektu galvas un izkliegtu uravas tiem, kas plēš un dīrā latvju darba tautu. Lai apliecinātu gatavību arī uz priekšu pielaist sava materiālā, sociālā un tiesiskā stāvokļa tālāku pasliktināšanu. Lai demonstrētu apņēmību buržuju interesēs kļūt par slepkavām pret saviem draugiem — Padomju Savienības darbaļaudīm. Lūk, to vēlas un prasa un par to jums spaidu kārtā liek pulcēties fašistiskās Ulmaņa-Baloža valdības ieceltā arodbiedrību vadība.
+Šis verdziskās paklausības apliecinājums nav Latvijas darbaļaudīm pieņemams, un mēs brīvprātīgi nepulcēsimies, lai fašistu bandai apliecinātu savu padevību!
+Latvijas darbaļaudis prasa:
+Pārtraukt strādnieku atlaišanas no darba un neizsūtīt pilsētas strādniekus spaidu kārtā uz laukiem vergot!
+Izbeigt algu nosišanu! Pacelt darba algas līdz pirmskrīzes līmenim!
+Neatbalstīt Vācijas fašistu karagājienu pret vispasaules miera sargātāju un darbaļaužu draugu — SPRS! 15. maijs nav Latvijas darbaļaužu svētki. Tā ir darba tautas izsūcēju gaviļu diena. Tāpēc visa Latvijas darba tauta prasa:
+Atcelt kara stāvokli un piespiedu 15. maija svinēšanu!
+
+LKP Rīgas komiteja
