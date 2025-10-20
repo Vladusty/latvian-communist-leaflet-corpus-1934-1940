@@ -1,7 +1,7 @@
 id: 185
 file_name: revl-n185-LKP_Riga_committee-6000-[…1936-07-22].txt
 title: LKP Rīgas komitejas uzsaukums darbaļaudīm protestēt pret ziedojumu vākšanu un piespiedu darbiem «Uzvaras» laukuma izbūvei
-author: LKP Rīgas komiteja 
+author: LKP Rīgas komiteja
 date: […1936-07-22]
 print_run: 6000
 typography_name: Spartaks
