@@ -1,8 +1,8 @@
 id: 191
-file_name: revl-n191-LKP_Riga_committee-5000-[…1936-09-29].txt
+file_name: revl-n191-LKP_Riga_committee-5000-[…1936-10-29].txt
 title: LKP Rīgas komitejas lapiņa sakarā ar naudas devalvāciju Latvijā, ar aicinājumu strādniekiem cīnīties pret darba algas pazemināšanu
 author: LKP Rīgas komiteja
-date: […1936-09-29]
+date: […1936-10-29]
 print_run: 5000
 typography_name: Spartaks
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 413–414.
