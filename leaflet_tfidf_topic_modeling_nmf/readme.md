@@ -6,22 +6,22 @@ ZIP upload → TF-IDF → NMF → visualization.
 ---
 
 ## 📊 2D Topic Map
-![Topic map](img/topic_modeling_nmf_tfidf.png)
+![Topic map](img_1934_1936/topic_modeling_nmf_tfidf.png)
 
 ---
 
 ## 📈 Topic Shares by Year
-![Topic shares](img/topic_shares_by_year_1934_1936.png)
+![Topic shares](img_1934_1936/topic_shares_by_year_1934_1936.png)
 
 ---
 
 ## 📦 Topic Sizes
-![Topic sizes](img/topic_sizes_nmf_1934_1936.png)
+![Topic sizes](img_1934_1936/topic_sizes_nmf_1934_1936.png)
 
 ---
 
 ## 📉 Topic Dominance
-![Topic dominance](img/topic_dominance_nmf_1934_1936.png)
+![Topic dominance](img_1934_1936/topic_dominance_nmf_1934_1936.png)
 
 ---
 
