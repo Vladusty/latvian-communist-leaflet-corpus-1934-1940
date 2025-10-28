@@ -1,6 +1,6 @@
 # TF-IDF + NMF Topic Modeling for Latvian Communist Leaflets
 
-Simple notebook using **scikit-learn**, **pandas**, and **matplotlib** for topic modeling (1934–1936).  
+Simple notebook using **scikit-learn**, **pandas**, and **matplotlib** for leaflet topic modeling (1934–1936).  
 ZIP upload → TF-IDF → NMF → visualization.
 
 ---
