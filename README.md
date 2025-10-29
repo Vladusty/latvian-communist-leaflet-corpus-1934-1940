@@ -92,8 +92,8 @@ This work is licensed under a
 
 | Absolute frequency (unweighted) | Absolute frequency (weighted by print_run) |
 |---------------------------------|--------------------------------------------|
-| ![Absolute frequency](lemma_frequency_notebooks/img/fasisms_abs_unweighted.png) | ![Absolute weighted frequency](lemma_frequency_notebooks/img/fasisms_abs_weighted.png) |
+| ![Absolute frequency](notebooks/lemma_frequency_notebooks/img/fasisms_abs_unweighted.png) | ![Absolute weighted frequency](notebooks/lemma_frequency_notebooks/img/fasisms_abs_weighted.png) |
 
 | Relative frequency per 1,000 tokens (unweighted) | Relative frequency per 1,000 tokens (weighted by print_run) |
 |--------------------------------------------------|-------------------------------------------------------------|
-| ![Relative unweighted frequency](lemma_frequency_notebooks/img/fasisms_rel_unweighted.png) | ![Relative weighted frequency](lemma_frequency_notebooks/img/fasisms_rel_weighted.png) |
+| ![Relative unweighted frequency](notebooks/lemma_frequency_notebooks/img/fasisms_rel_unweighted.png) | ![Relative weighted frequency](notebooks/lemma_frequency_notebooks/img/fasisms_rel_weighted.png) |
