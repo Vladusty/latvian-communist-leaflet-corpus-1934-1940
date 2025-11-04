@@ -1,0 +1,20 @@
+id: 207
+file_name: revl-n207-LKP_Riga_committee-5000-1937-10.txt
+title: No LKP Rīgas komitejas aicinājuma darbaļaudīm apvienoties antifašistiskā tautas frontē cīņai pret karu un fašismu, par sociālisma uzvaru visā pasaulē
+author: LKP Rīgas komiteja
+date: 1937-10
+print_run: 5000
+typography_name: Spartaks
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 452–453.
+
+text:
+PAR MIERU, BRĪVĪBU UN SOCIĀLISMU!
+Divdesmit gadus atpakaļ, 1917. g. 25. oktobrī (7. novembrī), komunistu partijas vadībā Krievijas strādnieki kopā ar darba zemniecību satrieca drupās veco carisko Krieviju un nodibināja proletariāta diktatūru — padomju varu. 25. oktobrī Krievijas tauta, sakaujot un padzenot kapitālistus un muižniekus, iekaroja sev brīvību. Gadu simteņu verdzībai bija padarīts gals. Lielā Oktobra sociālistiskā revolūcija ievadīja jaunu laikmetu cilvēces vēsturē. Līdzās kapitālistiskajai sistēmai radās otra —- sociālistiskā. Pirmā mirstošā un iznīcībai padotā, otrā — ceļš uz brīvību un laimīgu dzīvi — sociālismu...
+Un tagad, kad SPRS darbaļaudis un līdz ar viņiem vispasaules strādniecība un apspiestās tautas svin 20. Lielās Oktobra sociālistiskās revolūcijas gadasvētkus, SPRS sociālisms ir uzcelts! Te nelīdzēja un nelīdz ne fašistu gānīšanās par SPRS, ne viņu spiegu un slepkavu — trockistu-buhariniešu neģēlīgie darbi. Sociālisms iet savu uzvaras gaitu...
+Tas ir laikā, kad fašistiskajās zemēs pat niecīgās demokrātiskās tiesības tiek dubļos samītas. Tā saukto tiesību vietā valda fašistisko pipku un karātavu politika. «Uzplaukums» — dziļš plašo masu posts, bezdarbs, dārdzība un beztiesību stāvoklis. To nes fašisms.
+Fašisms nes cilvēcei tikai postu, iznīcību, pagrimšanu un karu. Ulmanis u. c. fašistiskie blēži viltīgi sludina tautas «vienību». Nav bijis un nebūs nekādas vienības tur, kur ir apspiedēji —varmākas un apspiestie, bagātnieki un strādnieku šķira. Tikai SPRS, kur nav vairs ne apspiedēju, ne apspiesto, kur viens cilvēks vairs nevar kalpināt un izmantot otru, kur ir viena darba tautas saime, tur arī kopīgi bauda savus darba augļus.
+Fašisms savu cilvēku «mīlestību» šodien pierāda Spānija un Ķīnā. Rīt tas to pierādīs varbūt jau Latvijā un citur, kad bumbas raustīs gabalos bērnus un sievietes. Pateicoties tikai SPRS miera politikai, lielajam spēkam un varenajai darba tautas Sarkanajai Armijai, pasaule vēl nav iegrūsta lielākā slaktiņā. Bet nevajag aizmirst, ka kara briesmas pastāvēs, kamēr nebūs satriekts pasaulē fašisms.
+Musolini, Hitlers, Ulmanis u. c. bandīti gatavojas kopējam karagājienam pret SPRS. Šo velnišķo fašistu plānu var izjaukt tikai enerģiska visu antifašistisko spēku apvienība un nesaudzīga cīņa pret fašismu, un viņa gāšana.
+Tādēļ, sveicot SPRS darbaļaudis 20. Lielās Oktobra sociālistiskās revolūcijas svētkos, Latvijas Komunistiskās partijas Rīgas organizācija uzaicina visus strādniekus, zemniekus, inteliģenci un visu tautu slēgties ciešāk vienotā antifašistiskā tautas frontē cīņai pret karu un fašismu, par brīvību un progresu, par demokrātisku republiku! Par sociālisma uzvaru visā pasaulē!...
+
+LKP Rīgas komiteja
