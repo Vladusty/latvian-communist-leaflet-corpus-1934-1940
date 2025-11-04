@@ -7,7 +7,7 @@ The **`latvian-communist-leaflet-corpus-1934-1940`** is a digital collection of 
 All texts have been transcribed from the publication:  
 `Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963)`.
 
-**At this stage, the corpus includes all leaflet texts published in this volume from 1934–1936.**
+**At this stage, the corpus includes all leaflet texts published in this volume from 1934–1937.**
 
 ---
 
@@ -17,7 +17,7 @@ All texts have been transcribed from the publication:
 
 * **`latvian_communist_leaflets_1934-1940/`**  
   The **finalized corpus** of digitized materials.  
-  - Currently includes **209 unique leaflet texts** (with more to be added).  
+  - Currently includes **210 unique leaflet texts** (with more to be added).  
   - Each file represents a single leaflet.  
   - All texts are enriched with **structured metadata** for consistent analysis and reuse.  
 
