@@ -1,6 +1,6 @@
 id: 208a
 file_name: revl-n208a-LDJS-unk-1937-10.txt
-title: LDJS lapiņa Lielās Oktobra sociālistiskās revolūcijas 20. gadadienā
+title: LDJS lapiņa Lielās Oktobra sociālistiskās revolūcijas 20. gadadienā [tulkota no krievu valodas]
 author: Latvijas Darba jaunatnes savienība
 date: 1937-10
 print_run: unk
