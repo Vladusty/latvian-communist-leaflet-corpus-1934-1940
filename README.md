@@ -17,7 +17,7 @@ All texts have been transcribed from the publication:
 
 * **`latvian_communist_leaflets_1934-1940/`**  
   The **finalized corpus** of digitized materials.  
-  - Currently includes **207 unique leaflet texts** (with more to be added).  
+  - Currently includes **208 unique leaflet texts** (with more to be added).  
   - Each file represents a single leaflet.  
   - All texts are enriched with **structured metadata** for consistent analysis and reuse.  
 
