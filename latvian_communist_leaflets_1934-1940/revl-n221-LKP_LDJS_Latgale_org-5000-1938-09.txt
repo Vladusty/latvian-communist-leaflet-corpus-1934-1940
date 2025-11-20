@@ -1,5 +1,5 @@
 id: 221
-file_name: revl-n221- LKP_LDJS_Latgale_org-5000-1938-09.txt
+file_name: revl-n221-LKP_LDJS_Latgale_org-5000-1938-09.txt
 title: No LKP Latgales organizācijas un LDJS Latgales organizācijas aicinājuma darbaļaudīm gatavoties pretfašistiskās cīņas izvēršanai [tulkota no krievu valodas]
 author: LKP Latgales organizācija un LDJS Latgales organizācija
 date: 1938-09
