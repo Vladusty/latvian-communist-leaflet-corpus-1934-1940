@@ -1,6 +1,6 @@
 id: 220
 file_name: revl-n220-LKP_Latgale_regional_committee-2000-1938-09.txt
-title: LKP Latgales apgabala komitejas lapiņa ar darba zemnieku ekonomiskām prasībām [Tulkota no krievu valodas]
+title: LKP Latgales apgabala komitejas lapiņa ar darba zemnieku ekonomiskām prasībām [tulkota no krievu valodas]
 author: Latvijas Komunistiskās partijas Latgales apgabala komiteja
 date: 1938-09
 print_run: 2000
