@@ -1,0 +1,15 @@
+id: 225
+file_name: revl-n225-LKP_Maliena_regional_committee-unk-1939-01.txt
+title: LKP Malienas apgabala komitejas uzsaukums mežstrādniekiem organizēti prasīt uzlabot dzīves un darba apstākļus
+author: LKP Malienas apgabala komiteja
+date: 1939-01
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 498–499.
+
+text:
+Latvijas valsts mežos katru ziemu strādā tūkstošiem mežstrādnieku. Šiem tūkstošiem ir jāstrādā vissliktākos darba apstākļos: aukstumā, salā, lietū. Bez normēta darba laika, iegraužot sausu maizi, pārguļot nekurinātās telpās uz salmiem, nevarot izkaltēt slapjās drēbes un piemirkušos cimdus un apavus, nevarot nokļūt pēc darba mājās pie savām ģimenēm pārmainīt veļu un salāpīt cimdus. Ārī izpeļņa ir ļoti zema, kura nenodrošina ne paša, ne ģimenes iztiku.
+Šo neciešamo stāvokli vēl pasliktina plaši izplatītā kukuļošana. Kukuļus ņem visi: sākot ar Meža departamenta ierēdņiem un beidzot ar mežsargiem. Sakarā ar to labāko mežu iedala tiem, kuri spēj kukuļus sniegt naudā vai graudā. Tie ir galvenokārt turīgākie saimnieki, kuri iet blakuspeļņās gan kājām, gan braukšus. Meža strādniekiem — rokpeļņiem, kuriem nabadzības dēļ kukuļus nav ko dot, ierāda sliktākus mežus, kuros var izpelnīt ne vairāk kā Ls 1 līdz Ls 1,50 dienā.
+Biedri mežstrādnieki! Jāizbeidz ir šī pielīšana un kukuļu došana. Organizēti prasīsim sliktākos mežos 2 reiz lielāku cenu par izstrādāto materiālu. Prasīsim, lai darba devēji dod transportlīdzekļus visu to strādnieku aizvešanai un atvešanai no darba un uz darbu, kuru dzīves vietas ir tālāk par 5 km, lai pēc darba varētu atpūsties, izkaltēt drēbes un dabūt siltu ēdienu.
+
+LKP Malienas apg. komiteja
