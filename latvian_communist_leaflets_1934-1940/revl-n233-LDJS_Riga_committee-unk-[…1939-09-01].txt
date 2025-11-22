@@ -1,0 +1,18 @@
+id: 233
+file_name: revl-n233-LDJS_Riga_committee-unk-[…1939-09-01].txt
+title: LDJS Rīgas komitejas lapiņa par imperiālistiska kara draudiem, ar aicinājumu Latvijas darba tautai prasīt valdībai organizēt pretgaisa aizsardzības pasākumus
+author: LDJS Rīgas komiteja
+date: […1939-09-01]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 515.
+
+text:
+LATVJU TAUTAS STRĀDNIEKI, ZEMNIEKI, INTELIĢENCE! VISI, KAM RŪP LATVJU TAUTAS NĀKOTNE
+Anglijas un Francijas piekāpšanās politika Vācijas un Itālijas agresijas priekšā, kas visā pilnībā parādījās Minhenes konferencē, It nemaz nav novērsusi kara briesmas. Ikkuru katru brīdi var iz- celties jauns pasaules karš. Fašistiskās valstis ar hitlerisko Vāciju priekšgalā nepazīst humanitāti, viņu ieroči nesaudzīgi vēršas pret mierīgiem iedzīvotājiem, sievietēm un bērniem. To apstiprina Spānijas un Ķīnas piemēri. Ķīmiskais karš, visādas indīgas gāzes būs vērstas pret civiliedzīvotājiem. Vai Latvijas mierīgie iedzīvotāji ir sagatavoti visām varbūtībām? Vai viņi nodrošināti pret gaisa un gāzu uzbrukumiem? Nē. Ulmaņa valdība, kas pazīstama ar savu hitleriskās Vācijas un Polijas orientāciju, guļ, nekā nedara, lai mazinātu nākamās kara šausmas. Ulmanis cenšas iemidzināt tautu, apgalvojot, ka mums nekas nedraud. Niecīgā skaitā ierīkotas pretgāzu patvertnes. Neviens nezin, kā izturēties un kur meklēt patvērumu gaisa uzbrukuma laikā. Tai laikā, kad Padomju Savienībā, Francijā, Anglijā u.c. iedzīvotāji nodrošināti ar bezmaksas gāzu maskām, kuras jau tautai izdalītas, Latvijā gāzu maskas varēs dabūt tikai par naudu. Saprotams, ka iegādāties varēs tikai turīgākā iedzīvotāju daļa, bet plašas tautas masas paliks neaizsargātas pret gāzu uzbrukumiem. Ulmanis spēlējas ar mūsu dzīvībām.
+Protestēsim visur pret tādu rīcību! Piespiedīsim valdību izvest dzīvē sekojošas prasības:
+Nekavējoties ierīkot plašu pretgāzu tīklu!
+Apmācīt civiliedzīvotājus, kā izturēties gaisa uzbrukuma laikā!
+Nekavējoties izdalīt visiem iedzīvotājiem bezmaksas gāzu maskas!
+
+LDJS Rīgas komiteja
