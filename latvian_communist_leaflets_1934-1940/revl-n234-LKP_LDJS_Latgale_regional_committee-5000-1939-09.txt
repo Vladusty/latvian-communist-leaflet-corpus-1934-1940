@@ -1,6 +1,6 @@
 id: 234
 file_name: revl-n234-LKP_LDJS_Latgale_regional_committee-5000-1939-09.txt
-title: No LKP un LDJS Latgales apgabala komiteju lapiņas sakarā at fašistiskās Vācijas uzbrukumu Polijai, ar aicinājumu darbaļaudīm cīnīties par tautas valdību
+title: No LKP un LDJS Latgales apgabala komiteju lapiņas sakarā at fašistiskās Vācijas uzbrukumu Polijai, ar aicinājumu darbaļaudīm cīnīties par tautas valdību [tulkota no krievu valodas]
 author: LKP Latgales apgabala komiteja un LDJS Latgales apgabala komiteja
 date: 1939-09
 print_run: 5000
