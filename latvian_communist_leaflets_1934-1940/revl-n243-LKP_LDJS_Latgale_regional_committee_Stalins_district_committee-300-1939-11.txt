@@ -1,6 +1,6 @@
 id: 243
 file_name: revl-n243-LKP_LDJS_Latgale_regional_committee_Stalins_district_committee-300-1939-11.txt
-title: LKP un LDJS Latgales apgabala un Staļina rajona komiteju lapiņa par PSRS-Latvijas savstarpējās palīdzības pakta noslēgšanas cēloņiem un nozīmi
+title: LKP un LDJS Latgales apgabala un Staļina rajona komiteju lapiņa par PSRS-Latvijas savstarpējās palīdzības pakta noslēgšanas cēloņiem un nozīmi [izdota latgaliešu izloksnē]
 author: LKP Latgales apgabala komiteja, LDJS Latgales apgabala komiteja un Staļina rajona komiteja
 date: 1939-11
 print_run: 300
