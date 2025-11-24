@@ -7,7 +7,7 @@ The **`latvian-communist-leaflet-corpus-1934-1940`** is a digital collection of 
 All texts have been transcribed from the publication:  
 `Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963)`.
 
-**At this stage, the corpus includes all leaflet texts published in this volume from 1934–1939.**
+**The corpus includes all leaflet texts published in this volume from 1934–1940.**
 
 ---
 
@@ -17,46 +17,46 @@ All texts have been transcribed from the publication:
 
 * **`latvian_communist_leaflets_1934-1940/`**  
   The **finalized corpus** of digitized materials.  
-  - Currently includes **250 unique leaflet texts** (with more to be added).  
-  - Each file represents a single leaflet.  
-  - All texts are enriched with **structured metadata** for consistent analysis and reuse.  
+  - Includes **251 unique leaflet texts** from 1934 to 1940.
+  - Each file represents a single leaflet.
+  - All texts are enriched with **structured metadata** for consistent analysis and reuse.
 
-* **`for_editing/`**  
-  Workspace for **transcription and editing**.  
-  - Contains `revl-all-LKP_leaflets-1934-1940.docx`, which serves as the staging document.  
-  - Draft texts are revised here before being moved into the finalized corpus.  
+* **`for_editing/`**
+  Workspace for **transcription and editing**.
+  - Contains `revl-all-LKP_leaflets-1934-1940.docx`, which serves as the staging document.
+  - Draft texts are revised here before being moved into the finalized corpus.
 
 ### File Content
 
 Each text file in the main corpus (`latvian_communist_leaflets_1934-1940/`) follows a consistent structure:
 
 **Metadata**
-* **`id`**: The unique serial number for the leaflet.  
-* **`file_name`**: The full file name.  
-* **`title`**: The title of the leaflet in Latvian, as found in the source.  
-* **`author`**: The full name of the organization(s) responsible for the leaflet.  
-* **`date`**: The publication date.  
-  * Format: `YYYY-MM-DD` (if the exact date is known) or `YYYY-MM` (if only the month and year are known).  
-  * Approximate dates use square brackets: `[YYYY-MM-DD...]` (not earlier than the specified date) or `[...YYYY-MM-DD]` (not later than the specified date).  
-* **`print_run`**: The number of copies printed, as recorded in the source. If unknown, marked as `unk`.  
-* **`typography_name`**: The name of the underground printing house, if known.  
-* **`source`**: The bibliographic citation for the source.  
+* **`id`**: The unique serial number for the leaflet.
+* **`file_name`**: The full file name.
+* **`title`**: The title of the leaflet in Latvian, as found in the source.
+* **`author`**: The full name of the organization(s) responsible for the leaflet.
+* **`date`**: The publication date.
+  * Format: `YYYY-MM-DD` (if the exact date is known) or `YYYY-MM` (if only the month and year are known).
+  * Approximate dates use square brackets: `[YYYY-MM-DD...]` (not earlier than the specified date) or `[...YYYY-MM-DD]` (not later than the specified date).
+* **`print_run`**: The number of copies printed, as recorded in the source. If unknown, marked as `unk`.
+* **`typography_name`**: The name of the underground printing house, if known.
+* **`source`**: The bibliographic citation for the source.
 
 **Text Body**
 * **`text:`**: The full, transcribed text of the leaflet.
 
 ### File Naming Convention
 
-The files in the main corpus are named using a strict format:  
+The files in the main corpus are named using a strict format:
 `revl-n<id_number>-<organization_code>-<print_run>-<date>.txt`
 
-* `revl` — Short for *Revolucionārās lapiņas*, indicating the source book.  
-* `<id_number>` — A three-digit serial number (e.g., `001`).  
-* `<organization_code>` — A code for the issuing organization. A complete list of codes is provided in the `for_editing/` directory.  
-* `<print_run>` — Number of printed copies (`unk` if unknown).  
-* `<date>` — The date of publication.  
+* `revl` — Short for *Revolucionārās lapiņas*, indicating the source book.
+* `<id_number>` — A three-digit serial number (e.g., `001`).
+* `<organization_code>` — A code for the issuing organization. A complete list of codes is provided in the `for_editing/` directory.
+* `<print_run>` — Number of printed copies (`unk` if unknown).
+* `<date>` — The date of publication.
 
-**Example:**  
+**Example:**
 `revl-n073-LKJS_CK-6000-1934-10-10.txt`
 
 ---
