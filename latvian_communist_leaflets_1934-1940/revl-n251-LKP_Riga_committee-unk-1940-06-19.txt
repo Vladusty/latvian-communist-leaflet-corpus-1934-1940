@@ -1,0 +1,24 @@
+id: 251
+file_name: revl-n251-LKP_Riga_committee-unk-1940-06-19.txt
+title: LKP Rīgas komitejas lapiņa sakarā ar fašistiskās valdības atkāpšanos un PSRS karaspēka papildu novietošanu Latvijā, ar aicinājumu darba tautai iesniegt savas prasības demokrātiskajai valdībai
+author: LKP Rīgas komiteja
+date: 1940-06-19
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 550–551.
+
+text:
+LATVIJAS DARBA TAUTA
+Fašistiskā Ulmaņa valdība nodevīgi nepildīja ar Padomju Savienību noslēgto palīdzības līgumu. Kopīgi ar Igaunijas un Lietuvas fašistiem viņa slepeni organizēja militārsavienību pret Padomju Savienību.
+Latvijas fašisti gan vienmēr dievojās, ka tie godīgi pildot noslēgto līgumu, bet mēs, Latvijas iedzīvotāji, ik dienas redzējām un dzirdējām, kā izturējās mūsu valdības iestāžu ierēdņi pret šo līgumu — arestēja tos Latvijas pilsoņus, kas izrādīja simpātijas Sarkanarmijai, sodīja un tiesāja ļaudis par Sarkanarmijas aizstāvēšanu pret neķītru apmelošanu un lamām. Slepenās sapulcēs, arodbiedrību apspriedēs un armijā tika spriests par «utaino bandu» padzīšanu no Latvijas. Fašistiskā valdība orientējās uz ārvalstu palīdzību cīņā pret Padomju Savienību.
+Uzticēties tādai valdībai Padomju Savienība nevarēja un, lai nodrošinātu Latviju no ieraušanas karā, avantūrās un noslēgtā līguma godīgu pildīšanu, pieprasīja Latvijas fašistiskās valdības atkāpšanos un Sarkanarmijas pastiprinātu daļu novietošanu Latvijā.
+Latvijas darba tauta ar gavilēm apsveic Sarkanarmiju. Latvju tauta apzinās, kāda svarīga loma piekrīt Sarkanarmijai pašreizējā momentā miera un drošības sargāšanā. Fašistu avantūristiskajai ārpolitikai Latvijā ir darīts gals uz visiem laikiem. Iekšpolitiski Latvijas tautai ir jāatgūst cilvēku un pilsoņu tiesības, jādara gals tai nebrīvei, kādā tā bija nospiesta līdz šim. Jaunajai, Padomju Savienības uzticību baudošai valdībai ir jāatdod latvju tautai vārda, preses, biedrošanās un streiku brīvība, jānodrošina tautas vēlēta pārstāvniecība Latvijā, jāatbrīvo visi ieslodzītie brīvības cīnītāji, jālegalizē strādnieku revolucionārās politiskās partijas, jālikvidē aizsargu un visas citas fašistiskās organizācijas.
+Darba zemniecībai jāsamazina nodokļi un jālikvidē parādu nasta, nodokļu smagumu uzliekot bagātiem lielsaimniekiem. Nabadzīgo zemnieku un bezzemnieku prasības pēc zemes jāapmierina uz lielsaimniecību rēķina. Valdībai jāgādā, lai darba zemnieks pats saņemtu sava darba augļus, nespiežot ar varu apvienoties kolektīvās saimniecībās, nodrošināt tiem tiesības uz zemi.
+Strādniecībai jādod darbs un maize rūpniecības uzņēmumos, jāatceļ vergu darba klausības likums un Darba centrāle. Laukos un purvos izsūtītiem strādniekiem jādod iespēja atgriezties savās darba vietās pilsētās.
+Latvijas Komunistiskā partija uzaicina visu Latvijas darba tautu izturēties disciplinēti un neļaut sevi izprovocēt uz sadursmēm no fašistiskās policijas, kura Sarkanarmijas ierašanās dienā šāva uz neapbruņotiem Rīgas iedzīvotājiem.
+Latvijas Komunistiskā partija aicina darbaļaudis darba vietās organizēti un disciplinēti izvēlēt savus pārstāvjus, kuri strādnieku prasības un vēlēšanās izteiks jaunajai Latvijas valdībai.
+Par patiesi demokrātisku tautas valdību Latvijā!
+Par draudzīgu, ciešu, politisku, saimniecisku un kulturālu sadarbību ar Padomju Sociālistisko Republiku Savienību! 
+Lai dzīvo Sarkanā Armija — Latvijas darba tautas draugs un aizstāvis!
+
+Latvijas Komunistiskās partijas RK
