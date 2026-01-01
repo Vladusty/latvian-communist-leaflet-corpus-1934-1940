@@ -7,7 +7,7 @@ print_run: 2000
 typography_name: Spartaks
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 408–409.
 
-text
+text:
 Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
 ATBALSTĪSIM SPĀŅU DARBA TAUTU!
 Kopš jūlija mēneša pēdējās puses Latvijas fašistiskā prese, pieskaņota korī ar pārējo kapitālistisko valstu izdevumiem, brēc un līksmo par pilsoņu karu Spānijā. Gavilē par katru fašistisko ģenerāļu Franko un Molas uzvaru. Ar plēsoņu prieku uzskaita frontēs nogalināto Tautas valdības cīnītāju skaitu, bet apzināti klusē par mežonīgām spīdzināšanām un nonāvēto skaitu pēc pilsētu un apdzīvoto vietu ieņemšanas no fašistiem. Par varoņiem-mocekļiem tiek godināti tautas ekspluatatori, apzadzēji, slepkavas. Par razbainiekiem, laupītājiem, barbariem nicinoši tiek tēloti varonīgi un pašaizliedzīgi pret fašismu aizstāvošies spāņu darbā tautas dēli un meitas.
