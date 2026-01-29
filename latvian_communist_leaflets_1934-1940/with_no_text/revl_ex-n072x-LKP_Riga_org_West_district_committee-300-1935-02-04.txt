@@ -1,5 +1,5 @@
-id: 70
-file_name: revl_ex-n070x-LKP_Riga_org_West_district_committee-300-1935-02-04.txt
+id: 72
+file_name: revl_ex-n072x-LKP_Riga_org_West_district_committee-300-1935-02-04.txt
 title: Daugavpils kara tiesa piespriedusi nāves sodu komunistam Murinam
 author: LKP Rīgas organizācijas Rietumu rajona komiteja
 date: 1935-02-04

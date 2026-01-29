@@ -1,5 +1,5 @@
-id: 68
-file_name: revl_ex-n068x-Latvian_Revolutionary_Writers_Artists_Journalists_Association-500-[1935-01-31...].txt
+id: 70
+file_name: revl_ex-n070x-Latvian_Revolutionary_Writers_Artists_Journalists_Association-500-[1935-01-31...].txt
 title: Mātes! [krievu valodā]
 author: Latvijas Revolucionāro rakstnieku, mākslinieku un žurnālistu apvienība
 date: [1935-01-31...]

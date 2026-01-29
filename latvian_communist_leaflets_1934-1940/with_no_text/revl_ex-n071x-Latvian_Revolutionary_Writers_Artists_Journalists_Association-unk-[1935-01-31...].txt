@@ -1,5 +1,5 @@
-id: 69
-file_name: revl_ex-n069x-Latvian_Revolutionary_Writers_Artists_Journalists_Association-unk-[1935-01-31...].txt
+id: 71
+file_name: revl_ex-n071x-Latvian_Revolutionary_Writers_Artists_Journalists_Association-unk-[1935-01-31...].txt
 title: Atklāta vēstule rakstniekiem!
 author: Latvijas Revolucionāro rakstnieku, mākslinieku un žurnālistu apvienība
 date: [1935-01-31...]
