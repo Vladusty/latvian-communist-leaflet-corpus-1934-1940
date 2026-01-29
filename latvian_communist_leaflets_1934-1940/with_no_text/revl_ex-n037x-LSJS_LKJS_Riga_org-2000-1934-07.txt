@@ -1,0 +1,10 @@
+id: 37
+file_name: revl_ex-n037x-LSJS_LKJS_Riga_org-2000-1934-07.txt
+title: Vienotu fronti pret fašismu un karu!
+author: LSJS Rīgas organizācija un LKJS Rīgas organizācija
+date: 1934-07
+print_run: 2000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 681.
+
+text:

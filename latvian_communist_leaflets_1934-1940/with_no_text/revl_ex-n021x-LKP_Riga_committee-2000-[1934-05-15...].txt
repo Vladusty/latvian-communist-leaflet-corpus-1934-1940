@@ -1,0 +1,10 @@
+id: 21
+file_name: revl_ex-n021x-LKP_Riga_committee-2000-[1934-05-15...].txt
+title: Pret izrēķināšanos ar revolucionāriem strādniekiem darba vietās!... [krievu valodā]
+author: LKP Rīgas komiteja
+date: [1934-05-15...]
+print_run: 2000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 679.
+
+text:

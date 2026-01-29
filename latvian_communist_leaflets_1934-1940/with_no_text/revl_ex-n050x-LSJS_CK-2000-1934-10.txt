@@ -1,10 +1,10 @@
 id: 50
 file_name: revl_ex-n050x-LSJS_CK-2000-1934-10.txt
-title: unk
+title: Par strādnieku vienību!
 author: Latvijas Sociālistiskā jaunatnes savienība
 date: 1934-10
 print_run: 2000
 typography_name: unk
-source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), unk.
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 682.
 
 text:

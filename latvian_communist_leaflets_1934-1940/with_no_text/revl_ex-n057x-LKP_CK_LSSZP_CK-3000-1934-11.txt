@@ -1,10 +1,10 @@
 id: 57
 file_name: revl_ex-n057x-LKP_CK_LSSZP_CK-3000-1934-11.txt
-title: unk
+title: Līgums starp Latvijas Komunistisko partiju un Latvijas Sociālistisko strādnieku-zemnieku partiju
 author: LKP CK un LSSZP CK
 date: 1934-11
 print_run: 3000
 typography_name: unk
-source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), unk.
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 683.
 
 text:

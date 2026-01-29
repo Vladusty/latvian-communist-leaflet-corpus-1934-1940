@@ -1,0 +1,10 @@
+id: 31
+file_name: revl_ex-n031x-Socialdemocratic_Communist_workers_youth_united_struggle_committee-250-1934-06-30.txt
+title: Nost fašistisko Ulmaņa valdību — darbalgas nositēju! Uz nesaudzīgu cīņu pret fašisma uzbrukumu!
+author: Sociāldemokrātisko un komunistisko strādnieku un jauniešu vienota cīņas komiteja
+date: 1934-06-30
+print_run: 250
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 680.
+
+text:

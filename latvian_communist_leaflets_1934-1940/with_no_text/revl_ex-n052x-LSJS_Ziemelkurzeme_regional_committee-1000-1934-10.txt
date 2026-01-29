@@ -1,10 +1,10 @@
 id: 52
 file_name: revl_ex-n052x-LSJS_Ziemelkurzeme_regional_committee-1000-1934-10.txt
-title: unk
+title: Vēl cīņa nav galā!
 author: LSJS Ziemeļkurzemes apgabala komiteja
 date: 1934-10
 print_run: 1000
 typography_name: unk
-source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), unk.
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 683.
 
 text:

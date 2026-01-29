@@ -1,0 +1,10 @@
+id: 33
+file_name: revl_ex-n033x-LKP_woodworkers_faction-100-1934-07-20.txt
+title: Kalniņa kokzāģētavas strādniekiem! (Libeksalā)
+author: LKP kokstrādnieku frakcija
+date: 1934-07-20
+print_run: 100
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 680.
+
+text:

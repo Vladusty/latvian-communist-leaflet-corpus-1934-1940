@@ -1,0 +1,10 @@
+id: 27
+file_name: revl_ex-n027x-LKJS_Riga_org_I_district_tailors_cell-unk-[1934-05-15...].txt
+title: Biedri drēbnieku mācekļi! [izdota arī krievu valodā]
+author: LKJS Rīgas organizācijas 1. rajona drēbnieku šūna
+date: [1934-05-15...]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 679.
+
+text:

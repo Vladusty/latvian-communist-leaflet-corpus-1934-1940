@@ -1,10 +1,10 @@
 id: 6
 file_name: revl_ex-n006-LKP_Riga_committee-200-1934-02.txt
-title: unk
+title: Nepieciešams organizēt bezdarbniekus!
 author: LKP Rīgas komiteja
 date: 1934-02
 print_run: 200
 typography_name: unk
-source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), unk.
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 677.
 
 text:

@@ -1,10 +1,10 @@
 id: 45
 file_name: revl_ex-n045x-LKP_Childrens_Hospital_cell-150-1934-09.txt
-title: unk
+title: Bērnu slimnīcas darbinieki!
 author: LKP Bērnu slimnīcas šūniņa
 date: 1934-09
 print_run: 150
 typography_name: unk
-source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), unk.
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 682.
 
 text:

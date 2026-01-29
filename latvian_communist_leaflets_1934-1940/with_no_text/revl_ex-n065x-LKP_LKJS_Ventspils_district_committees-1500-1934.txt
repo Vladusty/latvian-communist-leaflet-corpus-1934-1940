@@ -1,0 +1,10 @@
+id: 65
+file_name: revl_ex-n065x-LKP_LKJS_Ventspils_district_committees-1500-1934.txt
+title: Biedri strādnieki, kareivji, darba inteliģence, skolnieki!
+author: LKP un LKJS Ventspils rajona komitejas
+date: 1934
+print_run: 1500
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 685.
+
+text:

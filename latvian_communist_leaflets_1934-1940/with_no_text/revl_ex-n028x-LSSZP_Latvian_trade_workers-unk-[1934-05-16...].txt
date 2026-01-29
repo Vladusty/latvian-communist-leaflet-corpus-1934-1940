@@ -1,0 +1,10 @@
+id: 28
+file_name: revl_ex-n028x-LSSZP_Latvian_trade_workers-unk-[1934-05-16...].txt
+title: Latvijas darba tauta!
+author: LSSZP un Latvijas arodnieciskā strādniecība
+date: [1934-05-16...]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 680.
+
+text:

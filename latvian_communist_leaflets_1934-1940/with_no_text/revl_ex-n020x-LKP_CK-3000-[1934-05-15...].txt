@@ -1,0 +1,10 @@
+id: 20
+file_name: revl_ex-n020x-LKP_CK-3000-[1934-05-15...].txt
+title: Biedri strādnieki un strādnieces, lauku un pilsētu darbaļaudis, visi, kas tiekat apspiesti un ekspluatēti!
+author: LKP CK
+date: [1934-05-15...]
+print_run: 3000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 679.
+
+text:
