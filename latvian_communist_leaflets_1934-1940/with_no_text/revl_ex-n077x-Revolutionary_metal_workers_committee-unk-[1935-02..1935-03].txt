@@ -1,0 +1,10 @@
+id: 77
+file_name: revl_ex-n077x-Revolutionary_metal_workers_committee-unk-[1935-02..1935-03].txt
+title: Strādnieki un strādnieces no Bekera atslēgu fabrikas!
+author: Revolucionāro strādnieku metālistu komiteja 
+date: [1935-02..1935-03]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 687.
+
+text:

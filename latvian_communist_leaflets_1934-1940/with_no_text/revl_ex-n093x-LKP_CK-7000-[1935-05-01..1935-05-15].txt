@@ -1,0 +1,10 @@
+id: 93
+file_name: revl_ex-n093x-LKP_CK-7000-[1935-05-01..1935-05-15].txt
+title: LKP CK
+author: Nost fašismu! Lai dzīvo sociālisms!
+date: [1935-05-01..1935-05-15]
+print_run: 7000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 689.
+
+text:

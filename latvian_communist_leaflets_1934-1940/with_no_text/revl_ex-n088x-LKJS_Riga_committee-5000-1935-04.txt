@@ -1,0 +1,10 @@
+id: 88
+file_name: revl_ex-n088x-LKJS_Riga_committee-5000-1935-04.txt
+title: Lai dzīvo revolucionārais 1. Maijs! Lai dzīvo strādnieku šķīras revolucionārā vienība! Lai dzīvo plaša tautas fronte pret karu un fašismu! [izdota arī krievu valodā]
+author: LKJS Rīgas komiteja
+date: 1935-04
+print_run: 5000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 688.
+
+text:

@@ -1,0 +1,10 @@
+id: 80
+file_name: revl_ex-n080x-LKJS_CK-2000-1935-03.txt
+title: Biedri jaunieši, visi Latgales darbaļaudis! [izdota latgaliešu izloksnē]
+author: LKJS CK
+date: 1935-03
+print_run: 2000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 687.
+
+text:

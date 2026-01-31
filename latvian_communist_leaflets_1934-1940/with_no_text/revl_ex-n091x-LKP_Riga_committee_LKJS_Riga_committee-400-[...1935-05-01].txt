@@ -1,0 +1,10 @@
+id: 91
+file_name: revl_ex-n091x-LKP_Riga_committee_LKJS_Riga_committee-400-[...1935-05-01].txt
+title: Ārā fašistus no arodbiedrību valdēm!
+author: LKP un LKJS Rīgas komiteja
+date: [...1935-05-01]
+print_run: 400
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 688.
+
+text:
