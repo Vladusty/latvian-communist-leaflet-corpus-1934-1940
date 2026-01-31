@@ -1,0 +1,10 @@
+id: 76
+file_name: revl_ex-n076x-Latvian_United_Revolutionary_Writers_Artists_Journalists_Association_Central_Board-2000-1935-02.txt
+title: Visiem Latvijas pretfašistiem! [izdota arī krievu valodā]
+author: Latvijas Apvienoto revolucionāro rakstnieku, mākslinieku un žurnālistu apvienības Centrālā valde
+date: 1935-02
+print_run: 2000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 686.
+
+text:
