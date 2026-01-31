@@ -1,0 +1,10 @@
+id: 74
+file_name: revl_ex-n074x-LSSZP_CK_LSJS_CK-2000-1935-02-06.txt
+title: Atcelt nāves sodus revolucionāriem strādniekiem! Nost asiņaino fašistisko slepkavu diktatūras režīmu!
+author: LSSZP CK un LSJS CK
+date: 1935-02-06
+print_run: 2000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 686.
+
+text:
