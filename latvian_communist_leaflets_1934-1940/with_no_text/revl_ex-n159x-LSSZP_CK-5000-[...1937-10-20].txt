@@ -1,0 +1,10 @@
+id: 159
+file_name: revl_ex-n159x-LSSZP_CK-5000-[...1937-10-20].txt
+title: Nost Ulmaņa bada režīmu! Cīņā par augstākām algām un savām tiesībām!
+author: LSSZP CK
+date: [...1937-10-20]
+print_run: 5000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 698.
+
+text:

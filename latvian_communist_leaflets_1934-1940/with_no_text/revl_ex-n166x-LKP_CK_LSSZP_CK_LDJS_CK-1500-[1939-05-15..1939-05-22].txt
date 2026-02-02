@@ -1,0 +1,10 @@
+id: 166
+file_name: revl_ex-n166x-LKP_CK_LSSZP_CK_LDJS_CK-1500-[1939-05-15..1939-05-22].txt
+title: Nost 15. maija noziedznieku valdību! Spoži un grezni Latvijas izpārdošanas svētki!
+author: LKP CK, LSSZP CK un LDJS CK
+date: [1939-05-15..1939-05-22]
+print_run: 1500
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 699.
+
+text:

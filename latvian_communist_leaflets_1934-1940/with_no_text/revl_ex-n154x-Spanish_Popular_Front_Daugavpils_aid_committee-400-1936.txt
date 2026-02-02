@@ -1,0 +1,10 @@
+id: 154
+file_name: revl_ex-n154x-Spanish_Popular_Front_Daugavpils_aid_committee-400-1936.txt
+title: Spāņu tautas slavenā varonīgā cīņa...
+author: Spāņu Tautas frontes Daugavpils palīdzības komiteja
+date: 1936
+print_run: 400
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 697.
+
+text:

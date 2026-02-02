@@ -1,0 +1,10 @@
+id: 163
+file_name: revl_ex-n163x-LDJS_Riga_committee-unk-[...1938-10-01].txt
+title: Latvju tautas strādnieki, zemnieki, inteliģence!
+author: LDJS Rīgas komiteja
+date: [...1938-10-01]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 698.
+
+text:
