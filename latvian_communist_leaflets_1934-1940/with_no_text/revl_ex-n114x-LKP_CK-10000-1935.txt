@@ -1,0 +1,10 @@
+id: 114
+file_name: revl_ex-n114x-LKP_CK-10000-1935.txt
+title: Nost fašistiskos Hitlera kalpus, lauku darbaļaužu izpostītājus un ūtrupju rīkotājus! Par visu banku, rentes un nodokļu parādu strīpošanu trūcīgiem, sīkiem un vidējiem zemniekiem!
+author: LKP CK
+date: 1935
+print_run: 10000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 691.
+
+text:

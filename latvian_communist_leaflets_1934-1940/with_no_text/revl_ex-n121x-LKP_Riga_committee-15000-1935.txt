@@ -1,0 +1,10 @@
+id: 121
+file_name: revl_ex-n121x-LKP_Riga_committee-15000-1935.txt
+title: Prasām pilnīgi atbrīvot no nodokļiem visus bodniekus, tirgus vietas turētājus, nomaļniekus, ormaņus un šoferus, kuri strādā pašu un ar savu ģimeņu rokām!
+author: LKP Rīgas komiteja
+date: 1935
+print_run: 15000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 693.
+
+text:

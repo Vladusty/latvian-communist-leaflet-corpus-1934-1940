@@ -1,0 +1,10 @@
+id: 107
+file_name: revl_ex-n107x-LKP_LSSZP_Liepaja_org_committee-1000-[1935-08..1935-09].txt
+title: Ulmanis karā pret tautu!
+author: LKP Liepājas organizācijas komiteja un LSSZP Liepājas organizācijas komiteja
+date: [1935-08..1935-09]
+print_run: 1000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 690.
+
+text:

@@ -1,0 +1,10 @@
+id: 108
+file_name: revl_ex-n108x-LSSZP_CK-5000-[1935-10-13..1935-10-25].txt
+title: Jo grūtāki laiki — jo lepnāki svētki!
+author: LSSZP CK
+date: [1935-10-13..1935-10-25]
+print_run: 5000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 691.
+
+text:

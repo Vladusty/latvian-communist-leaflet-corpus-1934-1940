@@ -1,0 +1,10 @@
+id: 111
+file_name: revl_ex-n111x-LKJS_regional_and_city_committee-3000-1935-10.txt
+title: Padomju Savienība iet no uzvaras uz uzvaru! [krievu valodā]
+author: [LK] partijas apgabala un pilsētas komiteja [domāta komjaunatne (red.)]
+date: 1935-10
+print_run: 3000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 691.
+
+text:

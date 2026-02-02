@@ -1,0 +1,10 @@
+id: 120
+file_name: revl_ex-n120x-LKP_Riga_committee-15000-1935.txt
+title: Nost ar laupīšanas karu, ko imperiālistiskās plēsoņas ar hitleriskās Vācijas, Polijas un Japānas imperiālistiem priekšgalā gatavo pret SPRS!
+author: LKP Rīgas komiteja
+date: 1935
+print_run: 15000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 692.
+
+text:

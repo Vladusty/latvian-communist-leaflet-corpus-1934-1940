@@ -1,0 +1,10 @@
+id: 105
+file_name: revl_ex-n105x-LKP_woodworkers_faction-2000-1935-06-16.txt
+title: Biedri kokstrādnieki!
+author: LKP kokstrādnieku frakcija
+date: 1935-06-16
+print_run: 2000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 690.
+
+text:

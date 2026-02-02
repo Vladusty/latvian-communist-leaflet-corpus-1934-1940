@@ -1,0 +1,10 @@
+id: 102
+file_name: revl_ex-n102x-SP_Riga_org_I_district_committee-unk-[1935-05-15...].txt
+title: Biedri strādnieki un darbaļaudis! [krievu valodā]
+author: Mopra 1. rajona komiteja
+date: [1935-05-15...]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 690.
+
+text:

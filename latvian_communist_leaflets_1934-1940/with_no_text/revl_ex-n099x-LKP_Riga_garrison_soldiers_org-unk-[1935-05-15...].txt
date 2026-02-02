@@ -1,0 +1,10 @@
+id: 99
+file_name: revl_ex-n099x-LKP_Riga_garrison_soldiers_org-unk-[1935-05-15...].txt
+title: Visiem Rīgas garnizona kareivjiem!
+author: LKP Rīgas garnizona kareivju organizācija
+date: [1935-05-15...]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 689.
+
+text:
