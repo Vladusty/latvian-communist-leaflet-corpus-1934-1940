@@ -1,0 +1,10 @@
+id: 169
+file_name: revl_ex-n169x-LKP_Latgale_regional_committee-3000-[1939-10-05...].txt
+title: Latvijas Komunistiskās partijas Latgales apgabala komitejas aicinājums. Visiem partijas biedriem, Latvijas Darba jaunatnes biedriem, revolucionārām komitejām. Visiem Latgales darbaļaudīm! [krievu valodā]
+author: LKP Latgales apgabala komiteja
+date: [1939-10-05...]
+print_run: 3000
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 699.
+
+text:
