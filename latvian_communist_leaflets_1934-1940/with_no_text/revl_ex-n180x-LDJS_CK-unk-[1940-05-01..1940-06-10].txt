@@ -1,0 +1,10 @@
+id: 180
+file_name: revl_ex-n180x-LDJS_CK-unk-[1940-05-01..1940-06-10].txt
+title: Pret imperiālistisko karu un piespiedu darbiem!
+author: LDJS CK
+date: [1940-05-01..1940-06-10]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 701.
+
+text:

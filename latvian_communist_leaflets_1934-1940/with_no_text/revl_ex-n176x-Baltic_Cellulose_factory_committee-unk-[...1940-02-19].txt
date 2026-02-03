@@ -1,0 +1,10 @@
+id: 176
+file_name: revl_ex-n176x-Baltic_Cellulose_factory_committee-unk-[...1940-02-19].txt
+title: Biedri Baltijas celulozes fabrikas strādnieki!
+author: Baltijas Celulozes fabrikas komiteja
+date: [...1940-02-19]
+print_run: unk
+typography_name: unk
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 700.
+
+text:
