@@ -3,7 +3,7 @@ file_name: revl-n055-United_antifascist_committee-1934-07.txt
 title: Vienotās pretfašisma cīņas komitejas lapiņa par fašistu represijām pret progresīvajiem strādniekiem un inteliģentiem, ar aicinājumu cīnīties pret fašistisko diktatūru
 author: Vienotās pretfašisma cīņas komiteja
 date: 1934-07
-print_run: ?
+print_run: unk
 typography_name: Spartaks
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 122–123.
 

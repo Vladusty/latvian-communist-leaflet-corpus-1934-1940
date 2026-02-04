@@ -3,8 +3,8 @@ file_name: revl-n065-LKJS_CK_LKJS_Riga_committee-1934-09-03.txt
 title: LKJS CK un LKJS Rīgas komitejas uzsaukums Latvijas skolu jaunatnei cīnīties pret skolu fašizāciju un militarizāciju, pret progresīvo skolnieku un skolotāju vajāšanu
 author: LKJS CK un LKJS Rīgas komiteja
 date: 1934-09-03
-print_run: ?
-typography_name: ?
+print_run: unk
+typography_name: unk
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 140–143.
 
 text:

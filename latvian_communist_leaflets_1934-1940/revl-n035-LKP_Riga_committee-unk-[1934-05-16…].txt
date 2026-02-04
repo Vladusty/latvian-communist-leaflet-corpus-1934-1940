@@ -3,7 +3,7 @@ file_name: revl-n035-LKP_Riga_committee-[1934-05-16…].txt
 title: LKP Rīgas komitejas uzsaukums Latvijas darbaļaudīm uzsāki ģenerālstreiku pret fašistisko diktatūru
 author: LKP Rīgas komiteja
 date: [1934-05-16…]
-print_run: ?
+print_run: unk
 typography_name: Spartaks
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 84–85.
 

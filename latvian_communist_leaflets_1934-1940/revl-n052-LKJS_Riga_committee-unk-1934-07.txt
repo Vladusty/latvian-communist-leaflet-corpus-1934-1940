@@ -3,8 +3,8 @@ file_name: revl-n052-LKJS_Riga_committee-1934-07.txt
 title: LKJS Rīgas komitejas uzsaukums darba jauniešiem atzīmēt Starptautisko pretkara dienu ar cīņas pastiprināšanu pret Latvijas buržuāzijas kara gatavošanas politiku
 author: LKJS Rīgas komiteja
 date: 1934-07
-print_run: ?
-typography_name: ?
+print_run: unk
+typography_name: unk
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 117–119.
 
 text:

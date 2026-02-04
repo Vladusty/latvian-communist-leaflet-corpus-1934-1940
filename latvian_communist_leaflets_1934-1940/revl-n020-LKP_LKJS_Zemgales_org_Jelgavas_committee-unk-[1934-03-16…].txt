@@ -3,7 +3,7 @@ file_name: revl-n020-LKP_LKJS_Zemgales_org_Jelgavas_committee -[1934-03-16…].t
 title: LKP un LKJS Zemgales apgabala organizācijas Jelgavas rajona komitejas lapiņa par buržuāzijas teroru pret revolucionāro strādniecību
 author: LKP Zemgales apgabala organizācija un LKJS Zemgales apgabala organizācija
 date: [1934-03-16…]
-print_run: ?
+print_run: unk
 typography_name: Spartaks
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 55–56.
 

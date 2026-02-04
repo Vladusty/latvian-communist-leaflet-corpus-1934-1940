@@ -3,7 +3,7 @@ file_name: revl-n038-LKP_Riga_committee-[…1934-05-25].txt
 title: LKP Rīgas komitejas uzsaukums Rīgas darbaļaudīm organizēties vienotā revolucionārā frontē pret fašistisko diktatūru un gatavoties ģenerālstreikam
 author: LKP Rīgas komiteja
 date: […1934-05-25]
-print_run: ?
+print_run: unk
 typography_name: Spartaks
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 89–90.
 
@@ -18,4 +18,4 @@ Par vienotu revolucionāru cīņas fronti pret fašistiem!
 Lai dzīvo Latvijas Komunistiskā partija! 
 Lai dzīvo proletāriskā revolūcija Latvijā!
 
-LKP Rīgas komitejā
+LKP Rīgas komiteja
