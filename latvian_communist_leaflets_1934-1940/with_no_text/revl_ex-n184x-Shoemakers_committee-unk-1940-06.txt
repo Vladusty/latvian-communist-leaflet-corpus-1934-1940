@@ -1,10 +1,11 @@
-id: 185
-file_name: revl_ex-n185x-Shoemakers_committee-unk-1940-06.txt
+id: 184
+file_name: revl_ex-n184x-Shoemakers_committee-unk-1940-06.txt
 title: Biedri strādnieki — apavnieki!
 author: Apavnieku komiteja
 date: 1940-06
 print_run: unk
 typography_name: unk
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 701.
 
 text:

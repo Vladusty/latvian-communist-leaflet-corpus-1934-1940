@@ -1,10 +1,11 @@
-id: 183
-file_name: revl_ex-n183x-LSSZP_CK_LDJS_CK-unk-[1940-06-17...].txt
-title: Strādnieki, zemnieki, jaunatne, inteliģence!
-author: LSSZP CK un LDJS CK
-date: [1940-06-17...]
+id: 185
+file_name: revl_ex-n185x-LKP_CK-unk-[...1940-07-14].txt
+title: Laukstrādnieki!
+author: LKP CK
+date: [...1940-07-14]
 print_run: unk
 typography_name: unk
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 701.
 
 text:

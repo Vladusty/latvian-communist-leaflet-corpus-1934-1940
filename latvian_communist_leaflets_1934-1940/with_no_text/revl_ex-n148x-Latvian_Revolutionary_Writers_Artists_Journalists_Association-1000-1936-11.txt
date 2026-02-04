@@ -5,6 +5,7 @@ author: Latvijas Revolucionāro rakstnieku, mākslinieku un žurnālistu apvien�
 date: 1936-11
 print_run: 1000
 typography_name: unk
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 696.
 
 text:
