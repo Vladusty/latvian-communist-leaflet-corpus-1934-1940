@@ -1,6 +1,6 @@
 id: 4a
 file_name: revl-n004a-LKP_CK-3000-[…1934-01-30].txt
-title: LKP CK aicinājums bezdarbniekiem organizēties cīņai par ekonomiskā un tiesiskā stāvokļa uzlabošanu
+title: LKP CK aicinājums bezdarbniekiem organizēties cīņai par ekonomiskā un tiesiskā stāvokļa uzlabošanu [izdota arī krievu valodā]
 author: LKP CK
 date: […1934-01-30]
 print_run: 3000
