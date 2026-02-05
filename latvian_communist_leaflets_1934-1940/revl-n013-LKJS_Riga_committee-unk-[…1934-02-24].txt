@@ -1,10 +1,11 @@
 id: 13
-file_name: revl-n013-LKJS_Riga_committee-[…1934-02-24].txt
+file_name: revl-n013-LKJS_Riga_committee-unk-[…1934-02-24].txt
 title: LKJS Rīgas komitejas uzsaukums ar sociāldemokrātu sastādītā projekta par nodrošināšanu bezdarba, vecuma un darba nespējas gadījumā kritiku un aicinājumu Rīgas darba jauniešiem vienotā frontē ar sociāldemokrātiskiem strādniekiem cīnīties par pilnīgu apdrošināšanu
 author: LKJS Rīgas komiteja
 date: […1934-02-24]
 print_run: unk
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 36–38.
 
 text:

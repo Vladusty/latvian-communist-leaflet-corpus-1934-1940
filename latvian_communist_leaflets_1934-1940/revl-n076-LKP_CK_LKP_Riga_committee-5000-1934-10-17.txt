@@ -1,5 +1,5 @@
 id: 76
-file_name: revl-n076-LKP_CK_LKP_Riga_committee-1934-10-17.txt
+file_name: revl-n076-LKP_CK_LKP_Riga_committee-5000-1934-10-17.txt
 title: LKP CK un LKP Rīgas komitejas lapiņa par PSRS sociālistiskās celtniecības sasniegumiem un par proletariāta ciņu pret buržuāzisko iekārtu kapitālistiskajās valstīs, ar aicinājumu Latvijas darbaļaudīm cīnīties par savām ekonomiskām un politiskām prasībām, pret fašistisko diktatūru un kara gatavošanu pret PSRS
 author: LKP CK un LKP Rīgas komiteja
 date: 1934-10-17

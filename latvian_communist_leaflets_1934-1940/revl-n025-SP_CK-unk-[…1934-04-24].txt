@@ -1,5 +1,5 @@
 id: 25
-file_name: revl-n025-SP_CK-[…1934-04-24].txt
+file_name: revl-n025-SP_CK-unk-[…1934-04-24].txt
 title: Latvijas Sarkanās Palīdzības CK Pirmā Maija lapiņa, kas vēsti par izrēķināšanos ar politiskajiem ieslodzītajiem Rīgas Centrālcietumā un aicina darbaļaudis pieprasīt politieslodzīto atbrīvošanu
 author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: […1934-04-24]

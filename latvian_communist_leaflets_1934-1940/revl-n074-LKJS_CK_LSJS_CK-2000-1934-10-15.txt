@@ -1,5 +1,5 @@
 id: 74
-file_name: revl-n074-LKJS_CK_LSJS_CK-1934-10-15.txt
+file_name: revl-n074-LKJS_CK_LSJS_CK-2000-1934-10-15.txt
 title: LKJS CK un LSJS CK deklarācija par komunistiskās un sociālistiskās jaunatnes vienotu rīcību cīņā pret fašismu un karu gatavošanu
 author: LKJS CK
 date: 1934-10-15

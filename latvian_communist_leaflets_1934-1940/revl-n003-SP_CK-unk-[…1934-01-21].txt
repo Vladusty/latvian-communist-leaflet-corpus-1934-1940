@@ -1,10 +1,11 @@
 id: 3
-file_name: revl-n003-SP_CK-[…1934-01-21].txt
+file_name: revl-n003-SP_CK-unk-[…1934-01-21].txt
 title: Latvijas Sarkanās Palīdzības CK lapiņa, kas veltīta V. I. Ļeņina, K. Lībknehta un R. Luksemburgas piemiņai, ar aicinājumu darbaļaudīm cīnīties pret fašisma draudiem un palīdzēt politieslodzītajiem
 author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: […1934-01-21]
 print_run: unk
 typography_name: «Sarkanās Palīdzības» spiestuve
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 12–14.
 
 text:

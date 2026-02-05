@@ -1,10 +1,11 @@
 id: 17
-file_name: revl-n017-LKP_CK_Womens_center-[…1934-03-08].txt
+file_name: revl-n017-LKP_CK_Womens_center-5000-[…1934-03-08].txt
 title: LKP CK Sieviešu centra lapiņa Starptautiskajai sieviešu dienai ar aicinājumu darba sievietēm cīnīties pret karu, par PSRS aizstāvēšanu 
 author: LKP CK Sieviešu centrs
 date: […1934-03-08]
 print_run: 5000
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 48–50.
 
 text:

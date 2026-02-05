@@ -1,10 +1,11 @@
 id: 11
-file_name: revl-n011-LKP_Riga_committee-[…1934-02-12].txt
+file_name: revl-n011-LKP_Riga_committee-6000-[…1934-02-12].txt
 title: LKP Rīgas komitejas uzsaukums darbaļaudīm piedalīties sociāldemokrātu ierosinātajā tautas nobalsošanā par vecuma pensijām, apdrošināšanu vecuma un bezdarba gadījumā un nostiprināt strādnieku šķiras vienotu fronti cīņai pret fašismu
 author: LKP Rīgas komiteja
 date: […1934-02-12]
 print_run: 6000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 30–33.
 
 text:

@@ -1,5 +1,5 @@
 id: 75
-file_name: revl-n075-LKJS_Riga_committee-[1934-10-15…].txt
+file_name: revl-n075-LKJS_Riga_committee-unk-[1934-10-15…].txt
 title: LKJS Rīgas komitejas lapiņa, kas veltīta Lielās Oktobra sociālistiskās revolūcijas 17. gadadienai, ar aicinājumu darba jaunatnei uz vienotu cīņu pret fašistisko diktatūru
 author: LKJS Rīgas komiteja
 date: [1934-10-15…]

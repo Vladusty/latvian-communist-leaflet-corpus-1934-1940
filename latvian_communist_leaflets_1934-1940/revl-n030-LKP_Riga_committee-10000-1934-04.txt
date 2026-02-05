@@ -1,5 +1,5 @@
 id: 30
-file_name: revl-n030-LKP_Riga_committee-1934-04.txt
+file_name: revl-n030-LKP_Riga_committee-10000-1934-04.txt
 title: LKP Rīgas komitejas Pirmā Maija lapiņa ar aicinājumu strādniekiem apvienoties vienotā antifašistiskā frontē pret uzbrūkošo fašismu, par strādnieku ekonomiskajām un politiskajām prasībām
 author: LKP Rīgas komiteja
 date: 1934-04

@@ -1,5 +1,5 @@
 id: 27
-file_name: revl-n027-LKJS_Riga_committee-1934-04.txt
+file_name: revl-n027-LKJS_Riga_committee-3000-1934-04.txt
 title: LKJS Rīgas komitejas Pirmā Maija uzsaukums Rīgas darba jauniešiem piedalīties 1. Maija demonstrācijā un mītiņos
 author: LKJS Rīgas komiteja
 date: 1934-04

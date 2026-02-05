@@ -1,5 +1,5 @@
 id: 23
-file_name: revl-n023-LKP_LKJS_Ventspils_committee-[…1934-04-05].txt
+file_name: revl-n023-LKP_LKJS_Ventspils_committee-1500-[…1934-04-05].txt
 title: No LKP un LKJS Ventspils rajona komiteju uzsaukuma jaunkareivjiem veikt revolucionāru darbu armijā un būt gataviem aizstāvēt PSRS
 author: LKP un LKJS Ventspils rajona komiteja
 date: […1934-04-05]

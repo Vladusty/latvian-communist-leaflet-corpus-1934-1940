@@ -1,5 +1,5 @@
 id: 26
-file_name: revl-n026-LKP_CK-[…1934-04-27].txt
+file_name: revl-n026-LKP_CK-10000-[…1934-04-27].txt
 title: No LKP CK Pirmā Maija uzsaukuma Latvijas darbaļaudīm vienotā revolucionārā frontē cīnīties pret fašisma draudiem, par proletariāta diktatūru
 author: LKP CK
 date: […1934-04-27]

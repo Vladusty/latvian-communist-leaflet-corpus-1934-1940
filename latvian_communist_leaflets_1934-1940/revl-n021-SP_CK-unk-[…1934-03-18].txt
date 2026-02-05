@@ -1,5 +1,5 @@
 id: 21
-file_name: revl-n021-SP_CK -[…1934-03-18].txt
+file_name: revl-n021-SP_CK-unk-[…1934-03-18].txt
 title: Latvijas Sarkanās Palīdzības CK lapiņa par buržuāzijas uzbrukumu darbaļaužu politiskajām un ekonomiskajām tiesībām, ar aicinājumu cīnīties par saeimas strādnieku-zemnieku frakcijas deputātu atbrīvošanu
 author: Latvijas Sarkanās Palīdzības Centrālā komiteja 
 date: […1934-03-18]

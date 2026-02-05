@@ -1,10 +1,11 @@
 id: 5
-file_name: revl-n005-LKP_CK_LKJS_CK-1934-01.txt
+file_name: revl-n005-LKP_CK_LKJS_CK-5000-1934-01.txt
 title: No LKP CK un LKJS CK uzsaukuma darba zemniekiem, būdniekiem, rentniekiem un pusgraudniekiem prasīt parādu likvidēšanu, nodokļu atcelšanu un ūtrupju izbeigšanu
-author: LKP CK; LKJS CK
+author: LKP CK un LKJS CK
 date: 1934-01
 print_run: 5000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 18–20.
 
 text:

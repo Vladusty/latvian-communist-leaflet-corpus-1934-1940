@@ -1,10 +1,11 @@
 id: 6
-file_name: revl-n006-LKJS_Riga_committee-1934-01.txt
+file_name: revl-n006-LKJS_Riga_committee-3000-1934-01.txt
 title: LKJS Rīgas komitejas lapiņa ar tekstilrūpniecības strādnieku prasībām un aicinājumu Rīgas tekstilrūpniecības strādniekiem uzsākt vispārēju streiku par savu prasību apmierināšanu 
 author: LKJS Rīgas komiteja
 date: 1934-01
 print_run: 3000
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 20–22.
 
 text:

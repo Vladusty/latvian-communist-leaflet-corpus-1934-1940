@@ -1,10 +1,11 @@
 id: 1
-file_name: revl-LKP_LKJS_Vidienas_org-[1934-01-11…].txt
+file_name: LKP_LKJS_Vidienas_org-5000-[1934-01-11…].txt
 title: LKP un LKJS Vidienas organizācijas lapiņa par darbaļaužu smago stāvokli kapitālistiskajās zemēs, ar aicinājumu darbaļaudīm organizēties cīņai par savām ekonomiskajām un politiskajām prasībām, par Padomju Latviju
 author: LKP Vidienas organizācija un LKJS Vidienas organizācijas
 date: [1934-01-11…]
 print_run: 5000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 9–10.
 
 text:

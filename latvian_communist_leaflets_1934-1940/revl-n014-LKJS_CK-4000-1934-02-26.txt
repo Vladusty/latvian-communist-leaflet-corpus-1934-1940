@@ -1,10 +1,11 @@
 id: 14
-file_name: revl-n014-LKJS_CK-1934-02-26.txt
+file_name: revl-n014-LKJS_CK-4000-1934-02-26.txt
 title: No LKJS CK lapiņas jaunkareivjiem, kareivjiem un matrožiem ar brīdinājumu par imperiālistu gatavošanos jaunam pasaules karam un aicinājumu neļaut buržuāzijai izmantot armiju cīņai pret revolucionāro kustību un Padomju Savienību
 author: LKJS CK
 date: 1934-02-26
 print_run: 4000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 38–41.
 
 text:

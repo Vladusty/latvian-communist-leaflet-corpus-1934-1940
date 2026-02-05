@@ -1,5 +1,5 @@
 id: 29
-file_name: revl-n029-LKP_LKJS_Ventspils_committee-1934-04.txt
+file_name: revl-n029-LKP_LKJS_Ventspils_committee-500-1934-04.txt
 title: LKP un LKJS Ventspils rajona komiteju Pirmā Maija lapiņa ar aicinājumu sociāldemokrātiskajiem strādniekiem organizēt vienotu fronti cīņā pret fašismu
 author: LKP Ventspils rajona komiteja un LKJS Ventspils rajona komiteja
 date: 1934-04

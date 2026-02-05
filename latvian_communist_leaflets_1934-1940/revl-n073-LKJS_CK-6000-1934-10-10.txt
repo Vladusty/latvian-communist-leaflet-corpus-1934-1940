@@ -1,5 +1,5 @@
 id: 73
-file_name: revl-n073-LKJS_CK-1934-10-10.txt
+file_name: revl-n073-LKJS_CK-6000-1934-10-10.txt
 title: LKJS CK lapiņa Lielās Oktobra sociālistiskās revolūcijas 17. gadadienai ar aicinājumu jaunatnei cīnīties pret uzbrukuma gatavošanu PSRS, pret fašistisko diktatūru, par Padomju Latviju
 author: LKJS CK
 date: 1934-10-10
