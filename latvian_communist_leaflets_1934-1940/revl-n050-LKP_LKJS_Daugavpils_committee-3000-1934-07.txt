@@ -1,10 +1,11 @@
 id: 50
 file_name: revl-n050-LKP_LKJS_Daugavpils_committee-1934-07.txt
-title: LKP un LKJS Daugavpils pilsētas komitejas lapiņa ar brīdinājumu darbaļaudīm par imperiālistu gatavojamo uzbrukumu PSRS un aicinājumu apvienot spēkus cīņai pret fašismu un karu
+title: LKP un LKJS Daugavpils pilsētas komitejas lapiņa ar brīdinājumu darbaļaudīm par imperiālistu gatavojamo uzbrukumu PSRS un aicinājumu apvienot spēkus cīņai pret fašismu un karu [tulkota no krievu valodas]
 author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
 date: 1934-07
 print_run: 3000
 typography_name: Spartaks
+production_method: shapirograph
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 113–116.
 
 text:

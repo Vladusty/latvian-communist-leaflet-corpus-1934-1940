@@ -5,6 +5,7 @@ author: LKJS CK
 date: 1934-05-23
 print_run: 4000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 87–89.
 
 text:

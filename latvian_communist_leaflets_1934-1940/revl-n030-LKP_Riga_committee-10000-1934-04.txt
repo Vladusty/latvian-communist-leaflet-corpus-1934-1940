@@ -1,10 +1,11 @@
 id: 30
 file_name: revl-n030-LKP_Riga_committee-10000-1934-04.txt
-title: LKP Rīgas komitejas Pirmā Maija lapiņa ar aicinājumu strādniekiem apvienoties vienotā antifašistiskā frontē pret uzbrūkošo fašismu, par strādnieku ekonomiskajām un politiskajām prasībām
+title: LKP Rīgas komitejas Pirmā Maija lapiņa ar aicinājumu strādniekiem apvienoties vienotā antifašistiskā frontē pret uzbrūkošo fašismu, par strādnieku ekonomiskajām un politiskajām prasībām [izdota arī krievu valodā]
 author: LKP Rīgas komiteja
 date: 1934-04
 print_run: 10000
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 75–77.
 
 text:

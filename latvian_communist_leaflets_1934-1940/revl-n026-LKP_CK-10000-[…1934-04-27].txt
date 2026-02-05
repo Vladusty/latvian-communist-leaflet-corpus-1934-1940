@@ -1,10 +1,11 @@
 id: 26
 file_name: revl-n026-LKP_CK-10000-[…1934-04-27].txt
-title: No LKP CK Pirmā Maija uzsaukuma Latvijas darbaļaudīm vienotā revolucionārā frontē cīnīties pret fašisma draudiem, par proletariāta diktatūru
+title: No LKP CK Pirmā Maija uzsaukuma Latvijas darbaļaudīm vienotā revolucionārā frontē cīnīties pret fašisma draudiem, par proletariāta diktatūru [izdota arī krievu valodā]
 author: LKP CK
 date: […1934-04-27]
 print_run: 10000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 67–70.
 
 text:

@@ -1,10 +1,11 @@
 id: 45
 file_name: revl-n045-LKP_Riga_committee-[…1934-07-17].txt
-title: LKP Rīgas komitejas lāpiņa par progresīvo strādnieku un darbinieku atlaišanu no darba un uzņēmumu fašizāciju, ar aicinājumu strādniekiem rīkot protesta streikus
+title: LKP Rīgas komitejas lāpiņa par progresīvo strādnieku un darbinieku atlaišanu no darba un uzņēmumu fašizāciju, ar aicinājumu strādniekiem rīkot protesta streikus [izdota arī krievu valodā]
 author: LKP Rīgas komiteja
 date: […1934-07-17]
 print_run: 2000
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 101–103.
 
 text:
