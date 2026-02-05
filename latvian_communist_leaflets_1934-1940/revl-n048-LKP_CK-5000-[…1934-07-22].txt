@@ -1,5 +1,5 @@
 id: 48
-file_name: revl-n048-LKP_CK-[…1934-07-22].txt
+file_name: revl-n048-LKP_CK-5000-[…1934-07-22].txt
 title: LKP CK lapiņa 20. gadadienā kopš pirmā pasaules kara sākuma, ar aicinājumu darbaļaudīm sakļauties cīņai pret fašismu un karā gatavošanu
 author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: […1934-07-22]

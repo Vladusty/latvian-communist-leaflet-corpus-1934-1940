@@ -1,5 +1,5 @@
 id: 50
-file_name: revl-n050-LKP_LKJS_Daugavpils_committee-1934-07.txt
+file_name: revl-n050-LKP_LKJS_Daugavpils_committee-3000-1934-07.txt
 title: LKP un LKJS Daugavpils pilsētas komitejas lapiņa ar brīdinājumu darbaļaudīm par imperiālistu gatavojamo uzbrukumu PSRS un aicinājumu apvienot spēkus cīņai pret fašismu un karu [tulkota no krievu valodas]
 author: LKP Daugavpils pilsētas komiteja un LKJS Daugavpils pilsētas komiteja
 date: 1934-07

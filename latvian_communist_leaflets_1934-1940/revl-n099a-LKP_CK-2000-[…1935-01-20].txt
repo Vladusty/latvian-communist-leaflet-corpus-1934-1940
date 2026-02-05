@@ -1,0 +1,25 @@
+id: 99a
+file_name: revl-n099a-LKP_CK-2000-[…1935-01-20].txt
+title: LKP CK lapiņa par fašistu izrēķināšanos ar politieslodzītajiem, ar aicinājumu darbaļaudīm nepieļaut politieslodzīto stāvokļa pasliktināšanu [izdota arī krievu valodā]
+author: LKP CK
+date: […1935-01-20]
+print_run: 2000
+typography_name: Spartaks
+production_method: typographic
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 214–215.
+
+text:
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
+BIEDRI STRĀDNIEKI UN STRĀDNIECES, LAUKU UN PILSĒTU DARBAĻAUDIS, VISI, KAS TIEKAT APSPIESTI UN EKSPLUATĒTI!
+Ulmaņa fašistiskie bendes gatavo atkal jaunas varmācības un mocības cietumos strādnieku aktīvākiem cīnītājiem.
+Nāves režīms cietumos, zvēriskās spīdzināšanas, badā mērdēšana, saldēšana tumšos, ledainos moku kambaros, necilvēcīgas pazemošanas un normālam cilvēkam pat neiedomājamas neķītrības, kādas jau gadu desmitiem speciāli izmeklēti sadisti pielieto pret politieslodzītajiem, tagadējiem fašistiskajiem bendēm liekas vēl par nepietiekošiem. Pārāk gausa un neapmierinoša tiem liekas pašaizliedzīgo revolucionāru pamazītēja nobendēšana, kas tika pastiprināta, nāves režīmu ievedot. Nāves režīms, necilvēcīgā apiešanās un zvēriskā spīdzināšana nespēj salauzt bendes rokās kritušo strādnieku priekšpulka varoņu izturētību un uzticību savai šķirai, tādēļ fašistiskie «šķiru likvidētāji», «tautas apvienotāji» un «strādnieku aizstāvētāji» projektē vienmēr jaunas nelietības un bendēšanas paņēmienus, lai drīzāk fiziski iznīcinātu nesalaužamos un nesamierināmos cīnītājus.
+Hitleriskajai Vācijai pārdevušies Ulmaņa kalpi šinīs dienās grib ar varu piespiest politieslodzītos iet katorgas darbos, kur viņu mocīšana un pazemošana tiks vēl vairāk pastiprināta!
+Sociāldemokrātiskie un bezpartejiskie strādnieki, darba jaunieši, ekspluatētie inteliģenti un visi, kas esat pret asiņaino fašisma režīmu un Latvijas pārdošanu hitleriskajai Vācijai!
+Nepielaidīsim jaunas mocības un pazemošanas mūsu biedriem, kas, varonīgi cīnoties pret apspiedējiem, krituši fašistisko slepkavu gūstā!
+Visi vienotā pretfašisma frontē uzstāsimies pret Ulmaņa neģēlīgajiem asinssuņiem un Latvijas darba tautas pārdevējiem ārzemju fašistiem, imperiālistisko karu un kontrrevolucionāras intervences gatavotājiem!
+Rīkosim kopējus protesta mītiņus un demonstrācijas, pieņemsim protesta rezolūcijas un sūtīsim tās Ulmaņa fašistiskajai valdībai, gatavosimies politiskam masu streikam un palīdzēsim mūsu ieslodzītajiem cīņas biedriem, kurus fašistiskie bendes grib piespiest atkal ķerties pie pēdējā līdzekļa — bada streika!
+Prasīsim atcelt nāves režīmu, nesūtīt katorgas darbos un atsvabināt visus, kas ieslodzīti par cīņu pret fašismu un buržuāzijas uzbrukumiem!
+Nost Ulmaņa fašistisko valdību!
+Lai dzīvo Padomju Latvija!
+
+LKP Centrālkomiteja

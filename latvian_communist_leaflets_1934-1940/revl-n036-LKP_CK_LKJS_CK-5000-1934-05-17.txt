@@ -1,5 +1,5 @@
 id: 36
-file_name: revl-n036-LKP_CK_LKJS_CK-1934-05-17.txt
+file_name: revl-n036-LKP_CK_LKJS_CK-5000-1934-05-17.txt
 title: LKP CK un LKJS CK aicinājums Latvijas darbaļaudīm Ulmaņa fašistiskajam apvērsumam atbildēt ar vispārējo ģenerālstreiku pēc pirmā Latvijas Komunistiskās partijas norādījuma
 author: LKP CK un LKJS CK
 date: 1934-05-17

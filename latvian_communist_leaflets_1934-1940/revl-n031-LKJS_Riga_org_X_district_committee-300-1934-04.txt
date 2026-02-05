@@ -1,5 +1,5 @@
 id: 31
-file_name: revl-n031-LKJS_Riga_org_X_district_committee-1934-04.txt
+file_name: revl-n031-LKJS_Riga_org_X_district_committee-300-1934-04.txt
 title: LKJS Rīgas organizācijas X rajona komitejas uzsaukums «Juglas manufaktūras», «Rīgas auduma» un «Rīgas manufaktūras» strādniekiem piedalīties 1. Maija demonstrācijā un kopā ar sociāldemokrātiskajiem strādniekiem cīnīties pret fašisma draudiem
 author: LKJS Rīgas organizācijas X rajona komiteja
 date: 1934-04

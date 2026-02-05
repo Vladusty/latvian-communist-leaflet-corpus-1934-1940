@@ -1,5 +1,5 @@
 id: 45
-file_name: revl-n045-LKP_Riga_committee-[…1934-07-17].txt
+file_name: revl-n045-LKP_Riga_committee-2000-[…1934-07-17].txt
 title: LKP Rīgas komitejas lāpiņa par progresīvo strādnieku un darbinieku atlaišanu no darba un uzņēmumu fašizāciju, ar aicinājumu strādniekiem rīkot protesta streikus [izdota arī krievu valodā]
 author: LKP Rīgas komiteja
 date: […1934-07-17]

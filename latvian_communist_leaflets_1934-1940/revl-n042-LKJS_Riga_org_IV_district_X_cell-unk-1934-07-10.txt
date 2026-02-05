@@ -1,5 +1,5 @@
 id: 42
-file_name: revl-n042-LKJS_Riga_org_IV_district_X_cell-1934-07-10.txt
+file_name: revl-n042-LKJS_Riga_org_IV_district_X_cell-unk-1934-07-10.txt
 title: LKJS Rīgas organizācijas IV rajona X šūnas lapiņa par strādnieku darba algu pazemināšanu, ar aicinājumu Komunistiskās partijas vadībā cīnīties pret Ulmaņa fašistisko diktatūru
 author: LKJS Rīgas organizācijas IV rajona X šūna
 date: 1934-07-10

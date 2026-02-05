@@ -1,5 +1,5 @@
 id: 39
-file_name: revl-n039-SP_CK-[…1934-05-28].txt
+file_name: revl-n039-SP_CK-unk-[…1934-05-28].txt
 title: Latvijas Sarkanās Palīdzības CK uzsaukums darbaļaudīm gatavoties ģenerālstreikam pret fašistisko diktatūru
 author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: […1934-05-28]

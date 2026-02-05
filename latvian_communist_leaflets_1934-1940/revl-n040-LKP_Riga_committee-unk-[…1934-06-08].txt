@@ -1,5 +1,5 @@
 id: 40
-file_name: revl-n040-LKP_Riga_committee-[…1934-06-08].txt
+file_name: revl-n040-LKP_Riga_committee-unk-[…1934-06-08].txt
 title: LKP Rīgas komitejas lapiņa par fašistu uzbrukumu darbaļaužu ekonomiskajām un politiskajām tiesībām, ar aicinājumu strādniekiem gatavoties ģenerālstreikam pret fašistisko diktatūru
 author: LKP Rīgas komiteja
 date: […1934-06-08]

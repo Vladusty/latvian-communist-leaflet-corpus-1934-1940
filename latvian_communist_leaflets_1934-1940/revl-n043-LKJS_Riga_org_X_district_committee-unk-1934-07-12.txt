@@ -1,5 +1,5 @@
 id: 43
-file_name: revl-n043-LKJS_Riga_org_X_district_committee-1934-07-12.txt
+file_name: revl-n043-LKJS_Riga_org_X_district_committee-unk-1934-07-12.txt
 title: LKJS Rīgas organizācijas X rajona komitejas uzsaukums krāsotavas un balinātavas «Tempo» strādniekiem prasīt darba apstākļu uzlabošanu un algas paaugstināšanu
 author: LKJS Rīgas organizācijas X rajona komitejas
 date: 1934-07-10

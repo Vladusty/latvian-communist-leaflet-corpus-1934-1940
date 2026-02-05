@@ -1,5 +1,5 @@
 id: 32
-file_name: revl-n032-LKJS_Riga_textile_factory_Merino_cell-1934-04.txt
+file_name: revl-n032-LKJS_Riga_textile_factory_Merino_cell-100-1934-04.txt
 title: Rīgas tekstilfabrikas «Merino» LKJS šūnas uzsaukums strādniekiem 1. Maija priekšvakarā sarīkot īslaicīgu streiku ar prasībām par sava stāvokļa uzlabošanu
 author: LKJS «Merino» Rīgas tekstilfabrikas šūna
 date: 1934-04

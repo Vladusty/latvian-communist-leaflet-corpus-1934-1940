@@ -1,5 +1,5 @@
 id: 33
-file_name: revl-n033- LKP_CK_Womens_center-[…1934-05-13].txt
+file_name: revl-n033-LKP_CK_Womens_center-3000-[…1934-05-13].txt
 title: LKP CK Sieviešu centra uzsaukums darba sievietēm boikotēt buržuāzijas rīkoto «mātes dienu» un cīnīties par Padomju Latviju
 author: LKP CK Sieviešu centrs
 date: […1934-05-13]

@@ -1,5 +1,5 @@
 id: 38
-file_name: revl-n038-LKP_Riga_committee-[…1934-05-25].txt
+file_name: revl-n038-LKP_Riga_committee-unk-[…1934-05-25].txt
 title: LKP Rīgas komitejas uzsaukums Rīgas darbaļaudīm organizēties vienotā revolucionārā frontē pret fašistisko diktatūru un gatavoties ģenerālstreikam [izdota arī krievu valodā]
 author: LKP Rīgas komiteja
 date: […1934-05-25]

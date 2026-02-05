@@ -5,6 +5,7 @@ author: LKJS Bēnes rajona komiteja
 date: 1934-10
 print_run: 300
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 173–174.
 
 text:

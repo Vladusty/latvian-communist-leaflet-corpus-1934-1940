@@ -1,5 +1,5 @@
 id: 37
-file_name: revl-n037-LKJS_CK-1934-05-23.txt
+file_name: revl-n037-LKJS_CK-4000-1934-05-23.txt
 title: LKJS CK aicinājums jaunatnei Latvijas Komunistiskās partijas vadībā uzsākt politisku streiku pret fašistisko apvērsumu 
 author: LKJS CK
 date: 1934-05-23

@@ -1,5 +1,5 @@
 id: 34
-file_name: revl-n034- LKP_CK-[…1934-05-15].txt
+file_name: revl-n034-LKP_CK-500-[…1934-05-15].txt
 title: LKP CK uzsaukums darbaļaudīm gatavoties uz ģenerālstreiku un bruņotu cīņu pret draudošo fašistisko apvērsumu
 author: LKP CK
 date: […1934-05-15]

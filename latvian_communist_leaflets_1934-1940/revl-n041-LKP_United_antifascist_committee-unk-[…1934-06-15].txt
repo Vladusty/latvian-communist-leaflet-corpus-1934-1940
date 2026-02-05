@@ -1,5 +1,5 @@
 id: 41
-file_name: revl-n041-LKP_United_antifascist_committee-[…1934-06-15].txt
+file_name: revl-n041-LKP_United_antifascist_committee-unk-[…1934-06-15].txt
 title: LKP un Vienotas pretfašisma cīņas komitejas lapiņa par sociāldemokrātu līderu oportūnistiskās politikas bankrotu, ar aicinājumu bijušo sociāldemokrātisko organizāciju biedriem stāties Latvijas Komunistiskajā partijā un tās vadībā cīnīties par proletariāta diktatūru, par Padomju Latviju [izdota arī krievu valodā]
 author: LKP un Vienotas pretfašisma cīņas komiteja
 date: […1934-06-15]

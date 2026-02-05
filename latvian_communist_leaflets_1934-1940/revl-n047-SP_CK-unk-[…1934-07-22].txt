@@ -1,5 +1,5 @@
 id: 47
-file_name: revl-n047-SP_CK-[…1934-07-22].txt
+file_name: revl-n047-SP_CK-unk-[…1934-07-22].txt
 title: Latvijas Sarkanās Palīdzības CK lapiņa par imperiālistiska kara gatavošanu kapitālistiskajās valstīs, ar aicinājumu Latvijas darbaļaudīm cīnīties pret karu, par politieslodzīto atbrīvošanu
 author: Latvijas Sarkanās Palīdzības Centrālā komiteja
 date: […1934-07-22]

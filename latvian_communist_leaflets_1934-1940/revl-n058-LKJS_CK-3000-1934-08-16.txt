@@ -1,10 +1,11 @@
 id: 58
-file_name: revl-n058-LKJS_CK-1934-08-16.txt
+file_name: revl-n058-LKJS_CK-3000-1934-08-16.txt
 title: LKJS CK lapiņa, kas veltīta Starptautiskajai jaunatnes dienai, ar aicinājumu sakļauties LKP un LKJS vadībā vienotā pretfašisma cīņas frontē pret imperiālistiska kara gatavošanu un intervences draudiem pret PSRS
 author: LKJS CK
 date: 1934-08-16
 print_run: 3000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 127–130.
 
 text:

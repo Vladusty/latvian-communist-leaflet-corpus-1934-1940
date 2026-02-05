@@ -1,10 +1,11 @@
 id: 61
-file_name: revl-n061-LKJS_CK_LKJS_Riga_committee-[1934-08-20..1934-08-31].txt
+file_name: revl-n061-LKJS_CK_LKJS_Riga_committee-unk-[1934-08-20..1934-08-31].txt
 title: LKJS CK un LKJS. Rīgas komitejas aicinājums jaunajiem strādniekiem un strādniecēm atzīmēt Starptautisko jaunatnes dienu ar cīņas pastiprināšanu pret fašistisko diktatūru
 author: LKJS CK un LKJS Rīgas komiteja
 date: [1934-08-20..1934-08-31]
 print_run: unk
 typography_name: unk
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 134.
 
 text:

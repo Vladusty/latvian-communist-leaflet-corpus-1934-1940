@@ -1,10 +1,12 @@
-id: 99
-file_name: revl-n099-LKP_CK-2000-[…1935-01-20].txt
-title: LKP CK lapiņa par fašistu izrēķināšanos ar politieslodzītajiem, ar aicinājumu darbaļaudīm nepieļaut politieslodzīto stāvokļa pasliktināšanu
+id: 99b
+file_name: revl-n099b-LKP_CK-3000-[…1935-01-20].txt
+title: LKP CK lapiņa par fašistu izrēķināšanos ar politieslodzītajiem, ar aicinājumu darbaļaudīm nepieļaut politieslodzīto stāvokļa pasliktināšanu [izdota arī krievu valodā]
 author: LKP CK
 date: […1935-01-20]
-print_run: 2000
-typography_name: Spartaks
+print_run: 3000
+typography_name: unk
+production_method: rotator
+notes: teksts papildināts, kas šeit nav atspoguļots
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 214–215.
 
 text:
