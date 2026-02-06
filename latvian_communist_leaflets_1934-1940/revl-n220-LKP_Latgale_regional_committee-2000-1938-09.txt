@@ -5,6 +5,7 @@ author: Latvijas Komunistiskās partijas Latgales apgabala komiteja
 date: 1938-09
 print_run: 2000
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 483–484.
 
 text:

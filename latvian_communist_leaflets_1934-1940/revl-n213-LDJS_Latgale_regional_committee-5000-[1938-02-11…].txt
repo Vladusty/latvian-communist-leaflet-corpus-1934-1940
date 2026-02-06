@@ -1,10 +1,11 @@
 id: 213
 file_name: revl-n213-LDJS_Latgale_regional_committee-5000-[1938-02-11…].txt
-title: LDJS Latgales apgabala komitejas lapiņa, kas atmasko valdības jaunievesto likumu antidemokrātisko raksturu
+title: LDJS Latgales apgabala komitejas lapiņa, kas atmasko valdības jaunievesto likumu antidemokrātisko raksturu [tulkota no krievu valodas]
 author: LDJS Latgales apgabala komiteja
 date: [1938-02-11…]
 print_run: 5000
 typography_name: Antifašists
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 466–468.
 
 text:
