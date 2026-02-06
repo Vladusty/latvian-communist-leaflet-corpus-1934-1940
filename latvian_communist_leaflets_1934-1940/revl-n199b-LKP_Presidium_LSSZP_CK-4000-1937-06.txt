@@ -1,10 +1,11 @@
 id: 199b
-file_name: revl-n199b-LKP_Secretariat_LSSZP_CK-4000-1937-06.txt
-title: LKP sekretariāta un LSSZP CK uzsaukums darbaļaudīm cīnīties par fašistiskās diktatūras gāšanu Latvijā
-author: LKP sekretariāts un LSSZP CK
+file_name: revl-n199b-LKP_Presidium_LSSZP_CK-4000-1937-06.txt
+title: LKP prezidija un LSSZP CK uzsaukums darbaļaudīm cīnīties par fašistiskās diktatūras gāšanu Latvijā
+author: LKP prezidijs un LSSZP CK
 date: 1937-06
 print_run: 4000
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 435–438.
 
 text:

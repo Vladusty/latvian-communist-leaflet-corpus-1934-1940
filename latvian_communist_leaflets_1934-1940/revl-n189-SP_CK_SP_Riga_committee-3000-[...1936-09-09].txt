@@ -5,6 +5,7 @@ author: SP CK un SP Rīgas komiteja
 date: […1936-09-09]
 print_run: 3000
 typography_name: «Sarkanās Palīdzības» spiestuve
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 410–411.
 
 text:

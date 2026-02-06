@@ -1,10 +1,11 @@
 id: 160a
 file_name: revl-n160a-LKP_CK_LKJS_CK-10000-1935-10-10.txt
-title: LKP CK un LKJS CK lapiņa sakarā ar fašistiskās Itālijas uzbrukumu Abesīnijai, ar aicinājumu darbaļaudīm kopā ar starptautisko proletariātu cīnīties par kara izbeigšanu un Itālijas karaspēka izvešanu no Abesīnijas
+title: LKP CK un LKJS CK lapiņa sakarā ar fašistiskās Itālijas uzbrukumu Abesīnijai, ar aicinājumu darbaļaudīm kopā ar starptautisko proletariātu cīnīties par kara izbeigšanu un Itālijas karaspēka izvešanu no Abesīnijas [izdota arī krievu valodā]
 author: LKP CK un LKJS CK
 date: 1935-10-10
 print_run: 10000
 typography_name: Spartaks
+production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 335–338.
 
 text:

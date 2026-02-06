@@ -5,6 +5,7 @@ author: LKP CK, LKJS CK, LSSZP CK un LSJS CK
 date: […1935-11-17]
 print_run: 5000
 typography_name: Kollomans Vallišs
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 347–349.
 
 text:

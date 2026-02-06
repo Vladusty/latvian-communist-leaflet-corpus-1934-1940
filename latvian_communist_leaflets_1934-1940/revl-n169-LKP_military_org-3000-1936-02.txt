@@ -1,10 +1,11 @@
 id: 169
 file_name: revl-n169-LKP_military_org-3000-1936-02.txt
-title: LKP kara organizācijas aicinājums jauniesaucamajiem un kareivjiem uzstādīt prasības par sava stāvokļa uzlabošanu
+title: LKP kara organizācijas aicinājums jauniesaucamajiem un kareivjiem uzstādīt prasības par sava stāvokļa uzlabošanu [tulkota no krievu valodas]
 author: LKP kara organizācija
 date: 1936-02
 print_run: 3000
 typography_name: Spartaks
+production_method: rotator
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 363–365.
 
 text:
