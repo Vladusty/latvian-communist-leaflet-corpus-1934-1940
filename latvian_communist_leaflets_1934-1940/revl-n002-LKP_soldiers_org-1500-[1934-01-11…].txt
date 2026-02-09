@@ -1,6 +1,6 @@
 id: 2
 file_name: revl-n002-LKP_soldiers_org-1500-[1934-01-11…].txt
-title: No LKP kareivju organizācijas lapiņas ar kareivju prasībām un aicinājumu izdienējušiem kareivjiem. kopā ar revolucionāro strādniecību cīnīties par padomju varu Latvijā
+title: No LKP kareivju organizācijas lapiņas ar kareivju prasībām un aicinājumu izdienējušiem kareivjiem kopā ar revolucionāro strādniecību cīnīties par padomju varu Latvijā
 author: LKP kareivju organizācija
 date: [1934-01-11…]
 print_run: 1500
@@ -22,6 +22,6 @@ Biedri, mēs tak dienam «tēvijas» labā vairāk kā 11 mēnešus. Ko mums dod
 4. Armiju atstājot, apgādāt uz vairākām dienām ar pārtiku.
 5. Trūcīgo kareivju ģimenes atsvabināt no nodokļiem un no valsts apgādāt ar pārtiku, malku u. c. Pārbraucot mājās, cīnīsimies plecu pie pleca kopā ar revolucionāriem strādniekiem!
 Iesim zem Kompartijas vadības pret fašismu un karu, par padomju varu. Padomju valdība visiem darbaļaudīm nodrošinās patiesās biedrošanās, preses, sapulču u. c. politiskās brīvības. Atjaunos rūpniecību, un visiem būs darbs. Darba zemniecībai tiks atlaisti visi parādi, nodrošinās ar zemi un inventāru.
-Lai dzīvo strādnieku, darba zemnieku un kareivju vienotā. fronte pret fašismu! ...
+Lai dzīvo strādnieku, darba zemnieku un kareivju vienotā fronte pret fašismu! ...
 
 LKP kareivju organizācija
