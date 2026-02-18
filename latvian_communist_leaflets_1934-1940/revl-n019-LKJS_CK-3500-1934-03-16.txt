@@ -9,7 +9,7 @@ production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 52–55.
 
 text:
-Bez cīņas nav. uzvaras! Visu zemju proletārieši, savienojieties!
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
 CĪŅĀ PAR AUGSTĀKU ALGU UN LABĀKIEM DARBA APSTĀKĻIEM!
 BIEDRI LAUKSTRĀDNIEKI, LAUKSTRĀDNIECES, GANI!
 VISI LAUKU DARBA JAUNIEŠI, KAS LĪGST BUDŽU JŪGĀ!
