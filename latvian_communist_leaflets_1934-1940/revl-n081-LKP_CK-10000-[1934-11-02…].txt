@@ -9,7 +9,7 @@ production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 175–176.
 
 text:
-Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties! 
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
 NOST FAŠISTISKOS HITLERA KALPUS, LAUKU DARBAĻAUŽU IZPOSTĪTĀJUS UN ŪTRUPJU RĪKOTĀJUS; PAR VISU BANKU, RENTES UN NODOKĻU PARĀDU STRĪPOŠANU TRŪCĪGIEM, SĪKIEM UN VIDĒJIEM ZEMNIEKIEM.
 Lielgruntnieku un pilsētu bagātnieku valdība atkal izstiepusi roku pēc lauku darbaļaužu pēdējiem grašiem. Sākot ar 2. novembri, atjaunota smagus nodokļus un parādus maksātnespējīgo izūtrupēšana. Atkal klaudz āmurs trūcīgo zemesrūķu sētās. Atkal, aplaupot un padzenot no dzimtās zemes galīgi izsūktos kapitālisma upurus, tiek gādāti līdzekļi milzu piemaksām un paplašināti lauku lielgruntnieku īpašumi. Novembra mēnesī noliktas ūtrupes 623 un decembrī 700 lauku saimniecībām. Krīzes turpināšanās un augošo nodokļu nasta izūtrupējamo skaitu ar katru mēnesi neizbēgami palielinās.
 Visi fašistiskas valdības solījumi glābt grūtībās iestigušās saimniecības ir tādi pat nekaunīgi meli kā buržuāzijas partiju pārstāvju solījumi pēc tam, kad tie saeimā noraidīja strādnieku-zemnieku [frakcijas] priekšlikumu strīpot visus parādus trūcīgai un vidējai zemniecībai.

@@ -1,6 +1,6 @@
 id: 59
 file_name: revl-n059-LKP_Riga_committee-1000-1934-08-21.txt
-title: LKP Rīgas komitejas lapiņa par fašistisko teroru Latvijā [izdota arī krievu valodā] 
+title: LKP Rīgas komitejas lapiņa par fašistisko teroru Latvijā [izdota arī krievu valodā]
 author: LKP Rīgas komiteja
 date: 1934-08-21
 print_run: 1000
