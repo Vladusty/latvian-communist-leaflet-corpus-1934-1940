@@ -1,6 +1,6 @@
 id: 200
 file_name: revl-n200-Port_workers_unit_committee-unk-[…1937-06-25].txt
-title: Ostas strādnieku vienības komitejas aicinājums Latvijas ostu strādniekiem uz organizētu ciņu par algas paaugstināšanu
+title: Ostas strādnieku vienības komitejas aicinājums Latvijas ostu strādniekiem uz organizētu cīņu par algas paaugstināšanu
 author: Oststrādnieku vienības komiteja
 date: […1937-06-25]
 print_run: unk

@@ -1,6 +1,6 @@
 id: 184
 file_name: revl-n184-LDJS-10000-[1936-07-09…].txt
-title: No LDJS lapiņas par Latvijas Komunistiskās jaunatnes savienības un Latvijas Sociālistiskās jaunatnes savienības apvienošanos, ar aicinājumu jaunatnei uz vienotu ciņu pret fašismu un karu
+title: No LDJS lapiņas par Latvijas Komunistiskās jaunatnes savienības un Latvijas Sociālistiskās jaunatnes savienības apvienošanos, ar aicinājumu jaunatnei uz vienotu cīņu pret fašismu un karu
 author: Latvijas Darba jaunatnes savienība
 date: [1936-07-09…]
 print_run: 10000
