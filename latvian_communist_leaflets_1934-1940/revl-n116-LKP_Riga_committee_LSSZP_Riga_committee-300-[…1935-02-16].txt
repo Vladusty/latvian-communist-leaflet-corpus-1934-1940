@@ -2,7 +2,7 @@ id: 116
 file_name: revl-n116-LKP_Riga_committee_LSSZP_Riga_committee-300-[…1935-02-16].txt
 title: LKP un LSSZP Rīgas komiteju uzsaukums pilsētai piederošo māju dzīvokļu īrniekiem organizēt cīņu pret īres paaugstināšanu
 author: LKP un LSSZP Rīgas komiteja
-date:-[…1935-02-16]
+date: […1935-02-16]
 print_run: 300
 typography_name: Spartaks
 production_method: rotator
