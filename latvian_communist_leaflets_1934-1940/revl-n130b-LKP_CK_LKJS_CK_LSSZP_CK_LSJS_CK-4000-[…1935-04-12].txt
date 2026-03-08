@@ -9,7 +9,7 @@ production_method: typographic
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 275–278.
 
 text:
-Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties?
+Bez cīņas nav uzvaras! Visu zemju proletārieši, savienojieties!
 LAI DZĪVO 1. MAIJS!
 LAI DZĪVO STRĀDNIEKU ŠĶIRAS KAUJINIECISKĀ VIENĪBA!
 LAI DZĪVO PLAŠA ANTIFAŠISTISKA TAUTAS FRONTE PRET KARU UN FAŠISMU!
