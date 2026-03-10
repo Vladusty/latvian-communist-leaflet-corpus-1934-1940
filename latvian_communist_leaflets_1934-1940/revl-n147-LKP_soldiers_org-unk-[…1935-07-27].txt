@@ -1,7 +1,7 @@
 id: 147
 file_name: revl-n147-LKP_soldiers_org-unk-[…1935-07-27].txt
 title: LKP kareivju organizācijas lapiņa par fašistiskās valdības izrēķināšanos ar politiski neuzticamiem Latvijas buržuāziskās armijas virsniekiem un instruktoriem
-author: LKP kareivju organizācijas 
+author: LKP kareivju organizācija
 date: […1935-07-27]
 print_run: unk
 typography_name: unk

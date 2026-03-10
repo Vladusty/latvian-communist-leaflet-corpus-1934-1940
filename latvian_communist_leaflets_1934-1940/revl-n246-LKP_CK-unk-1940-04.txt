@@ -1,7 +1,7 @@
 id: 246
-file_name: revl-n246-LKP-unk-1940-04.txt
+file_name: revl-n246-LKP_CK-unk-1940-04.txt
 title: LKP Pirmā Maija lapiņa par strādnieku stāvokļa pasliktināšanos fašistiskās valdības ekonomiskās politikas rezultātā, ar aicinājumu strādniekiem cīnīties par savām prasībām
-author: Latvijas Komunistiskā partija
+author: LKP CK
 date: 1940-04
 print_run: unk
 typography_name: unk
