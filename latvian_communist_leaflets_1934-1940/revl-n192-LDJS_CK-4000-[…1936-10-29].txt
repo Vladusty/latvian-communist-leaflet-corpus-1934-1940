@@ -1,11 +1,14 @@
 id: 192
 file_name: revl-n192-LDJS_CK-4000-[…1936-10-29].txt
 title: No LDJS CK aicinājuma darbaļaudīm un darba jaunatnei apvienoties cīņai pret kara gatavotājiem, pret fašismu
-author: Latvijas Darba jaunatnes savienības Centrālā komiteja
+author: LDJS CK
 date: […1936-10-29]
 print_run: 4000
 typography_name: unk
 production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 415–417.
 
 text:

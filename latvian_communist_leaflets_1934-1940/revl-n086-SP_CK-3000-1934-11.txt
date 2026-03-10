@@ -1,11 +1,14 @@
 id: 86
 file_name: revl-n086-SP_CK-3000-1934-11.txt
 title: Latvijas Sarkanās Palīdzības CK aicinājums strādniekiem, zemniekiem un darba inteliģencei piedalīties līdzekļu un mantu vākšanā politieslodzīto un viņu ģimeņu pabalstīšanai
-author: Latvijas Sarkanās Palīdzības Centrālā komiteja
+author: Latvijas Sarkanās Palīdzības CK
 date: 1934-11
 print_run: 3000
 typography_name: «Sarkanās Palīdzības» spiestuve
 production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 184–185.
 
 text:

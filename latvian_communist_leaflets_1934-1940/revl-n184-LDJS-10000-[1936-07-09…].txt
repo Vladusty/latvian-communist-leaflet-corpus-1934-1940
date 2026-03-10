@@ -1,11 +1,14 @@
 id: 184
 file_name: revl-n184-LDJS-10000-[1936-07-09…].txt
 title: No LDJS lapiņas par Latvijas Komunistiskās jaunatnes savienības un Latvijas Sociālistiskās jaunatnes savienības apvienošanos, ar aicinājumu jaunatnei uz vienotu cīņu pret fašismu un karu
-author: Latvijas Darba jaunatnes savienība
+author: LDJS
 date: [1936-07-09…]
 print_run: 10000
 typography_name: unk
 production_method: typographic
+original_language: Latvian
+text_language: Latvian
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 399–402.
 
 text:

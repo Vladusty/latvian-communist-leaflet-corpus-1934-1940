@@ -1,11 +1,14 @@
 id: 116
 file_name: revl-n116-LKP_Riga_committee_LSSZP_Riga_committee-300-[…1935-02-16].txt
 title: LKP un LSSZP Rīgas komiteju uzsaukums pilsētai piederošo māju dzīvokļu īrniekiem organizēt cīņu pret īres paaugstināšanu
-author: LKP un LSSZP Rīgas komiteja
+author: LKP Rīgas komiteja un LSSZP Rīgas komiteja
 date: […1935-02-16]
 print_run: 300
 typography_name: Spartaks
 production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 249–250.
 
 text:

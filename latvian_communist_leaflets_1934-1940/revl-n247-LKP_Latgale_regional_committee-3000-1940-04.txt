@@ -1,11 +1,14 @@
 id: 247
 file_name: revl-n247-LKP_Latgale_regional_committee-3000-1940-04.txt
-title: LKP Latgales apgabala komitejas Pirmā Maija uzsaukums darbaļaudīm pastiprināt cīņu pret imperiālistisko karu, par fašistiskās valdības gāšanu [tulkota no krievu valodas]
+title: LKP Latgales apgabala komitejas Pirmā Maija uzsaukums darbaļaudīm pastiprināt cīņu pret imperiālistisko karu, par fašistiskās valdības gāšanu
 author: LKP Latgales apgabala komiteja
 date: 1940-04
 print_run: 3000
 typography_name: unk
 production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 543–544.
 
 text:

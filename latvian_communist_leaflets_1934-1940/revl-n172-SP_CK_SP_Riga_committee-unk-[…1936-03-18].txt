@@ -1,11 +1,14 @@
 id: 172
 file_name: revl-n172-SP_CK_SP_Riga_committee-unk-[…1936-03-18].txt
 title: Latvijas Sarkanās Palīdzības CK un Rīgas komitejas uzsaukums darbaļaudīm protestēt pret politieslodzīto stāvokļa pasliktināšanos
-author: SP CK un SP Rīgas komiteja
+author: Latvijas Sarkanās Palīdzības CK un Latvijas Sarkanās Palīdzības Rīgas komiteja
 date: […1936-03-18]
 print_run: unk
 typography_name: unk
 production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 370–371.
 
 text:

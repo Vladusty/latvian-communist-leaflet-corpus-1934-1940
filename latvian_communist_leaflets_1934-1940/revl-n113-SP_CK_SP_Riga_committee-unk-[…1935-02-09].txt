@@ -1,11 +1,14 @@
 id: 113
 file_name: revl-n113-SP_CK_SP_Riga_committee-unk-[…1935-02-09].txt
 title: Latvijas Sarkanās Palīdzības CK un Rīgas komitejas uzsaukums darbaļaudīm organizēti cīnīties par nāves soda atcelšanu LKP biedram Z. Murinam, pret politieslodzīto spīdzināšanu Latvijas cietumos
-author: SP CK un SP Rīgas komiteja
+author: Latvijas Sarkanās Palīdzības CK un Latvijas Sarkanās Palīdzības Rīgas komiteja
 date: […1935-02-09]
 print_run: unk
 typography_name: unk
 production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 241–242.
 
 text:

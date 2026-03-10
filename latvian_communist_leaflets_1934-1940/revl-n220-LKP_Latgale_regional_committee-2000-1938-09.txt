@@ -1,11 +1,14 @@
 id: 220
 file_name: revl-n220-LKP_Latgale_regional_committee-2000-1938-09.txt
-title: LKP Latgales apgabala komitejas lapiņa ar darba zemnieku ekonomiskām prasībām [tulkota no krievu valodas]
-author: Latvijas Komunistiskās partijas Latgales apgabala komiteja
+title: LKP Latgales apgabala komitejas lapiņa ar darba zemnieku ekonomiskām prasībām
+author: LKP Latgales apgabala komiteja
 date: 1938-09
 print_run: 2000
 typography_name: Spartaks
 production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 483–484.
 
 text:

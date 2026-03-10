@@ -1,11 +1,14 @@
 id: 166
 file_name: revl-n166-SP_CK-4000-[…1935-12-24].txt
 title: Latvijas Sarkanās Palīdzības CK uzsaukums iedzīvotājiem sniegt materiālu palīdzību politieslodzītajiem un to ģimenēm
-author: Latvijas Sarkanās Palīdzības Centrālā komiteja
+author: Latvijas Sarkanās Palīdzības CK
 date: […1935-12-24]
 print_run: 4000
 typography_name: «Sarkanās Palīdzības» spiestuve
 production_method: rotator
+original_language: Latvian
+text_language: Latvian
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 351–352.
 
 text:

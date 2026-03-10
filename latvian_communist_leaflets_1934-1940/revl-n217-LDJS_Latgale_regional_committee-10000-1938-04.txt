@@ -1,11 +1,14 @@
 id: 217
 file_name: revl-n217-LDJS_Latgale_regional_committee-10000-1938-04.txt
-title: LDJS Latgales apgabala komitejas Pirmā Maija uzsaukums darbaļaudīm stiprināt tautas vienoto fronti cīņā pret karu [tulkota no krievu valodas]
+title: LDJS Latgales apgabala komitejas Pirmā Maija uzsaukums darbaļaudīm stiprināt tautas vienoto fronti cīņā pret karu
 author: LDJS Latgales apgabala komiteja
 date: 1938-04
 print_run: 10000
 typography_name: Antifašists
 production_method: rotator
+original_language: Russian
+text_language: Latvian
+is_translation: True
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 474–475.
 
 text:
