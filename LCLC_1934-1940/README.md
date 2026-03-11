@@ -81,6 +81,7 @@ Each leaflet is stored as a **plain text file (.txt)** containing metadata and t
 
 Example record structure:
 
+```
 id: 1
 file_name: lclc-n001-LKP_Vidienas_org_LKJS_Vidienas_org-5000-[1934-01-11…].txt
 title: LKP un LKJS Vidienas organizācijas lapiņa ...
@@ -96,6 +97,7 @@ note: ...
 source: ...
 text:
 (leaflet text)
+```
 
 ---
 
