@@ -1,12 +1,12 @@
 # Latvian Communist Leaflet Corpus (1934–1940)
 
-Digital corpus of Latvian communist underground leaflets (1934–1940) with structured metadata and text transcriptions.
+A digital corpus of Latvian communist underground leaflets (1934–1940) with structured metadata and text transcriptions.
 
 ## Description
 
 The **Latvian Communist Leaflet Corpus (1934–1940)** (hereafter **LCLC**) is a structured digital corpus of underground political leaflets produced by illegal communist organizations in Latvia between **1 January 1934 and July 1940**, covering both the final months of the parliamentary period and the authoritarian regime established after the coup of Kārlis Ulmanis on 15 May 1934.
 
-The corpus contains transcribed texts of communist propaganda leaflets as well as records for leaflets listed in the section "krājumā neievietoto lapiņu saraksts" ("list of leaflets not included in the edition") of the source edition but whose texts are not reproduced there.
+The corpus contains transcribed texts of communist propaganda leaflets as well as records for leaflets listed in the section "krājumā neievietoto lapiņu saraksts" ("list of leaflets not included in the edition") of the source edition, but whose texts are not reproduced there.
 
 The dataset is intended for research in fields such as:
 - digital humanities
@@ -49,6 +49,8 @@ For 251 unique leaflet texts, the corpus contains:
 
 Average leaflet length: **579.38 words**  
 Median leaflet length: **517 words**
+
+Word counts are based on Unicode letter sequences extracted from the leaflet texts.
 
 ---
 
@@ -107,7 +109,7 @@ All records are stored as UTF-8 encoded plain text files.
 
 Each file contains structured metadata fields followed by the leaflet text.
 
-Metadata fields appear at the beginning of the file and the leaflet text begins after the field `text:`.
+Metadata fields appear at the beginning of the file, and the leaflet text begins after the field `text:`.
 
 ---
 
@@ -139,8 +141,38 @@ The repository also includes a manually compiled table of inferred leaflet locat
 `lclc_manual_location_table.csv`
 
 This file is not part of the core source-based metadata.  
-The location assignments were made manually by the compiler on the basis of issuing organizations and, in some cases, leaflet content.  
+The location assignments were made manually by the compiler based on the issuing organizations and, in some cases, the content of the leaflets.  
 They should therefore be treated as approximate research annotations rather than source metadata.
+
+---
+
+## Additional research annotations
+
+The repository also includes manually compiled research annotations that are not part of the core source-based metadata.
+
+### Manual topic annotations
+
+`lclc_manual_topic_annotations.csv`
+
+This file contains manual thematic annotations (or classification) assigned to individual leaflets.
+
+The annotation system uses a hierarchical scheme:
+
+- `manual_topic` – primary topic category (seven broad themes)
+- `manual_topic_2` – secondary topic category (additional classification using the same thematic categories when applicable)
+- `manual_topic_3` – more specific thematic label (when applicable)
+
+The primary thematic categories are:
+- Labour
+- Foreign/War
+- Youth
+- Aid
+- Spain
+- Women
+- Other
+
+These annotations represent a **hard clustering** of leaflet texts and were created manually for research purposes.  
+They should be treated as interpretative research annotations rather than source metadata.
 
 ---
 
