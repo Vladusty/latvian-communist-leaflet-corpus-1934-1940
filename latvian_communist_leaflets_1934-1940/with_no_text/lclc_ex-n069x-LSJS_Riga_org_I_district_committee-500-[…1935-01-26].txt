@@ -1,5 +1,5 @@
-id: 67
-file_name: lclc_ex-n067x-LSJS_Riga_org_I_district_committee-500-[…1935-01-26].txt
+id: 69
+file_name: lclc_ex-n069x-LSJS_Riga_org_I_district_committee-500-[…1935-01-26].txt
 title: Rīgas darba jaunatne un strādnieki!
 author: LSJS Rīgas organizācijas I rajona komiteja
 date: […1935-01-26]

@@ -1,5 +1,5 @@
 id: 72
-file_name: lclc-n072-LKJS_LSJS_Riga_org_United_antifascist_committee-2000-1934-10-01
+file_name: lclc-n072-LKJS_LSJS_Riga_org_United_antifascist_committee-2000-1934-10-01.txt
 title: LKJS un LSJS Rīgas organizāciju vienotās pretfašisma cīņas komitejas uzsaukums Rīgas skolu jaunatnei par fašistiskās valdības uzbrukumu skolnieku tiesībām, ar aicinājumu dibināt skolās pretfašisma cīņas komitejas
 author: LKJS un LSJS Rīgas organizāciju vienotās pretfašisma cīņas komiteja
 date: 1934-10-01

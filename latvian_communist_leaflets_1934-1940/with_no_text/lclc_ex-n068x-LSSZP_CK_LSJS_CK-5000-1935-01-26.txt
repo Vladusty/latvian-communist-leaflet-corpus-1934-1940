@@ -1,5 +1,5 @@
-id: 66
-file_name: lclc_ex-n066x-LSSZP_CK_LSJS_CK-5000-1935-01-26.txt
+id: 68
+file_name: lclc_ex-n068x-LSSZP_CK_LSJS_CK-5000-1935-01-26.txt
 title: Lai dzīvo revolucionārā cīņa! Lai dzīvo 1905. g. 13. janvāra varoņu gars!
 author: LSSZP CK un LSJS CK
 date: 1935-01-26

@@ -1,8 +1,8 @@
 id: 162
-file_name: lclc_ex-n162x-LDJS_II_district_committee-unk-[1938-04-20..1934-04-31].txt
+file_name: lclc_ex-n162x-LDJS_II_district_committee-unk-[1938-04-20..1934-04-30].txt
 title: Lai dzīvo 1. Maijs!
 author: LDJS II rajona komiteja
-date: [1938-04-20..1934-04-31]
+date: [1938-04-20..1934-04-30]
 print_run: unk
 typography_name: unk
 production_method: rotator

@@ -1,5 +1,5 @@
 id: 8
-file_name: lclc_ex-n008x-LKP_Riga_org_X_district_committee-200-1934-03.txt
+file_name: lclc_ex-n008x-LKP_Riga_org_X_district_committee-unk-1934-03.txt
 title: Sērkociņu sindikāta strādniekiem. Biedri strādnieki!
 author: LKP Rīgas organizācijas X rajona komiteja
 date: 1934-03
