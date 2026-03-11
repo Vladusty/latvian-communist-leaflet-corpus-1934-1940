@@ -138,9 +138,9 @@ Leaflet filenames follow the pattern:
 
 lclc-nID-author-print_run-date.txt
 
-Examples:
+Examples:  
 
-`lclc-n001-LKP_Vidienas_org_LKJS_Vidienas_org-5000-[1934-01-11…].txt`
+`lclc-n001-LKP_Vidienas_org_LKJS_Vidienas_org-5000-[1934-01-11…].txt`  
 `lclc_ex-n001x-LKP_soldiers_org-unk-1934-01.txt`
 
 Prefix meanings:
@@ -152,8 +152,8 @@ Prefix meanings:
 
 Variants of the same leaflet are indicated by letters appended to the identifier (e.g., n012a, n012b).
 
-Examples:
-`lclc-n004a-LKP_CK-3000-[…1934-01-30].txt`
+Examples:  
+`lclc-n004a-LKP_CK-3000-[…1934-01-30].txt`  
 `lclc-n004b-LKP_CK-10000-1934-02.txt`
 
 ---
