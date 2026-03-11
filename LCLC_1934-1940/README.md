@@ -35,7 +35,7 @@ Leaflets originate from the period **1934–1940** and were published by various
 The corpus contains:
 
 - **251 unique leaflet texts**
-- **273 leaflet records with texts (including textual variants of the same leaflet)**
+- **273 leaflet records with texts**, including textual variants of the same leaflet)
 - **458 total leaflet records**, including variants and records whose texts are not reproduced in the source edition
 
 ---
@@ -59,9 +59,8 @@ Some leaflets exist in multiple variants issued by different organizations or pr
 Such variants share the same numerical identifier but are distinguished by letter suffixes.
 
 Example:
-
-id: 12a
-id: 12b
+- id: 12a
+- id: 12b
 
 
 These records represent different versions of the same leaflet or closely related publications.
@@ -208,5 +207,5 @@ BibTeX:
 
 ## Author
 
-Vladislavs Babaņins
+Vladislavs Babaņins,
 University of Latvia
