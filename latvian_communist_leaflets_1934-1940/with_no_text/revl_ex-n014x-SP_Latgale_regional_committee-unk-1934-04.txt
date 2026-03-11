@@ -1,11 +1,14 @@
 id: 14
 file_name: revl_ex-n014x-SP_Latgale_regional_committee-unk-1934-04.txt
-title: Visiem Latgales strādniekiem un darbaļaudīm! [krievu valodā]
+title: Visiem Latgales strādniekiem un darbaļaudīm!
 author: Latvijas Sarkanās palīdzības Latgales apgabala komiteja
 date: 1934-04
 print_run: unk
 typography_name: unk
 production_method: rotator
+original_language: Russian
+text_language: None
+is_translation: False
 source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 678.
 
 text:
