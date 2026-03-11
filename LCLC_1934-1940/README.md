@@ -4,7 +4,7 @@ Digital corpus of Latvian communist underground leaflets (1934–1940) with stru
 
 ## Description
 
-The **Latvian Communist Leaflet Corpus (1934–1940)** is a structured digital corpus of underground political leaflets produced by illegal communist organizations during the authoritarian period of the Latvian Republic following the coup of Kārlis Ulmanis on 15 May 1934.
+The **Latvian Communist Leaflet Corpus (1934–1940)** (hereafter **LCLC**) is a structured digital corpus of underground political leaflets produced by illegal communist organizations in Latvia between **1 January 1934 and July 1940**, covering both the final months of the parliamentary period and the authoritarian regime established after the coup of Kārlis Ulmanis on 15 May 1934.
 
 The corpus contains transcribed texts of communist propaganda leaflets as well as records for leaflets listed in the section "krājumā neievietoto lapiņu saraksts" ("list of leaflets not included in the edition") of the source edition but whose texts are not reproduced there.
 
@@ -35,7 +35,7 @@ Leaflets originate from the period **1934–1940** and were published by various
 The corpus contains:
 
 - **251 unique leaflet texts**
-- **273 leaflet records with texts**, including textual variants of the same leaflet)
+- **273 leaflet records with texts**, including textual variants of the same leaflet
 - **458 total leaflet records**, including variants and records whose texts are not reproduced in the source edition
 
 ---
@@ -58,9 +58,9 @@ Some leaflets exist in multiple variants issued by different organizations or pr
 
 Such variants share the same numerical identifier but are distinguished by letter suffixes.
 
-Example:
-- id: 12a
-- id: 12b
+Example:  
+id: 12a  
+id: 12b
 
 
 These records represent different versions of the same leaflet or closely related publications.
@@ -150,9 +150,9 @@ Leaflet filenames follow the pattern:
 
 lclc-nID-author-print_run-date.txt
 
-Examples:
+Examples:  
 
-`lclc-n001-LKP_Vidienas_org_LKJS_Vidienas_org-5000-[1934-01-11…].txt`
+`lclc-n001-LKP_Vidienas_org_LKJS_Vidienas_org-5000-[1934-01-11…].txt`  
 `lclc_ex-n001x-LKP_soldiers_org-unk-1934-01.txt`
 
 Prefix meanings:
@@ -164,8 +164,8 @@ Prefix meanings:
 
 Variants of the same leaflet are indicated by letters appended to the identifier (e.g., n012a, n012b).
 
-Examples:
-`lclc-n004a-LKP_CK-3000-[…1934-01-30].txt`
+Examples:  
+`lclc-n004a-LKP_CK-3000-[…1934-01-30].txt`  
 `lclc-n004b-LKP_CK-10000-1934-02.txt`
 
 ---
@@ -221,5 +221,5 @@ BibTeX:
 
 ## Author
 
-Vladislavs Babaņins,
+Vladislavs Babaņins  
 University of Latvia
