@@ -1,0 +1,14 @@
+id: 59
+file_name: lclc_ex-n059x-LKP_CK_LSSZP_CK-3000-1934-12.txt
+title: Pret Latvijas hitlerizāciju! Par Latvijas proletariāta vienotu fronti!
+author: LKP CK un LSSZP CK
+date: 1934-12
+print_run: 3000
+typography_name: unk
+production_method: typographic
+original_language: Latvian
+text_language: None
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 684.
+
+text:

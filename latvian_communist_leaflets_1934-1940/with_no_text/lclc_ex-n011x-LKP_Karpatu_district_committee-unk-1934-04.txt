@@ -1,0 +1,14 @@
+id: 11
+file_name: lclc_ex-n011x-LKP_Karpatu_district_committee-unk-1934-04.txt
+title: Kopš 1. maija 1889. g. — 1934. g. starptautiskā proletariāta...
+author: LKP «Karpatu» rajona komiteja
+date: 1934-04
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: None
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 678.
+
+text:
