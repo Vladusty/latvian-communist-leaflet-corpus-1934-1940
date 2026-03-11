@@ -58,9 +58,9 @@ Some leaflets exist in multiple variants issued by different organizations or pr
 
 Such variants share the same numerical identifier but are distinguished by letter suffixes.
 
-Example:
-- id: 12a
-- id: 12b
+Example:  
+id: 12a  
+id: 12b
 
 
 These records represent different versions of the same leaflet or closely related publications.
