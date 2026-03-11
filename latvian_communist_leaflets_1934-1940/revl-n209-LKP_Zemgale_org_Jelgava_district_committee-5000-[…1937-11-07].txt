@@ -1,6 +1,6 @@
 id: 209
 file_name: revl-n209-LKP_Zemgale_org_Jelgava_district_committee-5000-[…1937-11-07].txt
-title: LKP Zemgales apgabala Jelgavas rajona komitejas lapiņa Lielās Oktobra sociālistiskās revolūcijas 20. gadadiena, ar aicinājumu strādniekiem un darba zemniekiem sakļauties ap Komunistisko partiju cīņai par Padomju Latviju [tulkota no krievu valodas]
+title: LKP Zemgales apgabala Jelgavas rajona komitejas lapiņa Lielās Oktobra sociālistiskās revolūcijas 20. gadadiena, ar aicinājumu strādniekiem un darba zemniekiem sakļauties ap Komunistisko partiju cīņai par Padomju Latviju
 author: LKP Zemgales apgabala Jelgavas rajona komiteja
 date: […1937-11-07]
 print_run: 5000

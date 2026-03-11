@@ -1,6 +1,6 @@
 id: 99b
 file_name: revl-n099b-LKP_CK-3000-[…1935-01-20].txt
-title: LKP CK lapiņa par fašistu izrēķināšanos ar politieslodzītajiem, ar aicinājumu darbaļaudīm nepieļaut politieslodzīto stāvokļa pasliktināšanu [izdota arī krievu valodā]
+title: LKP CK lapiņa par fašistu izrēķināšanos ar politieslodzītajiem, ar aicinājumu darbaļaudīm nepieļaut politieslodzīto stāvokļa pasliktināšanu
 author: LKP CK
 date: […1935-01-20]
 print_run: 3000

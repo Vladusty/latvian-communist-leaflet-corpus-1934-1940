@@ -1,6 +1,6 @@
 id: 159
 file_name: revl-n159-SP_CK-8000-1935-09.txt
-title: Latvijas Sarkanās Palīdzības CK uzsaukums darbaļaudīm cīnīties pret politieslodzīto spīdzināšanu cietumos [izdota arī krievu valodā]
+title: Latvijas Sarkanās Palīdzības CK uzsaukums darbaļaudīm cīnīties pret politieslodzīto spīdzināšanu cietumos
 author: Latvijas Sarkanās Palīdzības CK
 date: 1935-09
 print_run: 8000

@@ -1,6 +1,6 @@
 id: 195
 file_name: revl-n195-SP_Daugavpils_city_committee-200-1936-11.txt
-title: Latvijas Sarkanās Palīdzības Daugavpils pilsētas komitejas uzsaukums Latvijas iedzīvotājiem atbalstīt palīdzības kampaņu politieslodzītajiem [tulkota no krievu valodas]
+title: Latvijas Sarkanās Palīdzības Daugavpils pilsētas komitejas uzsaukums Latvijas iedzīvotājiem atbalstīt palīdzības kampaņu politieslodzītajiem
 author: Latvijas Sarkanās Palīdzības Daugavpils pilsētas komiteja
 date: 1936-11
 print_run: 200

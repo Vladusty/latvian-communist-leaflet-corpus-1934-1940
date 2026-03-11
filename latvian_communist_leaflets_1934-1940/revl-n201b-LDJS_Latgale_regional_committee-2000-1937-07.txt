@@ -1,6 +1,6 @@
 id: 201b
 file_name: revl-n201b-LDJS_Latgale_regional_committee-2000-1937-07.txt
-title: LDJS Latgales apgabala komitejas aicinājums Latgales darba jaunatnei stāties Latvijas Darba jaunatnes savienībā cīņai pret fašistisko režīmu Latvijā [tulkota no krievu valodas]
+title: LDJS Latgales apgabala komitejas aicinājums Latgales darba jaunatnei stāties Latvijas Darba jaunatnes savienībā cīņai pret fašistisko režīmu Latvijā
 author: LDJS Latgales apgabala komiteja
 date: 1937-07
 print_run: 2000

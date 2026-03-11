@@ -1,6 +1,6 @@
 id: 218
 file_name: revl-n218-LDJS_Latgale_regional_committee-1000-[…1938-05-15].txt
-title: LDJS Latgales apgabala komitejas lapiņa, kas atmasko fašistiskās Ulmaņa diktatūras 4 gadu valdīšanas sekas [tulkota no krievu valodas]
+title: LDJS Latgales apgabala komitejas lapiņa, kas atmasko fašistiskās Ulmaņa diktatūras 4 gadu valdīšanas sekas
 author: LDJS Latgales apgabala komiteja
 date: […1938-05-15]
 print_run: 1000
