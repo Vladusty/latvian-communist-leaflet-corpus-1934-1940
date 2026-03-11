@@ -2,7 +2,7 @@ id: 156
 file_name: lclc_ex-n156x-LKP_Latgale_regional_committee-3000-[…1937-04-26].txt
 title: Visiem darbaļaudīm!
 author: LKP Latgales apgabala komiteja
-date: [...1937-04-26]
+date: […1937-04-26]
 print_run: 3000
 typography_name: unk
 production_method: rotator

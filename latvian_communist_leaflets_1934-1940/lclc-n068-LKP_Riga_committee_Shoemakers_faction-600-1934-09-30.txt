@@ -1,5 +1,5 @@
 id: 68
-file_name: lclc-n068-LKP_Riga_committee_shoemakers_faction-1934-09-30.txt
+file_name: lclc-n068-LKP_Riga_committee_Shoemakers_faction-600-1934-09-30.txt
 title: LKP Rīgas komitejas apavnieku frakcijas uzsaukums apavniekiem organizēti pieprasīt darba atalgojuma uzlabošanu
 author: LKP Rīgas komitejas apavnieku frakcija
 date: 1934-09-30

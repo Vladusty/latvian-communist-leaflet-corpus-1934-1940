@@ -1,5 +1,5 @@
 id: 137
-file_name: lclc-n137-LKP_Riga_committee -6000-1935-05-05.txt
+file_name: lclc-n137-LKP_Riga_committee-6000-1935-05-05.txt
 title: LKP Rīgas komitejas lapiņa par fašistiskās valdības darbaļaudīm naidīgo politiku
 author: LKP Rīgas komiteja
 date: 1935-05-05

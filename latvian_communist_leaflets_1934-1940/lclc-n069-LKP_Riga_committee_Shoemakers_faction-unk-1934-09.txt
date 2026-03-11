@@ -1,5 +1,5 @@
 id: 69
-file_name: lclc-n069-LKP_Riga_committee_shoemakers_faction-1934-09.txt
+file_name: lclc-n069-LKP_Riga_committee_Shoemakers_faction-unk-1934-09.txt
 title: LKP Rīgas komitejas apavnieku frakcijas aicinājums Latvijas Sociālistiskās strādnieku-zemnieku partijas un bijušo sociāldemokrātisko arodbiedrību biedriem gatavoties vispārējam apavnieku streikam
 author: LKP Rīgas komitejas apavnieku frakcija
 date: 1934-09

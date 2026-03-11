@@ -1,8 +1,8 @@
 id: 12b
-file_name: lclc-n012b-LKP_Daugavpils_city_committee-1000-[…1934-02-24].txt
+file_name: lclc-n012b-LKP_Daugavpils_city_committee-1000-1934-02.txt
 title: LKP Daugavpils pilsētas komitejas uzsaukums darbaļaudīm cīnīties vienotā revolucionārā frontē par bezdarbnieku apdrošināšanu, par strādnieku un zemnieku valdību
 author: LKP Daugavpils pilsētas komiteja
-date: […1934-02-24]
+date: 1934-02
 print_run: 1000
 typography_name: Spartaks
 production_method: rotator

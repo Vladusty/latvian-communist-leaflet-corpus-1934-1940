@@ -1,5 +1,5 @@
 id: 141
-file_name: lclc-n141-LKP_Daugavpils_committee_LKJS_Daugavpils_committee-3000-[…1935-05-15].txt
+file_name: lclc-n141-LKP_Daugavpils_city_committee_LKJS_Daugavpils_city_committee-3000-[…1935-05-15].txt
 title: LKP un LKJS Daugavpils komitejas lapiņa sakarā ar fašistiskās diktatūras gadadienas svinībām
 author: LKP un LKJS Daugavpils pilsētas komiteja
 date: […1935-05-15]

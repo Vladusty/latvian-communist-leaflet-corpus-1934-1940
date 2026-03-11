@@ -1,5 +1,5 @@
 id: 129
-file_name: lclc-n129-VEF_revolutionary_unit_committee-200-[…1935-04-13].txt
+file_name: lclc-n129-LKP_LSSZP_LKJS_LSJS_VEF_unit_committee-200-[…1935-04-13].txt
 title: VEF revolucionārās vienības komitejas 1. Maija uzsaukums strādniekiem solidarizēties ar starptautisko proletariātu cīņā par ekonomiskā stāvokļa uzlabošanu
 author: LKP, LSSZP, LKJS un LSJS VEFa vienības komiteja
 date: […1935-04-13]

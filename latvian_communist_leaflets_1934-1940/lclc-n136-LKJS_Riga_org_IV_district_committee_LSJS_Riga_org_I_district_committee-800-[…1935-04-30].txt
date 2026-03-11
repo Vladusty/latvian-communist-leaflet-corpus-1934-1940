@@ -1,5 +1,5 @@
 id: 136
-file_name: lclc-n136-LKJS_Riga_org_IV_district_unit_committee_LSJS_Riga_org_I_district_unit_committee-800-[…1935-04-30].txt
+file_name: lclc-n136-LKJS_Riga_org_IV_district_committee_LSJS_Riga_org_I_district_committee-800-[…1935-04-30].txt
 title: LKJS Rīgas organizācijas IV rajona un LSJS Rīgas organizācijas I rajona vienības komitejas 1. Maija uzsaukums jaunatnei cīnīties par fašisma gāšanu un sociālistiskās iekārtas nodibināšanu Latvijā
 author: LKJS Rīgas organizācijas IV rajona un LSJS Rīgas organizācijas I rajona vienības komiteja
 date: […1935-04-30]

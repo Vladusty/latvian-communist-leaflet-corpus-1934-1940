@@ -1,5 +1,5 @@
 id: 204
-file_name: lclc-n204-LKP_Jelgava_district_committee-15000-1937-08-01.txt
+file_name: lclc-n204-LKP_Zemgale_org_Jelgava_district_committee-15000-1937-08-01.txt
 title: LKP Jelgavas rajona komitejas lapiņa Starptautiskajā pretkara dienā, ar aicinājumu Zemgales darbaļaudīm cīnīties pret karā briesmām
 author: LKP Zemgales apgabala Jelgavas rajona komiteja
 date: 1937-08-01
