@@ -1,5 +1,5 @@
 id: 71
-file_name: revl-n071-LKP_Riga_org_X_district_committee-1934-09.txt
+file_name: revl-n071-LKP_Riga_org_X_district_committee-100-1934-09.txt
 title: LKP Rīgas organizācijas X rajona komitejas uzsaukums stikla fabrikas «Ausma» strādniekiem turpināt iesākto streiku līdz galīgai uzvarai
 author: LKP Rīgas organizācijas X rajona komiteja
 date: 1934-09

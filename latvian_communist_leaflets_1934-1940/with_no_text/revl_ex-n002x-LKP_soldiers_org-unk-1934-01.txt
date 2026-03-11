@@ -1,5 +1,5 @@
 id: 2
-file_name: revl_no_text-n002-LKP_soldiers_org-unk-1934-01.txt
+file_name: revl_no_text-n002x-LKP_soldiers_org-unk-1934-01.txt
 title: Visiem 4. V[almieras] k[ājnieku] pulka darba kareivjiem!
 author: LKP kareivju organizācija
 date: 1934-01

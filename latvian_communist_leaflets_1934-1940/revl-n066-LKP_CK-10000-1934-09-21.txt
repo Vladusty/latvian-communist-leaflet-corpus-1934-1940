@@ -1,5 +1,5 @@
 id: 66
-file_name: revl-n066-LKP_CK-1934-09-21.txt
+file_name: revl-n066-LKP_CK-10000-1934-09-21.txt
 title: LKP CK lapiņa par imperiālistu gatavošanos intervencijai pret PSRS, ar aicinājumu darbaļaudīm cīnīties pret Latvijas pārvēršanu par fašistiskās Vācijas kara placdarmu
 author: LKP CK
 date: 1934-09-21

@@ -1,5 +1,5 @@
 id: 1
-file_name: revl_no_text-n001-LKP_soldiers_org-unk-1934-01.txt
+file_name: revl_no_text-n001x-LKP_soldiers_org-unk-1934-01.txt
 title: Visiem 5. C[ēsu] k[ājnieku] pulka kareivjiem!
 author: LKP kareivju organizācija
 date: 1934-01

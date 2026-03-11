@@ -1,5 +1,5 @@
 id: 70
-file_name: revl-n070-LKP_Riga_committee-[…1934-09-03].txt
+file_name: revl-n070-LKP_Riga_committee-1500-[…1934-09-03].txt
 title: LKP Rīgas komitejas lapiņa, kas brīdina strādniekus sargāties no provokatoriem
 author: LKP Rīgas komiteja
 date: […1934-09-03]

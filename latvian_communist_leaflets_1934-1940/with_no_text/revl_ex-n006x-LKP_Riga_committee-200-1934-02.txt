@@ -1,5 +1,5 @@
 id: 6
-file_name: revl_ex-n006-LKP_Riga_committee-200-1934-02.txt
+file_name: revl_ex-n006x-LKP_Riga_committee-200-1934-02.txt
 title: Nepieciešams organizēt bezdarbniekus!
 author: LKP Rīgas komiteja
 date: 1934-02

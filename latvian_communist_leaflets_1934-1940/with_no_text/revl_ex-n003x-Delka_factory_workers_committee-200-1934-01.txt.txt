@@ -1,5 +1,5 @@
 id: 3
-file_name: revl_ex-n003-Delka_factory_workers_committee-200-1934-01.txt
+file_name: revl_ex-n003x-Delka_factory_workers_committee-200-1934-01.txt
 title: Biedri "Delkas" strādnieki un strādnieces!
 author: Fabrikas "Delka" strādnieku komiteja
 date: 1934-01

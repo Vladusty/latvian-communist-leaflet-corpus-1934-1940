@@ -1,5 +1,5 @@
 id: 67
-file_name: revl-n067-LKP_Riga_committee-1934-09-24.txt
+file_name: revl-n067-LKP_Riga_committee-1000-1934-09-24.txt
 title: LKP Rīgas komitejas lapiņa par fašistu izrēķināšanos ar saeimas strādnieku-zemnieku frakcijas deputātiem, ar aicinājumu darbaļaudīm cīnīties par viņu atbrīvošanu
 author: LKP Rīgas komiteja
 date: 1934-09-24

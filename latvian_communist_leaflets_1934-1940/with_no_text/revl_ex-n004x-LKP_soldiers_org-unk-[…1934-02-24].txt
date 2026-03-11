@@ -1,5 +1,5 @@
 id: 4
-file_name: revl_ex-n004-LKP_soldiers_org-unk-[…1934-02-24].txt
+file_name: revl_ex-n004x-LKP_soldiers_org-unk-[…1934-02-24].txt
 title: Visiem kareivjiem!
 author: LKP kareivju organizācija
 date: […1934-02-24]
