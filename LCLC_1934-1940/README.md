@@ -4,7 +4,7 @@ Digital corpus of Latvian communist underground leaflets (1934–1940) with stru
 
 ## Description
 
-The **Latvian Communist Leaflet Corpus (1934–1940)** (hereafter **LCLC**) is a structured digital corpus of underground political leaflets produced by illegal communist organizations during the authoritarian period of the Latvian Republic following the coup of Kārlis Ulmanis on 15 May 1934.
+The **Latvian Communist Leaflet Corpus (1934–1940)** (hereafter **LCLC**) is a structured digital corpus of underground political leaflets produced by illegal communist organizations in Latvia between **1 January 1934 and July 1940**, covering both the final months of the parliamentary period and the authoritarian regime established after the coup of Kārlis Ulmanis on 15 May 1934.
 
 The corpus contains transcribed texts of communist propaganda leaflets as well as records for leaflets listed in the section "krājumā neievietoto lapiņu saraksts" ("list of leaflets not included in the edition") of the source edition but whose texts are not reproduced there.
 
