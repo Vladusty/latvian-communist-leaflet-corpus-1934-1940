@@ -1,5 +1,5 @@
 id: 15
-file_name: lclc_ex-n015x-LKP_CK-unk-[…1934-05-15].txt
+file_name: lclc_ex-n015x-LKP_CK-10000-[…1934-05-15].txt
 title: Bezdarba strādnieki pilsētā un uz laukiem! Bezdarba inteliģence!
 author: LKP CK
 date: […1934-05-15]
