@@ -2,7 +2,7 @@ id: 100b
 file_name: revl-n100b-LKP_CK_LKJS_CK_LSSZP_CK_LSJS_CK-4000-1935-02.txt
 title: LKP CK, LKJS CK, LSSZP CK un LSJS CK uzsaukums Latvijas darbaļaudīm
 author: LKP CK, LKJS CK, LSSZP CK un LSJS CK
-date: 1935-01-30
+date: 1935-02
 print_run: 4000
 typography_name: Kollomans Vallišs
 production_method: rotator
