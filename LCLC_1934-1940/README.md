@@ -132,6 +132,18 @@ Metadata fields appear at the beginning of the file and the leaflet text begins 
 
 ---
 
+## Additional derived data
+
+The repository also includes a manually compiled table of inferred leaflet locations:
+
+`lclc_manual_location_table.csv`
+
+This file is not part of the core source-based metadata.  
+The location assignments were made manually by the compiler on the basis of issuing organizations and, in some cases, leaflet content.  
+They should therefore be treated as approximate research annotations rather than source metadata.
+
+---
+
 ## File naming convention
 
 Leaflet filenames follow the pattern:
