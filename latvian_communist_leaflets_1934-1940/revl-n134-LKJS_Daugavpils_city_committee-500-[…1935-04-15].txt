@@ -2,7 +2,7 @@ id: 134
 file_name: revl-n134-LKJS_Daugavpils_city_committee-500-[…1935-04-15].txt
 title: LKJS Daugavpils komitejas 1. Maija uzsaukums bezdarbniekiem vēlēt bezdarbnieku komitejas cīņai par savām prasībām
 author: LKJS Daugavpils pilsētas komiteja
-date: 1935-04
+date: […1935-04-15]
 print_run: 500
 typography_name: Spartaks
 production_method: rotator
