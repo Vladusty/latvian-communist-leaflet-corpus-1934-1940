@@ -2,8 +2,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 1,Labour,,,1934
 2,Other,,Army/Soldiers,1934
 3,Aid,,,1934
-4a,Labour,,,1934
-4b,Labour,,,1934
+4,Labour,,,1934
 5,Labour,,,1934
 6,Labour,,,1934
 7,Aid,,,1934
@@ -99,8 +98,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 97,Labour,,,1935
 98,Labour,,,1935
 99,Aid,,Repression,1935
-100a,Aid,Other,Telman,1935
-100b,Aid,Other,Telman,1935
+100,Aid,Other,Telman,1935
 101,Labour,,,1935
 102,Foreign/War ,,,1935
 103,Labour,,,1935
@@ -130,8 +128,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 127,Aid,,,1935
 128,Aid,,,1935
 129,Labour,,,1935
-130a,Labour,,,1935
-130b,Labour,,,1935
+130,Labour,,,1935
 131,Youth,,,1935
 132,Labour,,,1935
 133,Youth,Labour,,1935
@@ -161,13 +158,11 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 157,Labour,,,1935
 158,Youth,,,1935
 159,Aid,,,1935
-160a,Foreign/War,,,1935
-160b,Foreign/War,,,1935
+160,Foreign/War,,,1935
 161,Foreign/War,,,1935
 162,Foreign/War,,,1935
 163,Foreign/War,Other,Celebration,1935
-164a,Other,,Brivibas piemineklis,1935
-164b,Other,,Brivibas piemineklis,1935
+164,Other,,Brivibas piemineklis,1935
 165,Aid,,,1935
 166,Aid,,,1935
 167,Labour,,,1936
@@ -176,8 +171,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 170,Labour,,,1936
 171,Foreign/War,,,1936
 172,Aid,,,1936
-173a,Youth,,,1936
-173b,Youth,,,1936
+173,Youth,,,1936
 174,Foreign/War,,,1936
 175,Foreign/War,,,1936
 176,Youth,,,1936
@@ -194,31 +188,25 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 187,Spain,,,1936
 188,Spain,,,1936
 189,Spain,Aid,Spain Aid,1936
-190a,Spain,,,1936
-190b,Spain,,,1936
+190,Spain,,,1936
 191,Labour,,,1936
 192,Youth,,,1936
 193,Spain,,,1936
-194a,Labour,,,1936
-194b,Labour,,,1937
+194,Labour,,,1936
 195,Aid,,,1936
 196,Spain,,,1937
 197,Youth,,,1937
 198,Foreign/War,,,1937
-199a,Labour,,,1937
-199b,Labour,,,1937
+199,Labour,,,1937
 200,Labour,,,1937
-201a,Youth,,,1937
-201b,Youth,,,1937
-202a,Labour,,,1937
-202b,Labour,,,1937
+201,Youth,,,1937
+202,Labour,,,1937
 203,Youth,Labour,,1937
 204,Foreign/War,,,1937
 205,Labour,,,1937
 206,Labour,,,1937
 207,Foreign/War,,Trotskyists,1937
-208a,Foreign/War,Other,Celebration,1937
-208b,Foreign/War,Other,Celebration,1937
+208,Foreign/War,Other,Celebration,1937
 209,Foreign/War,,,1937
 210,Foreign/War,Spain,,1937
 211,Foreign/War,Spain,,1938
@@ -226,12 +214,10 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 213,Youth,Labour,Other,1938
 214,Youth,Labour,,1938
 215,Foreign/War,,,1938
-216a,Foreign/War,Labour,,1938
-216b,Foreign/War,Labour,,1938
+216,Foreign/War,Labour,,1938
 217,Foreign/War,,,1938
 218,Other,,,1938
-219a,Foreign/War,,,1938
-219b,Foreign/War,,,1938
+219,Foreign/War,,,1938
 220,Labour,,Latgale,1938
 221,Foreign/War,,,1938
 222,Foreign/War,,,1938
@@ -244,8 +230,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 229,Foreign/War,,,1939
 230,Foreign/War,,,1939
 231,Youth,,,1939
-232a,Foreign/War,,,1939
-232b,Foreign/War,,,1939
+232,Foreign/War,,,1939
 233,Foreign/War,,,1939
 234,Foreign/War,,,1939
 235,Youth,,,1939
