@@ -1,7 +1,7 @@
 id: 48
 file_name: lclc-n048-LKP_CK-5000-[…1934-07-22].txt
 title: LKP CK lapiņa 20. gadadienā kopš pirmā pasaules kara sākuma, ar aicinājumu darbaļaudīm sakļauties cīņai pret fašismu un kara gatavošanu
-author: Latvijas Sarkanās Palīdzības Centrālā komiteja
+author: LKP CK
 date: […1934-07-22]
 print_run: 5000
 typography_name: Spartaks

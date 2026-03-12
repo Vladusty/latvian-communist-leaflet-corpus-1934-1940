@@ -1,7 +1,7 @@
 id: 113
 file_name: lclc_ex-n113x-SP_CK-4000-[…1935-11-18].txt
 title: Visai Latvijas darba tautai! Visai progresīvai sabiedrībai!
-author: Latvijas Sarkanās Palīdzības Centrālā komiteja
+author: Latvijas Sarkanās Palīdzības CK
 date: […1935-11-18]
 print_run: 4000
 typography_name: unk

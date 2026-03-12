@@ -1,7 +1,7 @@
 id: 92
 file_name: lclc_ex-n092x-SP_CK-5000-[…1935-05-01].txt
 title: Arī politieslodzītie 1. Maijā demonstrē!
-author: Latvijas Sarkanās Palīdzības Centrālā komiteja
+author: Latvijas Sarkanās Palīdzības CK
 date: […1935-05-01]
 print_run: 5000
 typography_name: unk
