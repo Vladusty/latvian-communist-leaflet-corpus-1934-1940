@@ -1,0 +1,14 @@
+id: 152
+file_name: lclc_ex-n152x-LKP_soldiers_org-unk-1936.txt
+title: Cīņā pret fašisma uzbrukumiem!
+author: LKP kareivju organizācija
+date: 1936
+print_run: unk
+typography_name: unk
+production_method: rotator
+original_language: Latvian
+text_language: None
+is_translation: False
+source: Latvijas KP CK Partijas vēstures institūts — PSKP CK Marksisma-ļeņinisma institūta filiāle, LKP, LKJS un Sarkanās Palīdzības revolucionārās lapiņas: 1920.–1940. 3. daļa (Latvijas Valsts izdevniecība, 1963), 697.
+
+text:
