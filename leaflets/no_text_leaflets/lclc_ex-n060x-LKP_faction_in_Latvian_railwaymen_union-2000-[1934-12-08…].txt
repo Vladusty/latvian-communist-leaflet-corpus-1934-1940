@@ -1,7 +1,7 @@
 id: 60
 file_name: lclc_ex-n060x-LKP_faction_in_Latvian_railwaymen_union-2000-[1934-12-08…].txt
 title: Biedri dzelzceļnieki!
-author: LKP frakcijas «Latvijas dzelzceļnieku savienība»
+author: LKP frakcijas «Latvijas dzelzceļnieku savienībā»
 date: [1934-12-08…]
 print_run: 2000
 typography_name: unk
