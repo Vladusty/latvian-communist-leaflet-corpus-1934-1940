@@ -4,7 +4,7 @@ title: LKP CK un LSSZP CK uzsaukums darbaļaudīm solidarizēties ar Spānijas t
 author: LKP CK un LSSZP CK
 date: 1936-09
 print_run: 5000
-typography_name: Kollomans Vallišs
+typography_name: Kolomans Vallišs
 production_method: rotator
 original_language: Latvian
 text_language: Latvian

@@ -4,7 +4,7 @@ title: LKP CK, LKJS CK, LSSZP CK un LSJS CK uzsaukums darbaļaudīm organizēt p
 author: LKP CK, LKJS CK, LSSZP CK un LSJS CK
 date: 1935-02-08
 print_run: 4000
-typography_name: Kollomans Vallišs
+typography_name: Kolomans Vallišs
 production_method: rotator
 original_language: Latvian
 text_language: Latvian

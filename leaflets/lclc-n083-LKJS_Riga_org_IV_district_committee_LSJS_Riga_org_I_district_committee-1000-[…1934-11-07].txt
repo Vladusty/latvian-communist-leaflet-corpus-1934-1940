@@ -4,7 +4,7 @@ title: LKJS Rīgas organizācijas IV rajona un LSJS Rīgas organizācijas I rajo
 author: LKJS Rīgas organizācijas IV rajona un LSJS Rīgas organizācijas I rajona vienības komiteja
 date: […1934-11-07]
 print_run: 1000
-typography_name: Spiestuve «Kollomans Vallišs»
+typography_name: Kolomans Vallišs
 production_method: rotator
 original_language: Latvian
 text_language: Latvian

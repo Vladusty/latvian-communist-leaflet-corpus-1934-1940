@@ -4,7 +4,7 @@ title: LKJS un LSJS Rīgas skolēnu vienotās cīņas komitejas uzsaukums skolni
 author: LKJS un LSJS Rīgas skolēnu vienotās cīņas komiteja
 date: 1935-03
 print_run: 1000
-typography_name: Kollomans Vallišs
+typography_name: Kolomans Vallišs
 production_method: rotator
 original_language: Latvian
 text_language: Latvian

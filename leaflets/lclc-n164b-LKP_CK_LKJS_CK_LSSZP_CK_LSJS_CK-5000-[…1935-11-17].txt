@@ -4,7 +4,7 @@ title: LKP CK, LKJS CK, LSSZP CK un LSJS CK uzsaukums darbaļaudīm boikotēt fa
 author: LKP CK, LKJS CK, LSSZP CK un LSJS CK
 date: […1935-11-17]
 print_run: 5000
-typography_name: Kollomans Vallišs
+typography_name: Kolomans Vallišs
 production_method: rotator
 original_language: Latvian
 text_language: Latvian

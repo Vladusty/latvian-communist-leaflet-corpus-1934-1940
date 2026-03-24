@@ -4,7 +4,7 @@ title: LKP CK un LSSZP CK lapiņa par noslēgto līgumu starp Latvijas Komunisti
 author: LKP CK un LSSZP CK
 date: 1935-01
 print_run: 2000
-typography_name: Kollomans Vallišs
+typography_name: Kolomans Vallišs
 production_method: rotator
 original_language: Latvian
 text_language: Latvian
