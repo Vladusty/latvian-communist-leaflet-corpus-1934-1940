@@ -1,6 +1,6 @@
 id ,manual_topic ,manual_topic_2,manual_topic_3,year
 1,Labour,,,1934
-2,Other,,Army/Soldiers,1934
+2,Foreign/War,Other,Army/Soldiers,1934
 3,Aid,,,1934
 4,Labour,,,1934
 5,Labour,,,1934
@@ -54,11 +54,11 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 53,Foreign/War,,,1934
 54,Labour,,,1934
 55,Labour,,,1934
-56,Other,,Army/Soldiers,1934
+56,Foreign/War,Other,Army/Soldiers,1934
 57,Youth,,,1934
 58,Youth,Foreign/War,,1934
 59,Aid,,Jail,1934
-60,Other,,Lazar Bank,1934
+60,Labour,Other,Lazar Bank,1934
 61,Youth,,,1934
 62,Youth,,,1934
 63,Labour,,,1934
@@ -68,22 +68,22 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 67,Aid,,Repression,1934
 68,Labour,,,1934
 69,Labour,,,1934
-70,Other,,Provocator,1934
+70,Labour,Other,Provocator,1934
 71,Labour,,,1934
 72,Youth,,,1934
 73,Youth,,,1934
 74,Youth,,,1934
 75,Youth,,,1934
 76,Foreign/War ,Labour,,1934
-77,Other,,,1934
+77,Labour,Other,,1934
 78,Labour,,,1934
 79,Aid,,Repression,1934
 80,Labour,,,1934
 81,Labour,,,1934
-82,Other,,Celebration,1934
+82,Labour,Other,Celebration,1934
 83,Youth,,,1934
 84,Youth,,,1934
-85,Other,,General,1934
+85,Youth,Other,General,1934
 86,Aid,,,1934
 87,Aid,,,1934
 88,Labour,,,1934
@@ -91,9 +91,9 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 90,Labour,,,1934
 91,Labour,,,1934
 92,Labour,,,1934
-93,Other,,Latgale,1934
+93,Foreign/War ,Other,Latgale,1934
 94,Aid,,,1934
-95,Other,,Celebration,1935
+95,Foreign/War ,Other,Celebration,1935
 96,Labour,,,1935
 97,Labour,,,1935
 98,Labour,,,1935
@@ -122,7 +122,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 121,Women,,,1935
 122,Women,,,1935
 123,Women,,,1935
-124,Other,,,1935
+124,Labour,Other,Paris Commune,1935
 125,Aid,,,1935
 126,Youth,,,1935
 127,Aid,,,1935
@@ -135,7 +135,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 134,Labour,,,1935
 135,Labour,,,1935
 136,Youth,,,1935
-137,Other,,Small,1935
+137,Labour,Other,Repression,1935
 138,Women,,,1935
 139,Youth,Other,Celebration,1935
 140,Labour,,,1935
@@ -162,7 +162,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 161,Foreign/War,,,1935
 162,Foreign/War,,,1935
 163,Foreign/War,Other,Celebration,1935
-164,Other,,Brivibas piemineklis,1935
+164,Foreign/War,Other,Freedom Monument,1935
 165,Aid,,,1935
 166,Aid,,,1935
 167,Labour,,,1936
@@ -176,18 +176,18 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 175,Foreign/War,,,1936
 176,Youth,,,1936
 177,Labour,,,1936
-178,Other,,15 May,1936
-179,Other,,15 May,1936
-180,Other,Labour,15 May,1936
+178,Aid,Other,15 May,1936
+179,Foreign/War,Other,15 May,1936
+180,Labour,Other,15 May,1936
 181,Youth,,,1936
 182,Aid,,,1936
 183,Aid,,,1936
 184,Youth,,,1936
-185,Other,,,1936
+185,Labour,Other,,1936
 186,Foreign/War,,,1936
 187,Spain,,,1936
 188,Spain,,,1936
-189,Spain,Aid,Spain Aid,1936
+189,Spain,Aid,,1936
 190,Spain,,,1936
 191,Labour,,,1936
 192,Youth,,,1936
@@ -216,7 +216,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 215,Foreign/War,,,1938
 216,Foreign/War,Labour,,1938
 217,Foreign/War,,,1938
-218,Other,,,1938
+218,Youth,Labour,Other,1938
 219,Foreign/War,,,1938
 220,Labour,,Latgale,1938
 221,Foreign/War,,,1938
