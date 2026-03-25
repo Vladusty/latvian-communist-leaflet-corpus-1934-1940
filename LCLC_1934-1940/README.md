@@ -44,13 +44,13 @@ The corpus contains:
 
 For 251 unique leaflet texts, the corpus contains:
 
-- **145425 words**
-- **147210 tokens**
+- **146929 words**
+- **517677 tokens**
 
-Average leaflet length: **579.38 words**  
-Median leaflet length: **517 words**
+Average leaflet length: **585.37 words**  
+Median leaflet length: **527 words**
 
-Word counts are based on Unicode letter sequences extracted from the leaflet texts.
+Word counts are based on Unicode letter sequences extracted from the leaflet texts. Token counts are calculated using the tiktoken library with the cl100k_base encoding, processing only the content following the "text:" marker in each file.
 
 ---
 
