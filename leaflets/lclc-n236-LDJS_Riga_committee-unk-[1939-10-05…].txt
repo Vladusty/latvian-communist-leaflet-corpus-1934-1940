@@ -1,7 +1,7 @@
 id: 236
 file_name: lclc-n236-LDJS_Riga_committee-unk-[1939-10-05…].txt
-title: LDJS Rīgas komiteja
-author: No LDJS Rīgas komitejas lapiņas par PSRS un Latvijas savstarpējās palīdzības pakta politisko nozīmi, ar aicinājumu Rīgas darba jaunatnei turpināt cīņu pret fašistisko režīmu, par saimniecisku vienošanos ar Padomju Savienību
+title: No LDJS Rīgas komitejas lapiņas par PSRS un Latvijas savstarpējās palīdzības pakta politisko nozīmi, ar aicinājumu Rīgas darba jaunatnei turpināt cīņu pret fašistisko režīmu, par saimniecisku vienošanos ar Padomju Savienību
+author: LDJS Rīgas komiteja
 date: [1939-10-05…]
 print_run: unk
 typography_name: unk
