@@ -233,7 +233,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Citation
 
-For citation details, including BibTeX and other formats, please refer to the CLARIN-LV repository entry.
+For citation details and BibTeX, please refer to the CLARIN-LV repository entry.
 
 ---
 
