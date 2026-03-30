@@ -45,7 +45,7 @@ The corpus contains:
 For 251 unique leaflet texts, the corpus contains:
 
 - **146929 words**
-- **517677 tokens**
+- **517445 tokens**
 
 Average leaflet length: **585.37 words**  
 Median leaflet length: **527 words**
