@@ -64,7 +64,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 63,Labour,,,1934
 64,Youth,,,1934
 65,Youth,,,1934
-66,Foreign/War ,,,1934
+66,Foreign/War,,,1934
 67,Aid,,Repression,1934
 68,Labour,,,1934
 69,Labour,,,1934
@@ -74,8 +74,8 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 73,Youth,,,1934
 74,Youth,,,1934
 75,Youth,,,1934
-76,Foreign/War ,Labour,,1934
-77,Labour,Other,Foreign/War ,1934
+76,Foreign/War,Labour,,1934
+77,Labour,Other,Foreign/War,1934
 78,Labour,,,1934
 79,Aid,,Repression,1934
 80,Labour,,,1934
@@ -91,16 +91,16 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 90,Labour,,,1934
 91,Labour,,,1934
 92,Labour,,,1934
-93,Foreign/War ,Other,Latgale,1934
+93,Foreign/War,Other,Latgale,1934
 94,Aid,,,1934
-95,Foreign/War ,Other,Celebration,1935
+95,Foreign/War,Other,Celebration,1935
 96,Labour,,,1935
 97,Labour,,,1935
 98,Labour,,,1935
 99,Aid,,Repression,1935
 100,Aid,Other,Telman,1935
 101,Labour,,,1935
-102,Foreign/War ,,,1935
+102,Foreign/War,,,1935
 103,Labour,,,1935
 104,Youth,Labour,,1935
 105,Aid,,Murins,1935
@@ -112,7 +112,7 @@ id ,manual_topic ,manual_topic_2,manual_topic_3,year
 111,Labour,,,1935
 112,Aid,,Murins,1935
 113,Aid,,Murins,1935
-114,Foreign/War ,,,1935
+114,Foreign/War,,,1935
 115,Aid,,,1935
 116,Labour,,Housing,1935
 117,Labour,,,1935
