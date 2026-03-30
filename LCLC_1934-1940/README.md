@@ -233,11 +233,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Citation
 
-If you use this dataset, please cite:
-
-Babaņins, Vladislavs. 2026. *Latvian Communist Leaflet Corpus (1934–1940).* CLARIN-LV.
-
-For a BibTeX citation, see the CLARIN-LV repository entry.
+For citation details and BibTeX, see the CLARIN-LV repository entry.
 
 ---
 
